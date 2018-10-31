@@ -1,0 +1,56 @@
+Key facts
+
+Mobile phone use is ubiquitous with an estimated 6.9 billion subscriptions globally
+The electromagnetic fields produced by mobile phones are classified by the International Agency for Research on Cancer as possibly carcinogenic to humans.
+Studies are ongoing to more fully assess potential long-term effects of mobile phone use.
+WHO will conduct a formal risk assessment of all studied health outcomes from radiofrequency fields exposure by 2016.
+
+
+
+Mobile or cellular phones are now an integral part of modern telecommunications. In many countries, over half the population use mobile phones and the market is growing rapidly. In 2014, there is an estimated 6.9 billion subscriptions globally. In some parts of the world, mobile phones are the most reliable or the only phones available.
+
+
+Given the large number of mobile phone users, it is important to investigate, understand and monitor any potential public health impact.
+
+Mobile phones communicate by transmitting radio waves through a network of fixed antennas called base stations. Radiofrequency waves are electromagnetic fields, and unlike ionizing radiation such as X-rays or gamma rays, can neither break chemical bonds nor cause ionization in the human body. 
+Exposure levels
+
+Mobile phones are low-powered radiofrequency transmitters, operating at frequencies between 450 and 2700 MHz with peak powers in the range of 0.1 to 2 watts. The handset only transmits power when it is turned on. The power (and hence the radiofrequency exposure to a user) falls off rapidly with increasing distance from the handset. A person using a mobile phone 30–40 cm away from their body – for example when text messaging, accessing the Internet, or using a “hands free” device – will therefore have a much lower exposure to radiofrequency fields than someone holding the handset against their head. 
+
+In addition to using "hands-free" devices, which keep mobile phones away from the head and body during phone calls, exposure is also reduced by limiting the number and length of calls. Using the phone in areas of good reception also decreases exposure as it allows the phone to transmit at reduced power. The use of commercial devices for reducing radiofrequency field exposure has not been shown to be effective.
+
+Mobile phones are often prohibited in hospitals and on airplanes, as the radiofrequency signals may interfere with certain electro-medical devices and navigation systems.
+Are there any health effects?
+
+A large number of studies have been performed over the last two decades to assess whether mobile phones pose a potential health risk. To date, no adverse health effects have been established as being caused by mobile phone use. 
+Short-term effects
+
+Tissue heating is the principal mechanism of interaction between radiofrequency energy and the human body. At the frequencies used by mobile phones, most of the energy is absorbed by the skin and other superficial tissues, resulting in negligible temperature rise in the brain or any other organs of the body.
+
+A number of studies have investigated the effects of radiofrequency fields on brain electrical activity, cognitive function, sleep, heart rate and blood pressure in volunteers. To date, research does not suggest any consistent evidence of adverse health effects from exposure to radiofrequency fields at levels below those that cause tissue heating. Further, research has not been able to provide support for a causal relationship between exposure to electromagnetic fields and self-reported symptoms, or “electromagnetic hypersensitivity”.
+Long-term effects
+
+Epidemiological research examining potential long-term risks from radiofrequency exposure has mostly looked for an association between brain tumours and mobile phone use. However, because many cancers are not detectable until many years after the interactions that led to the tumour, and since mobile phones were not widely used until the early 1990s, epidemiological studies at present can only assess those cancers that become evident within shorter time periods. However, results of animal studies consistently show no increased cancer risk for long-term exposure to radiofrequency fields.
+
+Several large multinational epidemiological studies have been completed or are ongoing, including case-control studies and prospective cohort studies examining a number of health endpoints in adults. The largest retrospective case-control study to date on adults, Interphone, coordinated by the International Agency for Research on Cancer (IARC), was designed to determine whether there are links between use of mobile phones and head and neck cancers in adults.
+
+The international pooled analysis of data gathered from 13 participating countries found no increased risk of glioma or meningioma with mobile phone use of more than 10 years. There are some indications of an increased risk of glioma for those who reported the highest 10% of cumulative hours of cell phone use, although there was no consistent trend of increasing risk with greater duration of use. The researchers concluded that biases and errors limit the strength of these conclusions and prevent a causal interpretation.
+
+Based largely on these data, IARC has classified radiofrequency electromagnetic fields as possibly carcinogenic to humans (Group 2B), a category used when a causal association is considered credible, but when chance, bias or confounding cannot be ruled out with reasonable confidence.
+
+While an increased risk of brain tumors is not established, the increasing use of mobile phones and the lack of data for mobile phone use over time periods longer than 15 years warrant further research of mobile phone use and brain cancer risk. In particular, with the recent popularity of mobile phone use among younger people, and therefore a potentially longer lifetime of exposure, WHO has promoted further research on this group. Several studies investigating potential health effects in children and adolescents are underway. 
+Exposure limit guidelines
+
+Radiofrequency exposure limits for mobile phone users are given in terms of Specific Absorption Rate (SAR) – the rate of radiofrequency energy absorption per unit mass of the body. Currently, two international bodies 1, 2 have developed exposure guidelines for workers and for the general public, except patients undergoing medical diagnosis or treatment. These guidelines are based on a detailed assessment of the available scientific evidence. 
+WHO response
+
+In response to public and governmental concern, WHO established the International Electromagnetic Fields (EMF) Project in 1996 to assess the scientific evidence of possible adverse health effects from electromagnetic fields. WHO will conduct a formal risk assessment of all studied health outcomes from radiofrequency fields exposure by 2016. In addition, and as noted above, the International Agency for Research on Cancer (IARC), a WHO specialized agency, has reviewed the carcinogenic potential of radiofrequency fields, as from mobile phones in May 2011.
+
+WHO also identifies and promotes research priorities for radiofrequency fields and health to fill gaps in knowledge through its research agendas. 
+
+WHO develops public information materials and promotes dialogue among scientists, governments, industry and the public to raise the level of understanding about potential adverse health risks of mobile phones.
+
+(1) International Commission on Non-Ionizing Radiation Protection (ICNIRP). Statement on the "Guidelines for limiting exposure to time-varying electric, magnetic and electromagetic fields (up to 300 GHz)", 2009.
+
+(2) Institute of Electrical and Electronics Engineers (IEEE). IEEE standard for safety levels with respect to human exposure to radio frequency electromagnetic fields, 3 kHz to 300 GHz, IEEE Std C95.1, 2005.
+ 

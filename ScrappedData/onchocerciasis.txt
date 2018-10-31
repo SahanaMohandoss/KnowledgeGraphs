@@ -1,0 +1,57 @@
+Key facts
+
+Onchocerciasis, commonly known as “river blindness”, is caused by the parasitic worm Onchocerca volvulus.
+It is transmitted to humans through exposure to repeated bites of infected blackflies of the genus Simulium
+Symptoms include severe itching, disfiguring skin conditions, and visual impairment, including permanent blindness. 
+More than 99% of infected people live in 31 African countries. The disease also exists in some foci in Latin America and Yemen.
+Community-directed treatment with ivermectin is the core strategy to eliminate onchocerciasis in Africa. In the Americas the strategy is biannual large-scale treatment with ivermectin.
+In July 2016, Guatemala became the fourth country in the world after Colombia (2013), Ecuador (2014), and Mexico (2015) to be verified free of onchocerciasis after successfully implementing elimination activities for decades.
+
+
+
+
+Onchocerciasis – or “river blindness” – is a parasitic disease caused by the filarial worm Onchocerca volvulus transmitted by repeated bites of infected blackflies (Simulium spp.). These blackflies breed along fast-flowing rivers and streams, close to remote villages located near fertile land where people rely on agriculture. 
+
+In the human body, the adult worms produce embryonic larvae (microfilariae) that migrate to the skin, eyes and other organs. When a female blackfly bites an infected person during a blood meal, it also ingests microfilariae which develop further in the blackfly and are then transmitted to the next human host during subsequent bites. 
+Signs and symptoms
+
+Onchocerciasis is an eye and skin disease. Symptoms are caused by the microfilariae, which move around the human body in the subcutaneous tissue and induce intense inflammatory responses when they die. Infected people may show symptoms such as severe itching and various skin changes. Some infected people develop eye lesions which can lead to visual impairment and permanent blindness. In most cases, nodules under the skin form around the adult worms.
+Geographical distribution
+ 
+
+
+
+
+
+Map of the distribution and status of preventive chemotherapy for onchocerciasis, worldwide, 2015 
+
+
+Onchocerciasis occurs mainly in tropical areas. More than 99% of infected people live in 31 countries in sub-Saharan Africa: Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Republic of Congo, Côte d’Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, South Sudan, Sudan, Togo, Uganda, United Republic of Tanzania. 
+
+Onchocerciasis is also transmitted in Yemen and the Americas. As of 1 April 2018, transmission of the parasite of onchocerciasis is still ongoing in Brazil and Venezuela (Bolivarian Republic of). 
+Prevention, control and elimination programmes
+
+There is no vaccine or medication to prevent infection with O. volvulus.
+
+Between 1974 and 2002, disease caused by onchocerciasis was brought under control in West Africa through the work of the Onchocerciasis Control Programme (OCP), using mainly the spraying of insecticides against blackfly larvae (vector control) by helicopters and airplanes. This has been supplemented by large-scale distribution of ivermectin since 1989. 
+
+The OCP relieved 40 million people from infection, prevented blindness in 600 000 people, and ensured that 18 million children were born free from the threat of the disease and blindness. In addition, 25 million hectares of abandoned arable land were reclaimed for settlement and agricultural production, capable of feeding 17 million people annually. 
+
+The African Programme for Onchocerciasis Control (APOC) was launched in 1995 with the objective of controlling onchocerciasis in the remaining endemic countries in Africa and closed at the end of 2015 after beginning the transition to onchocerciasis elimination. Its main strategy has been the establishment of sustainable community-directed treatment with ivermectin (CDTI) and vector control with environmentally-safe methods where appropriate. In APOC’s final year, more than 119 million people were treated with ivermectin, and many countries had greatly decreased the morbidity associated with onchocerciasis. More than 800,000 people in Uganda and 120,000 people in Sudan no longer required ivermectin by the time that APOC closed.
+
+In 2016, more than 132 million people were treated in Africa where the strategy of CDTI was implemented, representing approximately 67.1% coverage of the number of people who require treatment globally. The Expanded Special Project for the Elimination of Neglected Tropical Diseases in Africa (ESPEN), which has replaced APOC, will initially focus on several priority countries to support their neglected tropical diseases (NTDs) programmes, including their onchocerciasis programmes, and will create a pool of experts that can provide technical assistance to all member countries. ESPEN, like OCP and APOC, is housed in the WHO Regional Office for Africa.
+
+The Onchocerciasis Elimination Program of the Americas (OEPA) began in 1992 with the objective of eliminating ocular morbidity and interruption of transmission throughout the Americas by 2015 through biannual large-scale treatment with ivermectin. All 13 foci in this region achieved coverage of more than 85% in 2006, and transmission was interrupted in 11 of the 13 foci so far in 2017. Elimination efforts are now focused on the Yanomami people living in Brazil and Venezuela (Bolivarian Republic of).
+
+On 5 April 2013, the Director-General of WHO issued an official letter confirming that Colombia has achieved elimination of onchocerciasis. Colombia was the first country in the world to be verified and declared free of onchocerciasis by WHO. This has been followed by Ecuador in September 2014, Mexico in July 2015, and Guatemala in July 2016. More than 500 000 people no longer need ivermectin in the Americas.
+Treatment
+
+WHO recommends treating onchocerciasis with ivermectin at least once yearly for between 10 to 15 years. Where O. volvulus co-exists with Loa loa, treatment strategies have to be adjusted. Loa loa is a parasitic filarial worm that is endemic in Cameroon, the Central African Republic, Congo, the Democratic Republic of the Congo, Nigeria and South Sudan. Treatment of individuals with high levels of L. loa in the blood can sometimes result in severe adverse events. In affected countries, it is recommended to follow the Mectizan Expert Committee (MEC)/APOC recommendations for the management of severe adverse events.
+WHO response
+
+WHO headquarters provides administrative, technical and operational research support to three regions where onchocerciasis is transmitted.
+
+The WHO Regional Office for Africa, which had an overall supervisory role for OCP from 1975 to 2002 and APOC from 1995 to 2015, currently supervises ESPEN which coordinates NTD control and elimination activities in that region.
+
+Through the OEPA partnership, WHO collaborates with endemic countries and international partners in the WHO Region of the Americas. Although there is no official programme to coordinate activities in the WHO Eastern Mediterranean Region, the two countries in the region collaborate on elimination activities.
+ 

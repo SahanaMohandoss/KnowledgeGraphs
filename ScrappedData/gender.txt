@@ -1,0 +1,267 @@
+Key facts
+
+Gender refers to socially constructed roles that shape the behaviours, activities, expectations and opportunities considered appropriate in a particular socio-cultural context for all people. Gender also refers to the relationships between people, and the distribution of power in those relationships.
+Gender interacts with, but is distinct from, the categories (male, female) of biological sex.
+Gender is a determinant of health inequities – both separately, as well as intersecting with socio-economic status, age, ethnicity, disability, sexual orientation, etc.
+Gender impacts on all targets within Sustainable Development Goal 3 through its interaction with other determinants, its influence on risks and exposures, behaviours, and the gendered nature of health system responses.
+Gender influences the employment, working conditions and career trajectories of health and social care workers.
+WHO is working to support Member States by promoting gender-responsive health systems which acknowledge, understand and transform how gender determines health behaviours, access to services, pathways of health care, and how gender interacts with other determinants of health and drivers of inequities.
+
+
+
+Introduction
+Gender equality refers to the equal rights, responsibilities and opportunities of all people (1). It is a necessary foundation for a world that is sustainable, peaceful, prosperous, healthy, and where no-one is left behind. Gender equality is a
+fundamental human right, grounded in the Universal Declaration of Human Rights, and is core to achieving all Sustainable Development Goals (SDGs). 
+Gender is a determinant of health inequities. This fact sheet outlines how gender limits or promotes health equity, including through access to universal health coverage. It also highlights how gender determines career pathways within health systems.
+Definitions 
+Gender refers to the socially constructed roles, behaviours, activities, attributes and opportunities that any society considers appropriate for men and women, boys and girls and people with non-binary identities. Gender is also formed through
+the relationships between people and can reflect the distribution of power within those relationships. Gender is not static but changes across time and place. When individuals or groups do not conform to established gender norms (including concepts
+of being masculine or feminine), roles, responsibilities or relations, they often face stigma, discriminatory practices, or social exclusion – all of which can adversely affect health. Gender interacts with, but is distinct from, biological
+sex.
+
+Gendered determinants of health are those norms, expectations, and social roles that drive rates of exposure and vulnerabilities to, and protections from, health risks, and shape health-promotion and care seeking behaviours,
+as well as health system responses that are based on gender. They are among the most important  social determinants of health inequities.
+Gender analysis in health uncovers how gender norms (and power relations reinforcing those norms) impact on health and health systems – complementary to, but distinct from, sex-disaggregated data analysis. 
+Intersectionality refers to the meaning and relationship between sex, gender and other social determinants, and the drivers of health inequity in processes and systems of power at individual, institutional and global
+levels (2).  It builds on, and extends, a gender analysis in health.
+Gender mainstreaming involves assessing the gender implications of any planned action, including legislation, policies and programmes, in all areas and at all levels. Mainstreaming gender can also promote women’s empowerment and equality
+of participation at all levels of the health workforce. 
+Impact of gender on health equity
+Sex-disaggregated data show that, globally, men have a shorter life expectancy (4.4 years less in 2016 (3)), and a higher disability-adjusted life year (DALY) burden than wome (4). Much of this difference is driven by gendered determinants: for example,
+social norms which permit men’s higher rates of exposure to tobacco and alcohol which in turn lead to DALY rates three times higher in men than women (5). For other conditions, gender and social norms result in a higher burden of specific
+diseases among girls and women: for example, a relative lack of access for women and girls to cataract services leads to higher rates of blindness. 
+Gender influences health and wellbeing across three domains:
+
+gendered determinants of health – including the intersection with other social and structural determinants; 
+gendered health behaviours; and
+the gendered nature of the health system response. 
+
+The table below gives illustrative examples of the gendered health determinants and health behaviours influencing health inequities across nine SDG3 targets. The gendered nature of the health system response is set out below the table. 
+Table: Examples of gendered health determinants and behaviours and their impact on the achievement of Sustainable Development Goals Targets
+
+
+
+
+Sustainable Development Goal Target 
+Gendered health determinants 
+Gendered health behaviours 
+
+
+
+
+3.1: Maternal mortality
+             
+              
+Girls with lower levels of autonomy may be pressured into leaving school, and early marriage and childbearing while still adolescents, which is associated with higher risk of maternal death (6).
+
+
+Lack of access to financial and other resources may inhibit some women from being able to seek care, leading to delays in obstetric care. 
+
+
+3.2: Preventable deaths of newborns and children under 5 years of age 
+Women’s influence in household decision-making, and control of resources, determines resources allocated to child feeding and welfare. 
+Parents may preferentially seek care according to the gender of a sick-child, with girls less likely to receive care when needed.
+              
+
+
+3.3: Epidemics of AIDS, tuberculosis, malaria, neglected tropical diseases, hepatitis, water-borne, and other communicable diseases 
+Men’s occupations (such as those with work outdoors) may lead to greater exposure to mosquitoes. Women’s roles in household activities, such as water collection, may also increase exposure. 
+Men may experience difficulties in seeking care from facilities where opening hours are not conducive to their occupational commitments, or they may have limited access to interventions such as HIV testing and treatment which are frequently
+            provided through the reproductive health services mainly used by women (7).
+              
+
+
+3.4: Premature mortality from noncommunicable diseases (NCDs), promotion of mental health 
+Gender intersects closely with ethnicity, socio-economic status and  geographical location to drive rates of NCDs – for example, rates of diabetes are higher among women from ethnic minority populations living in obesogenic urban
+            environments (8).
+              
+Gender norms exert a strong influence on the acceptability of some risk exposures strongly associated with NCD mortality rates (9). For example, smoking tobacco is seen as a positive aspect of masculinity in some societies, but is frowned
+            upon for women. As social  norms change and tobacco companies respond to these changes by increased marketing to women, there are increased risks for women’s health outcomes too. 
+              
+
+
+3.5: Substance and alcohol abuse 
+Higher rates of substance and alcohol abuse are found among adolescent lesbian, gay, bisexual (10) and transgender (11) populations. 
+Women are less likely to enter treatment programmes than men, for example due to lack of childcare options, or fear of losing custody of children (12). 
+
+
+3.6: Road traffic accidents 
+Cultural and social expectations of ‘acceptable’ occupations (such as bus driver, truck driver, taxi driver) lead to higher rates of exposure among men (13). 
+Young men may take up gendered risky behaviours associated with norms and expectations of masculinity, including driving patterns. 
+
+
+3.7: Universal access to sexual and reproductive healthcare services 
+Adolescent girls living in disaster-affected areas have high pregnancy rates, child marriage and gender-based violence (14). 
+In some countries women require male permission to access contraception (15). 
+
+
+3.8: Achieve universal health coverage 
+Vulnerabilities based on ethnic origin and geographical location intersect with gender to limit access to health services (16). 
+Uptake of health insurance schemes may be voluntary in some settings, and is frequently influenced by women’s ability to pay and their childcare responsibilities (17). 
+
+
+3.9: Environmental pollution and contamination 
+Occupation (inside or outside the home) impacts on rates and types of risk exposure. For example, men are more likely to be exposed to air pollution from traffic, and women more likely to be exposed to cooking fumes. 
+Higher smoking rates among men may (18) interact with exposure to air pollutants and worsen inequitable outcomes. 
+
+
+
+Promoting gender-responsive health systems to reduce health inequities
+Gender-responsive health systems are those which mainstream gender across all six building blocks of the health system:
+
+Service delivery: Delivering integrated, safe, effective, acceptable and evidence-based quality interventions while ensuring gender equity in access to all services – health promotion, preventive, curative, from the level of community-based
+    to tertiary care.
+Information and research: Ensuring the collection, collation, analysis and use of sex-disaggregated data so that health systems respond to evidence on determinants and health status, and  allocate resources accordingly.
+Medical products and technologies: Ensuring gender equitable access to essential medicines, vaccines and technologies.
+Health and social workforce: Promoting gender-transformative policies and strategies that address gender biases and inequities in the health workforce and ensure decent work for all health and social care workers, while including gender
+    equity in education, training, employment and career progression.
+Health care financing: Achieving universal access to health services while ensuring gender equity in access to financial protection strategies. Promoting gender budgeting and financial risk assessments.
+Leadership and governance: Supporting good health governance and gender mainstreamed public health policies and governance structures, promoting gender-sensitive strategies and supportive legislation in terms of being responsive, fair
+    and efficient. Promoting gender parity at leadership levels, and ensuring health systems are accountable to everyone.
+
+Gender and the health workforce
+Women make up over 70% of the paid health workforce in many countries (19), and are often the main providers of home- and community-based care. Women are also the main providers of unpaid care. However, women are under-represented in management
+and decision-making positions in health systems. Moreover, gender biases, physical and sexual violence and harassment remain important challenges for health and social workers. The gender pay gap in health and social sectors is higher than that of
+the overall pay gap of 20% with an average of 26% in high-income countries and 29% in upper-middle income countries (20).
+The feminized but unequal health workforce requires approaches specifically targeted to the needs of women – in recruitment, retention and career development strategies – as well as strategies to engage men’s participation in domestic
+care (such as promoting shared parental or carers’ leave), thus reducing the “double burden of work” that women otherwise suffer. 
+WHO’s response to gender  
+WHO is responding to the 2030 Agenda for Sustainable Development while also ensuring that an integrated approach to gender, equity and human rights (GER) is mainstreamed across the Organization. 
+The World Health Assembly resolution WHA60.25 (2007) and, its subsequent Strategy for integrating gender analysis and actions into the work of WHO (2008), commits WHO and Member States to implement a strategy for integrating gender analysis and
+actions. The strategy aims to assess and address gender differences and inequalities in the planning, implementation, monitoring and evaluation of WHO’s work, and to include this requirement in post descriptions and criterion in performance
+evaluation.
+
+Every part of the WHO Secretariat shares responsibility for implementing gender mainstreaming approaches, including through the following:
+
+ensuring capacity for gender analysis and planning;
+mainstreaming gender in WHO’s functions – for example, gender responsive results-based management planning, budgeting, monitoring and evaluation;
+disaggregating data by sex, age, ethnicity, migration status, geographical area, and other stratifiers, and undertaking gender analysis;
+establishing accountability for gender mainstreaming.
+
+WHO’s activities include:
+Country Support Package
+This package provides national health systems with tools to collect, analyse and report health data which is equity-oriented, human rights based, and gender-transformative,
+including through promoting the gender analysis of sex-disaggregated data. Components of this package (including Health Inequality Monitoring, Innov8 and Barrier Assessments) have been piloted in several countries and work is now being scaled-up to
+help strengthen capacity in targeted countries. 
+
+Gender mainstreaming for health managers: a practical approach. Facilitators’ guide and Participants’ guide 
+These user-friendly guides aim to raise awareness and develop skills on gender analysis and gender responsive
+planning in health sector activities. The Guides are structured to move from awareness to action throughout a 3 or 4 day workshop to reduce gender-based inequities in health. 
+
+In 2017, WHO introduced the Policy on Gender Equality in Staffing and committed to achieving at least a 1.5% increase in proportions of female staff holding fixed-term and continuing appointments at the P4 level and above, every year for the next
+five years, taking into account and monitoring the different levels of progress made by headquarters and regional offices.
+WHO participates in the UN System-wide Action Plan on Gender Equality and the Empowerment of Women (UN-SWAP)
+, and is accountable to UN Women for 15 common performance standards. WHO also periodically evaluates the integration of gender, equity and human rights into the Secretariat’s and countries’ policies and programmes. From 2018, WHO participates
+in UN-SWAP 2.0, which is results-focused and linked to Agenda 2030.
+Progress on the implementation of the Strategy for integrating gender analysis and actions into the work of WHO is reported every two years at the World Health Assembly.
+In the European Region, a new Strategy for men’s health and well-being has been launched (2018) based on reviewing the evidence on topics such as addressing premature mortality, the intersection between masculinities and existing inequalities, health systems responses to men throughout the life-course, and the role of men in promoting gender equality in health.
+
+
+The health and well-being of men in the WHO European Region: better health through a gender approach 
+
+References
+(1) UN Women. Gender Equality Glossary. https://trainingcentre.unwomen.org/mod/glossary/view.php?id=36  
+(2) Women’s  health, men’s health,
+and gender and health: implications of intersectionality. 
+https://www.ncbi.nlm.nih.gov/pubmed/22361090 
+Hankivsky O.  Social Science and Medicine.  2012;
+74: 1712-1720.
+(3) Global Health Estimates 2016: Life expectancy, 2000–2016. 
+http://www.who.int/gho/mortality_burden_disease/life_tables/en/  
+Geneva, World Health Organization; 2018. 
+(4) GBD Compare. Data Visualization Hub. 
+http://vizhub.healthdata.org/gbd-compare
+ Seattle: Institute for Health Metrics and Evaluation. Seattle, University
+of Washington, 2016. Available from:  
+
+(5) Gender and global health: evidence, policy, and inconvenient truths.
+https://www.thelancet.com/article/S0140-6736(13)60253-6/pdf
+ Hawkes, S.
+and Buse, K. The Lancet. 2013 May; 381(9879): 1783-1787.
+
+(6) Mediational pathways connecting secondary education and age at marriage to maternal mortality: a comparison between developing and developed countries.
+https://www.ncbi.nlm.nih.gov/pubmed/26934110
+ Hagues RJ, Bae DY, Wickrama KK. Women and Health. 2017; 57(2):189-207.
+
+(7) Public health blindness towards men in HIV programmes in Africa.
+https://www.ncbi.nlm.nih.gov/pubmed/26325025
+(8) Ethnicity and place: the geography of diabetes inequalities under a strong welfare state
+https://www.ncbi.nlm.nih.gov/pubmed/29040545
+ Nosrati E, Jenum AK, Tran AT, Marmot M, King L. European Journal of Public Health .  2018; 28(1): 30–34.
+
+(9) Gender and global health: evidence, policy, and inconvenient truths.
+https://www.thelancet.com/article/S0140-6736(13)60253-6/pdf
+Hawkes, S. and Buse, K. The Lancet. 2013; 381, 9879: 1783-1787.
+
+(10) Sexual orientation and adolescent substance use: a meta-analysis and methodological review.
+https://www.ncbi.nlm.nih.gov/pubmed/18339100
+Marshal
+MP, Friedman MS, Stall R  ; King KM ,Miles J , Gold MA , Bukstein OG , Morse JQ .  ADDICTION.   2008 Apr;103(4):546-56.>
+(11) Global health burden and needs of transgender populations: a review.
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00684-X/abstract
+ Reisner SL, Poteat T, Keatley J, et al. The Lancet. 2016; 388:412-436.
+
+
+(12) Substance abuse treatment entry, retention, and outcome in women: a review of the literature.
+https://www.ncbi.nlm.nih.gov/pubmed/16759822
+
+Greenfield SF, Brooks AJ, Gordon SM, GRen CA, Kropp F, McHugh RRK, Lincoln M, Hien D Miele GM. Drug and Alcohol Dependence.  2007 Jan; 86(1):1-21
+
+
+(13) Occupational fatalities among driver/sales workers and truck drivers in the United States, 2003-2008. 
+https://www.ncbi.nlm.nih.gov/pubmed/24811905
+
+Chen GX, Amandus HE, Wu N. Am J Ind Med.  2014;57(7):800-809.
+
+
+
+Sex, gender and work segregation in the cultural industries.  
+https://onlinelibrary.wiley.com/doi/full/10.1111/1467-954X.12238 
+Hesmondhalgh D, Baker S.  Sociological Review. 2015;63(Suppl 1):23-36.
+Gender, sexuality and male-dominated work: the intersection of long-hours working and domestic life.  
+http://journals.sagepub.com/doi/abs/10.1177/0950017013512713 
+Wright T.  Work, Employment and Society.  2014;28(6):985-1002. 
+
+
+(14) Adolescent Sexual and Reproductive Health Facts and Stats. 
+http://iawg.net/areas-of-focus/adolescent-reproductive-health/arh-facts-stats/ 
+(15) The Effect of power in sexual relationships on sexual and reproductive health: an examination of the evidence.
+https://www.ncbi.nlm.nih.gov/pubmed/11677692
+Blanc, A. Studies in Family Planning
+. 
+2001;  32(3):189-213.
+
+
+
+(16) Commentary: Mexico: moving from universal health coverage towards health care for all.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4330712/
+
+Ibáñez
+XA, Garita A. Global Public Health. 2015;  10:243-5.
+
+
+
+(17) National health insurance scheme enrollment and antenatal care among women in Ghana: is there any relationship?https://www.ncbi.nlm.nih.gov/pubmed/24219504
+
+Dixon J, Tenkorang EY, Luginaah IN, Kuuire VZ, Boateng GO.   Tropical Medicine and International Health. 2014;  19:98-106.
+
+
+
+(18) WHO global report on trends in prevalence of tobacco smoking 2000–2025, second edition.
+http://www.who.int/tobacco/publications/surveillance/trends-tobacco-smoking-second-edition/en/
+
+Geneva: World Health Organization; 2018.
+
+
+
+(19) Spotlight on statistics. A fact file on health workforce statistics, 2008.
+http://www.who.int/hrh/statistics/spotlight_2.pdf
+
+World Health Organization.
+
+
+
+(20) Improving employment and working conditions in health services. Report for discussion at the Tripartite Meeting on Improving Employment and Working Conditions in Health Services.
+http://www.ilo.org/sector/activities/sectoral-meetings/WCMS_548288/lang--en/index.htm
+
+International Labour Organization.

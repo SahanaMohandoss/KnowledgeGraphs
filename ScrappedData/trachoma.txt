@@ -1,0 +1,58 @@
+Key facts
+
+Trachoma is a disease of the eye caused by infection with the bacterium Chlamydia trachomatis.
+It is known to be a public health problem in 37 countries, and is responsible for the blindness or visual impairment of about 1.9 million people.
+Based on April 2018 data, 158 million people live in trachoma endemic areas and are at risk of trachoma blindness.
+Blindness from trachoma is irreversible.
+Infection spreads through personal contact (via hands, clothes or bedding) and by flies that have been in contact with discharge from the eyes or nose of an infected person. With repeated episodes of infection over many years, the eyelashes may be drawn in so that they rub on the surface of the eye, with pain and discomfort and permanent damage to the cornea.
+The World Health Assembly adopted resolution WHA51.11 in 1998, targeting the global elimination of trachoma as a public health problem.
+The elimination strategy is encapsulated by the acronym "SAFE": Surgery for advanced disease, Antibiotics to clear C. trachomatis infection, Facial cleanliness and Environmental improvement to reduce transmission.
+In 2017, more than 231 000 people received surgical treatment for advanced disease, and 83.5 million people were treated with antibiotics for trachoma. Global-level antibiotic coverage in 2017 was 52% - up from 30% in 2015.
+
+
+
+Trachoma is the leading infectious cause of blindness worldwide. It is caused by an obligate intracellular bacterium called Chlamydia trachomatis. The infection is transmitted through contact with eye and nose discharge of infected people, particularly young children who harbour the principal reservoir of infection. It is also spread by flies which have been in contact with the eyes and noses of infected people.
+Clinical characteristics and morbidity 
+
+In areas where trachoma is endemic, active (inflammatory) trachoma is common among preschool-aged children, with prevalence rates which can be as high as 60–90%. Infection becomes less frequent and shorter in duration with increasing age. Infection is usually acquired when living in close proximity to others with active disease, and the family is the main setting for transmission. An individual’s immune system can clear a single episode of infection, but in endemic communities, re-acquisition of the organism occurs frequently.
+
+After years of repeated infection, the inside of the eyelid can become so severely scarred (trachomatous conjunctival scarring) that it turns inwards and causes the eyelashes to rub against the eyeball (trachomatous trichiasis), resulting in constant pain and light intolerance; this and other alterations of the eye can lead to scarring of the cornea. Left untreated, this condition leads to the formation of irreversible opacities, with resulting visual impairment or blindness. The age at which this occurs depends on several factors including local transmission intensity. In very highly endemic communities, it can occur in childhood, though onset of visual impairment between the ages of 30 and 40 years is more typical.
+
+Visual impairment or blindness results in a worsening of the life experience of affected individuals and their families, who are normally already amongst the poorest of the poor. Women are blinded up to 4 times as often as men, probably due to their close contact with infected children and their resulting greater frequency of infection episodes.
+
+Environmental risk factors influencing the transmission of the disease include:
+
+poor hygiene
+crowded households
+water shortage 
+inadequate latrines and sanitation facilities.
+
+Distribution 
+Trachoma is hyperendemic in many of the poorest and most rural areas of 37 countries of Africa, Central and South America, Asia, Australia and the Middle East. 
+
+It is responsible for the blindness or visual impairment of about 1.9 million people. It causes about 1.4% of all blindness worldwide.
+Overall, Africa remains the most affected continent, and the one with the most intensive control efforts. In 2017, in the 22 countries of WHO’s Africa Region in which trachoma is known to be a public health problem, more than 226 000 people with trichiasis were given operations (95% of the global total operated on for trichiasis), and more than 79 million people were treated with antibiotics (95% of the global total given antibiotics for trachoma). 
+As of 16 October 2018, 12 countries had reported achieving elimination goals, which signifies a major milestone in the campaign to eliminate trachoma. These countries are: Cambodia, China, Gambia, Ghana, Islamic Republic of Iran, Iraq, Lao People’s Democratic Republic, Mexico, Morocco, Myanmar, Nepal and Oman. Eight of those countries – Cambodia, Islamic Republic of Iran, Lao People’s Democratic Republic, Ghana, Mexico, Morocco, Nepal and Oman – had been validated by WHO as having eliminated trachoma as a public health problem. 
+Economic impact
+
+The burden of trachoma on affected individuals and communities is enormous. The economic cost in terms of lost productivity from blindness and visual impairment is estimated at US$ 2.9–5.3 billion annually, increasing to US$ 8 billion when trichiasis is included.
+Prevention and control
+
+Elimination programmes in endemic countries are being implemented using the WHO-recommended SAFE strategy. This consists of:
+
+Surgery to treat the blinding stage of the disease (trachomatous trichiasis);
+Antibiotics to clear infection, particularly mass drug administration of the antibiotic azithromycin, which is donated by the manufacturer to elimination programmes, through the International Trachoma Initiative;
+Facial cleanliness; and
+Environmental improvement, particularly improving access to water and sanitation.
+
+
+Most endemic countries have agreed to accelerate the implementation of this strategy to achieve their respective elimination targets, all by the year 2020.
+Data reported to WHO by Member States for 2017 show that more than 231 000 people with trachomatous trichiasis were provided with corrective surgery in that year, and 83.5 million people in endemic communities were treated with antibiotics to eliminate trachoma. 
+
+Elimination efforts need to continue to satisfy the target set by World Health Assembly resolution WHA 51.11, which is elimination of trachoma as a public health problem (1). Particularly important will be the full engagement of sectors involved in water, sanitation and socioeconomic development.
+WHO response
+WHO adopted the SAFE strategy in 1993. WHO’s mandate is to provide leadership and coordination to international efforts aiming to eliminate trachoma as a public health problem, and to report on progress towards that target. 
+
+In 1996, WHO launched the WHO Alliance for the Global Elimination of Trachoma by 2020. The Alliance is a partnership which supports implementation of the SAFE strategy by Member States, and the strengthening of national capacity through epidemiological surveys, monitoring, surveillance, project evaluation, and resource mobilization.
+
+(1) Elimination of trachoma as a public health problem is defined as: (i) a prevalence of trachomatous trichiasis “unknown to the health system” of <0.2% in adults aged ≥15 years (approximately 1 case per 1000 total population), and (ii) a prevalence of trachomatous inflammation—follicular in children aged 1–9 years of <5%, sustained for at least two years in the absence of ongoing antibiotic mass treatment, in each formerly endemic district; plus (iii) the existence of a system able to identify and manage incident trachomatous trichiasis cases, using defined strategies, with evidence of appropriate financial resources to implement those strategies.

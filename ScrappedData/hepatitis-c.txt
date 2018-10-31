@@ -1,0 +1,159 @@
+Key facts
+
+Hepatitis C is a liver disease caused by the hepatitis C virus: the virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness lasting a few weeks to a serious, lifelong illness.
+The hepatitis C virus is a bloodborne virus and the most common modes of infection are through exposure to small quantities of blood. This may happen through injection drug use, unsafe injection practices, unsafe health care, and the transfusion of unscreened blood and blood products.
+Globally, an estimated 71 million people have chronic hepatitis C infection.
+A significant number of those who are chronically infected will develop cirrhosis or liver cancer.
+Approximately 399 000 people die each year from hepatitis C, mostly from cirrhosis and hepatocellular carcinoma.
+Antiviral medicines can cure more than 95% of persons with hepatitis C infection, thereby reducing the risk of death from liver cancer and cirrhosis, but access to diagnosis and treatment is low.
+There is currently no vaccine for hepatitis C; however research in this area is ongoing.
+
+
+
+Hepatitis C virus (HCV) causes both acute and chronic infection. Acute HCV infection is usually asymptomatic, and is only very rarely (if ever) associated with life-threatening disease. About 15–45% of infected persons spontaneously clear the virus within 6 months of infection without any treatment.
+
+The remaining 60–80% of persons will develop chronic HCV infection. Of those with chronic HCV infection, the risk of cirrhosis of the liver is between 15–30% within 20 years.
+Geographical distribution
+
+Hepatitis C is found worldwide. The most affected regions are WHO Eastern Mediterranean and European Regions, with the prevalence of 2.3% and 1.5% respectively. Prevalence of HCV infection in other WHO regions varies from 0.5% to 1.0%. Depending on the country, hepatitis C virus infection can be concentrated in certain populations (for example, among people who inject drugs) and/or in general populations. There are multiple strains (or genotypes) of the HCV virus and their distribution varies by region.
+Transmission
+
+The hepatitis C virus is a bloodborne virus. It is most commonly transmitted through:
+
+injecting drug use through the sharing of injection equipment;
+the reuse or inadequate sterilization of medical equipment, especially syringes and needles in healthcare settings; and
+the transfusion of unscreened blood and blood products.
+
+
+HCV can also be transmitted sexually and can be passed from an infected mother to her baby; however these modes of transmission are much less common.
+
+Hepatitis C is not spread through breast milk, food, water or by casual contact such as hugging, kissing and sharing food or drinks with an infected person. 
+
+Estimates obtained from modelling suggest that worldwide, in 2015, there were 1.75 million new HCV infections (globally, 23.7 new HCV infections per 100 000 people).
+Symptoms
+
+The incubation period for hepatitis C is 2 weeks to 6 months. Following initial infection, approximately 80% of people do not exhibit any symptoms. Those who are acutely symptomatic may exhibit fever, fatigue, decreased appetite, nausea, vomiting, abdominal pain, dark urine, grey-coloured faeces, joint pain and jaundice (yellowing of skin and the whites of the eyes).
+Screening and diagnosis
+
+Due to the fact that acute HCV infection is usually asymptomatic, few people are diagnosed during the acute phase. In those people who go on to develop chronic HCV infection, the infection is also often undiagnosed because the infection remains asymptomatic until decades after infection when symptoms develop secondary to serious liver damage.
+
+HCV infection is diagnosed in 2 steps: 
+
+Screening for anti-HCV antibodies with a serological test identifies people who have been infected with the virus.
+If the test is positive for anti-HCV antibodies, a nucleic acid test for HCV ribonucleic acid (RNA) is needed to confirm chronic infection because about 30% of people infected with HCV spontaneously clear the infection by a strong immune response without the need for treatment. Although no longer infected, they will still test positive for anti-HCV antibodies.
+
+
+After a person has been diagnosed with chronic hepatitis C infection, they should have an assessment of the degree of liver damage (fibrosis and cirrhosis). This can be done by liver biopsy or through a variety of non-invasive tests.
+
+In addition, these people should have a laboratory test to identify the genotype of the hepatitis C strain. There are 6 genotypes of the HCV and they respond differently to treatment. Furthermore, it is possible for a person to be infected with more than 1 genotype. The degree of liver damage and virus genotype are used to guide treatment decisions and management of the disease.
+Getting tested
+
+Early diagnosis can prevent health problems that may result from infection and prevent transmission of the virus. WHO recommends screening for people who may be at increased risk of infection.
+
+Populations at increased risk of HCV infection include:
+
+people who inject drugs;
+people who use intranasal drugs;
+recipients of infected blood products or invasive procedures in health-care facilities with inadequate infection control practices ;
+children born to mothers infected with HCV ;
+people with sexual partners who are HCV-infected;
+people with HIV infection;
+prisoners or previously incarcerated persons; and
+people who have had tattoos or piercings.
+
+
+About 2.3 million people of the estimated 36.7 million living with HIV globally have serological evidence of past or present HCV infection. Conversely, among all HIV-infected persons, the prevalence of anti-HCV was 6.2%. Liver diseases represent a major cause of morbidity and mortality among persons living with HIV.
+Treatment
+
+Hepatitis C does not always require treatment as the immune response in some people will clear the infection, and some people with chronic infection do not develop liver damage. When treatment is necessary, the goal of hepatitis C treatment is cure. The cure rate depends on several factors including the strain of the virus and the type of treatment given.
+
+The standard of care for hepatitis C is changing rapidly. Sofosbuvir, daclatasvir and the sofosbuvir/ledipasvir combination are part of the preferred regimens in the WHO guidelines, and can achieve cure rates above 95%. These medicines are much more effective, safer and better-tolerated than the older therapies. Therapy with DAAs can cure most persons with HCV infection and treatment is shorter (usually 12 weeks). WHO is currently updating its treatment guidelines to include pangenotypic DAA regimens and simplified laboratory monitoring. Meanwhile, there remains a very limited role for pegylated interferon and ribavirin in certain scenarios. Although the production cost of DAAs is low, these medicines remain very expensive in many high- and upper middle-income countries. Prices have dropped dramatically in some countries (primarily low-income) due to the introduction of generic versions of these medicines.
+
+Access to HCV treatment is improving, but remains limited. In 2015, of the 71 million persons living with HCV infection globally, 20% (14 million) knew their diagnosis. 7.4% of those diagnosed (1.1 million) were started on treatment in 2015. In 2016, 1.76 million people were additionally treated in bringing the global coverage of hepatitis C curative treatment to 13%. Much needs to be done in order for the world to achieve the 80% treatment target by 2030.
+Prevention
+Primary prevention
+
+There is no vaccine for hepatitis C, therefore prevention of HCV infection depends upon reducing the risk of exposure to the virus in health-care settings and in higher risk populations, for example, people who inject drugs, and through sexual contact.
+
+The following list provides a limited example of primary prevention interventions recommended by WHO:
+
+hand hygiene: including surgical hand preparation, hand washing and use of gloves;
+safe and appropriate use of health care injections;
+safe handling and disposal of sharps and waste;
+provision of comprehensive harm-reduction services to people who inject drugs including sterile injecting equipment;
+testing of donated blood for hepatitis B and C (as well as HIV and syphilis);
+training of health personnel; and
+promotion of correct and consistent use of condoms.
+
+Secondary and tertiary prevention
+
+For people infected with the hepatitis C virus, WHO recommends:
+
+education and counselling on options for care and treatment;
+immunization with the hepatitis A and B vaccines to prevent coinfection from these hepatitis viruses and to protect their liver; 
+early and appropriate medical management including antiviral therapy if appropriate; and
+regular monitoring for early diagnosis of chronic liver disease. 
+
+Screening, care and treatment of persons with hepatitis C infection
+
+In April 2016, WHO updated its "Guidelines for the screening, care and treatment of persons with chronic hepatitis C". These guidelines complement existing WHO guidance on the prevention of transmission of bloodborne viruses, including HCV.
+
+
+They are intended for policy-makers, government officials, and others working in low- and middle-income countries who are developing programmes for the screening, care and treatment of people with HCV infection. These guidelines will help expand of treatment services to patients with HCV infection, as they provide key recommendations in these areas and discuss considerations for implementation.
+
+
+Guidelines for the screening, care and treatment of persons with chronic hepatitis C
+
+
+
+Worldwide, 7% of those diagnosed (1.1 million) were started on treatment in 2015. Of those started on treatment in 2015, about half received DAAs. Globally, over the years, the cumulative number of those placed on treatment reached 5.4 million persons in 2015. Most of the patients treated before 2015 received older treatments, primarily interferon-based therapies.
+
+Summary of key recommendations 
+Recommendations on screening for HCV infection 
+1. Screening to identify persons with HCV infection
+
+It is recommended that HCV serology testing be offered to individuals who are part of a population with high HCV prevalence or who have a history of HCV risk exposure/ behaviour.
+2. When to confirm the diagnosis of chronic HCV infection
+
+It is suggested that following a positive HCV virus serological test another test (NAT for the detection of HCV RNA) be performed to diagnose chronic infection. NAT for HCV RNA should also be performed to assess whether to start treatment for hepatitis C.
+ Recommendations on care of people infected with HCV 
+3. Screening for alcohol use and counselling to reduce moderate and high levels of alcohol intake
+
+An alcohol intake assessment is recommended for all persons with HCV virus infection followed by the offer of a behavioural alcohol reduction intervention for persons with moderate-to-high alcohol intake.
+4. Assessing degree of liver fibrosis and cirrhosis
+
+In resource-limited settings, the aminotransferase/platelet ratio index (APRI) or FIB4 tests should be used for the assessment of hepatic fibrosis rather than other non-invasive tests that require more resources such as elastography or fibrotest.
+Recommendations on hepatitis C treatment
+5. Assessing for HCV treatment
+
+All adults and children with chronic HCV infection should be assessed for antiviral treatment.
+6. Treatment with direct-acting antivirals (DAAs)
+
+WHO recommends that all patients with hepatitis C be treated with DAA-based regimens, except for a few specific groups of people in whom interferon-based regimens can still be used (as an alternative regimen for patients with genotype 5 or 6 infection and those with genotype 3 HCV infection who also have cirrhosis).
+7. Telaprevir and boceprevir should no longer be used
+
+These 2 first-generation DAAs, which are administered with pegylated interferon and ribavirin, were recommended in the 2014 guidelines. Evidence now shows that they result in more frequent adverse effects and less frequent cures compared with newer DAA-based regimens. Thus, these 2 medicines are no longer recommended by WHO.
+8. WHO recommends preferred and alternative DAA regimens based on genotype and cirrhosis status
+
+The Guideline Development Group reviewed all the available data (over 200 studies) to determine which regimens were most effective and safest to treat each of the 6 different genotypes.
+WHO response
+
+In May 2016, The World Health Assembly adopted the first “Global Health Sector Strategy on Viral Hepatitis, 2016-2021”. The strategy highlights the critical role of Universal Health Coverage and the targets of the strategy are aligned with those of the Sustainable Development Goals. The strategy has a vision of eliminating viral hepatitis as a public health problem and this is encapsulated in the global targets of reducing new viral hepatitis infections by 90% and reducing deaths due to viral hepatitis by 65% by 2030. Actions to be taken by countries and WHO Secretariat to reach these targets are outlined in the strategy.
+
+WHO is working in the following areas to support countries in moving towards achieving the global hepatitis goals under the Sustainable Development Agenda 2030:
+
+raising awareness, promoting partnerships and mobilizing resources;
+formulating evidence-based policy and data for action;
+preventing transmission; and 
+scaling up screening, care and treatment services.
+
+
+WHO published the Global Hepatitis Report, 2017, outlining the baseline for the drive towards elimination. The report sets out global statistics on viral hepatitis B and C, the rate of new infections, the prevalence of chronic infections and mortality caused by these two high-burden hepatitis viruses, as well as coverage of key interventions, all current as of the end of 2015. It is available online at the following link.
+
+
+Global hepatitis report, 2017
+
+
+
+WHO also organizes World Hepatitis Day on 28 July every year to increase awareness and understanding of viral hepatitis.
+ 

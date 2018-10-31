@@ -1,0 +1,147 @@
+Key facts
+
+Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable.
+In 2016, there were an estimated 216 million cases of malaria in 91 countries, an increase of 5 million cases over 2015.
+Malaria deaths reached 445 000 in 2016, a similar number (446 000) to 2015.
+The WHO African Region carries a disproportionately high share of the global malaria burden. In 2016, the region was home to 90% of malaria cases and 91% of malaria deaths.
+Total funding for malaria control and elimination reached an estimated US$ 2.7 billion in 2016. Contributions from governments of endemic countries amounted to US$ 800 million, representing 31% of funding.
+
+
+
+Malaria is caused by Plasmodium parasites. The parasites are spread to people through the bites of infected female Anopheles mosquitoes, called "malaria vectors." There are 5 parasite species that cause malaria in humans, and 2 of these species – P. falciparum and P. vivax – pose the greatest threat.
+
+P. falciparum is the most prevalent malaria parasite on the African continent. It is responsible for most malaria-related deaths globally.
+P. vivax is the dominant malaria parasite in most countries outside of sub-Saharan Africa.ub
+
+Symptoms
+
+Malaria is an acute febrile illness. In a non-immune individual, symptoms usually appear 10–15 days after the infective mosquito bite. The first symptoms – fever, headache, and chills– may be mild and difficult to recognize as malaria. If not treated within 24 hours, P. falciparum malaria can progress to severe illness, often leading to death.
+
+Children with severe malaria frequently develop one or more of the following symptoms: severe anaemia, respiratory distress in relation to metabolic acidosis, or cerebral malaria. In adults, multi-organ involvement is also frequent. In malaria endemic areas, people may develop partial immunity, allowing asymptomatic infections to occur.
+Who is at risk?
+
+In 2016, nearly half of the world's population was at risk of malaria. Most malaria cases and deaths occur in sub-Saharan Africa. However, the WHO regions of South-East Asia, Eastern Mediterranean, Western Pacific, and the Americas are also at risk. In 2016, 91 countries and areas had ongoing malaria transmission.
+
+Some population groups are at considerably higher risk of contracting malaria, and developing severe disease, than others. These include infants, children under 5 years of age, pregnant women and patients with HIV/AIDS, as well as non-immune migrants, mobile populations and travellers. National malaria control programmes need to take special measures to protect these population groups from malaria infection, taking into consideration their specific circumstances.
+Disease burden
+
+According to the latest World Malaria Report, released in November 2017, there were 216 million cases of malaria in 2016, up from 211 million cases in 2015. The estimated number of malaria deaths stood at 445 000 in 2016, a similar number to the previous year (446 000).
+
+The WHO African Region continues to carry a disproportionately high share of the global malaria burden. In 2016, the region was home to 90% of malaria cases and 91% of malaria deaths. Some 15 countries – all in sub-Saharan Africa, except India – accounted for 80% of the global malaria burden.
+
+In areas with high transmission of malaria, children under 5 are particularly susceptible to infection, illness and death; more than two thirds (70%) of all malaria deaths occur in this age group. The number of under-5 malaria deaths has declined from 440 000 in 2010 to 285 000 in 2016. However, malaria remains a major killer of children under five years old, taking the life of a child every two minutes.
+Transmission
+
+In most cases, malaria is transmitted through the bites of female Anopheles mosquitoes. There are more than 400 different species of Anopheles mosquito; around 30 are malaria vectors of major importance. All of the important vector species bite between dusk and dawn. The intensity of transmission depends on factors related to the parasite, the vector, the human host, and the environment.
+
+Anopheles mosquitoes lay their eggs in water, which hatch into larvae, eventually emerging as adult mosquitoes. The female mosquitoes seek a blood meal to nurture their eggs. Each species of Anopheles mosquito has its own preferred aquatic habitat; for example, some prefer small, shallow collections of fresh water, such as puddles and hoof prints, which are abundant during the rainy season in tropical countries.
+
+Transmission is more intense in places where the mosquito lifespan is longer (so that the parasite has time to complete its development inside the mosquito) and where it prefers to bite humans rather than other animals. The long lifespan and strong human-biting habit of the African vector species is the main reason why nearly 90% of the world's malaria cases are in Africa.
+
+Transmission also depends on climatic conditions that may affect the number and survival of mosquitoes, such as rainfall patterns, temperature and humidity. In many places, transmission is seasonal, with the peak during and just after the rainy season. Malaria epidemics can occur when climate and other conditions suddenly favour transmission in areas where people have little or no immunity to malaria. They can also occur when people with low immunity move into areas with intense malaria transmission, for instance to find work, or as refugees. 
+
+Human immunity is another important factor, especially among adults in areas of moderate or intense transmission conditions. Partial immunity is developed over years of exposure, and while it never provides complete protection, it does reduce the risk that malaria infection will cause severe disease. For this reason, most malaria deaths in Africa occur in young children, whereas in areas with less transmission and low immunity, all age groups are at risk.
+Prevention
+
+Vector control is the main way to prevent and reduce malaria transmission. If coverage of vector control interventions within a specific area is high enough, then a measure of protection will be conferred across the community. 
+
+WHO recommends protection for all people at risk of malaria with effective malaria vector control. Two forms of vector control – insecticide-treated mosquito nets and indoor residual spraying – are effective in a wide range of circumstances. 
+Insecticide-treated mosquito nets
+
+Long-lasting insecticidal nets (LLINs) are the preferred form of insecticide-treated mosquito nets (ITNs) for public health programmes. In most settings, WHO recommends LLIN coverage for all people at risk of malaria. The most cost-effective way to achieve this is by providing LLINs free of charge, to ensure equal access for all. In parallel, effective behaviour change communication strategies are required to ensure that all people at risk of malaria sleep under a LLIN every night, and that the net is properly maintained.
+Indoor spraying with residual insecticides
+
+Indoor residual spraying (IRS) with insecticides is a powerful way to rapidly reduce malaria transmission. Its potential is realized when at least 80% of houses in targeted areas are sprayed. Indoor spraying is effective for 3–6 months, depending on the insecticide formulation used and the type of surface on which it is sprayed. In some settings, multiple spray rounds are needed to protect the population for the entire malaria season. 
+Antimalarial drugs 
+
+Antimalarial medicines can also be used to prevent malaria. For travellers, malaria can be prevented through chemoprophylaxis, which suppresses the blood stage of malaria infections, thereby preventing malaria disease. For pregnant women living in moderate-to-high transmission areas, WHO recommends intermittent preventive treatment with sulfadoxine-pyrimethamine, at each scheduled antenatal visit after the first trimester. Similarly, for infants living in high-transmission areas of Africa, 3 doses of intermittent preventive treatment with sulfadoxine-pyrimethamine are recommended, delivered alongside routine vaccinations. 
+
+In 2012, WHO recommended Seasonal Malaria Chemoprevention as an additional malaria prevention strategy for areas of the Sahel sub-region of Africa. The strategy involves the administration of monthly courses of amodiaquine plus sulfadoxine-pyrimethamine to all children under 5 years of age during the high transmission season. 
+Insecticide resistance
+
+Much of the success in controlling malaria is due to vector control. Vector control is highly dependent on the use of pyrethroids, which are the only class of insecticides currently recommended for ITNs or LLINs. 
+
+In recent years, mosquito resistance to pyrethroids has emerged in many countries. In some areas, resistance to all 4 classes of insecticides used for public health has been detected. Fortunately, this resistance has only rarely been associated with decreased efficacy of LLINs, which continue to provide a substantial level of protection in most settings. Rotational use of different classes of insecticides for IRS is recommended as one approach to manage insecticide resistance.
+
+However, malaria-endemic areas of sub-Saharan Africa and India are causing significant concern due to high levels of malaria transmission and widespread reports of insecticide resistance. The use of 2 different insecticides in a mosquito net offers an opportunity to mitigate the risk of the development and spread of insecticide resistance; developing these new nets is a priority. Several promising products for both IRS and nets are in the pipeline. 
+
+Detection of insecticide resistance should be an essential component of all national malaria control efforts to ensure that the most effective vector control methods are being used. The choice of insecticide for IRS should always be informed by recent, local data on the susceptibility of target vectors. 
+
+To ensure a timely and coordinated global response to the threat of insecticide resistance, WHO worked with a wide range of stakeholders to develop the "Global Plan for Insecticide Resistance Management in Malaria Vectors (GPIRM)", which was released in May 2012. 
+Diagnosis and treatment
+
+Early diagnosis and treatment of malaria reduces disease and prevents deaths. It also contributes to reducing malaria transmission. The best available treatment, particularly for P. falciparum malaria, is artemisinin-based combination therapy (ACT). 
+
+WHO recommends that all cases of suspected malaria be confirmed using parasite-based diagnostic testing (either microscopy or rapid diagnostic test) before administering treatment. Results of parasitological confirmation can be available in 30 minutes or less. Treatment, solely on the basis of symptoms should only be considered when a parasitological diagnosis is not possible. More detailed recommendations are available in the "WHO Guidelines for the treatment of malaria", third edition, published in April 2015.
+Antimalarial drug resistance
+
+Resistance to antimalarial medicines is a recurring problem. Resistance of P. falciparum to previous generations of medicines, such as chloroquine and sulfadoxine-pyrimethamine (SP), became widespread in the 1950s and 1960s, undermining malaria control efforts and reversing gains in child survival.
+
+WHO recommends the routine monitoring of antimalarial drug resistance, and supports countries to strengthen their efforts in this important area of work.
+
+An ACT contains both the drug artemisinin and a partner drug. In recent years, parasite resistance to artemisinin has been detected in 5 countries of the Greater Mekong subregion: Cambodia, Lao People’s Democratic Republic, Myanmar, Thailand and Viet Nam. Studies have confirmed that artemisinin resistance has emerged independently in many areas of this subregion.
+
+In 2013, WHO launched the Emergency response to artemisinin resistance (ERAR) in the Greater Mekong Subregion, a high-level plan of attack to contain the spread of drug-resistant parasites and to provide life-saving tools for all populations at risk of malaria. But even as this work was under way, additional pockets of resistance emerged independently in new geographic areas of the subregion. In parallel, there were reports of increased resistance to ACT partner drugs in some settings. A new approach was needed to keep pace with the changing malaria landscape.
+
+Consequently, WHO’s Malaria Policy Advisory Committee in September 2014 recommended adopting the goal of eliminating P. falciparum malaria in this subregion by 2030. WHO launched the Strategy for Malaria Elimination in the Greater Mekong Subregion (2015–2030) at the World Health Assembly in May 2015, which was endorsed by all the countries in the subregion. With technical guidance from WHO, all GMS countries have developed national malaria elimination plans. Together with partners, WHO will provide ongoing support for country elimination efforts through the Mekong Malaria Elimination programme, a new initiative that evolved from the ERAR.
+Surveillance
+
+Surveillance entails tracking of the disease and programmatic responses, and taking action based on the data received. Currently many countries with a high burden of malaria have weak surveillance systems and are not in a position to assess disease distribution and trends, making it difficult to optimize responses and respond to outbreaks.
+
+Effective surveillance is required at all points on the path to malaria elimination and the Global Technical Strategy for Malaria 2016-2030 (GTS) recommends that countries transform surveillance into a core intervention. Strong malaria surveillance enables programmes to optimize their operations, by empowering programmes to:
+
+advocate for investment from domestic and international sources, commensurate with the malaria disease burden in a country or subnational area;
+allocate resources to populations most in need and to interventions that are most effective, in order to achieve the greatest possible public health impact;
+assess regularly whether plans are progressing as expected or whether adjustments in the scale or combination of interventions are required;
+account for the impact of funding received and enable the public, their elected representatives and donors to determine if they are obtaining value for money; and
+evaluate whether programme objectives have been met and learn what works so that more efficient and effective programmes can be designed.
+
+
+Stronger malaria surveillance systems are urgently needed to enable a timely and effective malaria response in endemic regions, to prevent outbreaks and resurgences, to track progress, and to hold governments and the global malaria community accountable. 
+Elimination
+
+Malaria elimination is defined as the interruption of local transmission of a specified malaria parasite species in a defined geographical area as a result of deliberate activities. Continued measures are required to prevent re-establishment of transmission. (The certification of malaria elimination in a country will require that local transmission is interrupted for all human malaria parasites.)
+
+Malaria eradication is defined as the permanent reduction to zero of the worldwide incidence of malaria infection caused by human malaria parasites as a result of deliberate activities. Interventions are no longer required once eradication has been achieved.
+
+The rate of progress in a particular country will depend on the strength of its national health system, the level of investment in malaria control, and a number of other factors, including: biological determinants, the environment, and the social, demographic, political, and economic realities of a particular country. 
+
+In countries with high or moderate rates of malaria transmission, national malaria control programmes aim to maximize the reduction of malaria cases and deaths. 
+
+As countries approach elimination, enhanced surveillance systems can help ensure that every infection is detected, treated and reported to a national malaria registry. Patients diagnosed with malaria should be treated promptly with effective antimalarial medicines for their own health and to prevent onward transmission of the disease in the community. 
+Countries that have achieved at least 3 consecutive years of 0 local cases of malaria are eligible to apply for the WHO certification of malaria elimination. In recent years, 8 countries have been certified by the WHO Director-General as having eliminated malaria: United Arab Emirates (2007), Morocco (2010), Turkmenistan (2010), Armenia (2011), Maldives (2015), Sri Lanka (2016), Kyrgyzstan (2016) and Paraguay (2018). The WHO Framework for Malaria Elimination (2017) provides a detailed set of tools and strategies for achieving and maintaining elimination.
+Vaccines against malaria
+
+RTS,S/AS01 (RTS,S) – also known as Mosquirix – is an injectable vaccine that provides partial protection against malaria in young children. The vaccine is being evaluated in sub-Saharan Africa as a complementary malaria control tool that potentially could be added to (and not replace) the core package of WHO-recommended preventive, diagnostic and treatment measures.
+
+In July 2015, the vaccine received a positive opinion by the European Medicines Agency, a stringent medicines regulatory authority. In October 2015, two WHO advisory groups recommended pilot implementation of RTS, S/AS01 in a limited number of African countries. WHO adopted these recommendations and is strongly supportive of the need to proceed with the pilot programme as the next step for the world’s first malaria vaccine.
+
+In November 2016, WHO announced that the RTS,S vaccine would be rolled out in pilot projects in selected areas in 3 countries in sub-Saharan Africa: Ghana, Kenya and Malawi. Funding has been secured for the initial phase of the programme and vaccinations are due to begin in 2018. These pilot projects could pave the way for wider deployment of the vaccine if safety and effectiveness are considered acceptable.
+WHO response
+
+The WHO Global Technical Strategy for Malaria 2016-2030 – adopted by the World Health Assembly in May 2015 – provides a technical framework for all malaria-endemic countries. It is intended to guide and support regional and country programmes as they work towards malaria control and elimination. 
+
+The Strategy sets ambitious but achievable global targets, including:
+
+Reducing malaria case incidence by at least 90% by 2030.
+Reducing malaria mortality rates by at least 90% by 2030.
+Eliminating malaria in at least 35 countries by 2030.
+Preventing a resurgence of malaria in all countries that are malaria-free.
+
+
+This Strategy was the result of an extensive consultative process that spanned 2 years and involved the participation of more than 400 technical experts from 70 Member States. It is based on 3 key pillars: 
+
+ensuring universal access to malaria prevention, diagnosis and treatment; 
+accelerating efforts towards elimination and attainment of malaria-free status; and 
+transforming malaria surveillance into a core intervention. 
+
+
+The WHO Global Malaria Programme (GMP) coordinates WHO's global efforts to control and eliminate malaria by:
+
+setting, communicating and promoting the adoption of evidence-based norms, standards, policies, technical strategies, and guidelines; 
+keeping independent score of global progress; 
+developing approaches for capacity building, systems strengthening, and surveillance; and
+identifying threats to malaria control and elimination as well as new areas for action.
+
+
+GMP is supported and advised by the Malaria Policy Advisory Committee (MPAC), a group of 15 global malaria experts appointed following an open nomination process. The MPAC, which meets twice yearly, provides independent advice to WHO to develop policy recommendations for the control and elimination of malaria. The mandate of MPAC is to provide strategic advice and technical input, and extends to all aspects of malaria control and elimination, as part of a transparent, responsive and credible policy setting process.

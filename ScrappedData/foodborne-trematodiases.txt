@@ -1,0 +1,232 @@
+Key facts
+
+Foodborne trematodiases cause 2 million life years lost to disability and death worldwide every year.
+People become infected by eating raw fish, crustaceans or vegetables that harbour the parasite larvae.
+Foodborne trematodiases are most prevalent in East Asia and South America.
+Foodborne trematodiases result in severe liver and lung disease.
+Safe and efficacious medicines are available to prevent and treat foodborne trematodiases.
+Prevention and management of food-borne trematodes requires cross-sectoral collaboration on the human-animal and ecosystems interface.
+
+
+
+Foodborne trematodiases are caused by trematode worms (“flukes”), among them the species affecting humans with potentially severe outcomes, are Clonorchis, Opisthorchis, Fasciola and Paragonimus.
+
+People become infected through the consumption of raw or undercooked food: fish, crustaceans and vegetables that harbour the minute larval stages of the parasites (see Table 1).
+Transmission
+
+Foodborne trematodiases are zoonoses, i.e. they are naturally transmissible from vertebrate animals to people and vice versa. Direct transmission is however not possible, as the relevant causative parasites become infective only after having completed complex life-cycles that usually involve stages in intermediate, non-human hosts.
+
+Foodborne trematodiases are zoonoses, i.e. they are naturally transmissible from vertebrate animals to people and vice versa. Direct transmission is however not possible, as the relevant causative parasites become infective only after having completed complex life-cycles that usually involve stages in intermediate, non-human hosts. 
+
+The first intermediate host in all cases is a freshwater snail, while the second host differs: for Clonorchis and Opisthorchis it is a freshwater fish, for Paragonimus it is a crustacean, while Fasciola does not require a second intermediate host. The final host is always a mammal.
+
+People get the infection when they ingest the second intermediate host that is infected with larval forms of the parasite. In the case of fascioliasis, people become infected when the larvae are ingested together with the aquatic vegetables to which they are attached (see Table 1 for details).
+Table 1. Epidemiological characteristics of foodborne trematodiases
+
+
+
+
+Disease
+Infectious agent
+Acquired through consumption of
+Natural final hosts of the infection
+
+
+
+
+Clonorchiasis
+Clonorchis sinensis
+Fish
+Dogs and other fish-eating carnivores
+
+
+Opisthorchiasis
+Opisthorchis viverrini,
+O. felineus
+Fish
+Cats and other fish-eating carnivores
+
+
+Fascioliasis
+Fasciola hepatica, 
+F. gigantica
+Aquatic vegetables
+Sheep, cattle and other herbivores
+
+
+
+
+Paragonimiasis
+Paragonimus spp.
+Crustaceans (crabs and crayfish)
+Cats, dogs and other crustacean-eating carnivores
+
+
+
+Epidemiology and burden
+
+The true burden of disease associated with these infections is unclear. For example, paragonimiasis is known to be transmitted in the central and western Africa, but information regarding its epidemiological status is limited.
+
+Estimates from the WHO Foodborne disease burden Epidemiology Reference Group (FERG) (2015) identified the 4 species of food borne trematodes as important causes of disability with an estimated annual total of 200 000 illnesses and more than 7 000 deaths, resulting in > 2 million disability-adjusted life-years (DALYs) (1) globally.
+
+Clonorchiasis and opisthorchiasis are confined to Asia, while paragonimiasis can be found in Africa, Asia and Latin America. Fascioliasis is a global disease, affecting a significant number of countries throughout the world. Although cases of foodborne trematodes have been reported from more than 70 countries worldwide, countries in Asia and Latin America are the worst affected.
+
+Within countries, transmission is often restricted to limited areas and reflects behavioural and ecological patterns, such as people’s food habits, methods of food production and preparation, and the distribution of intermediate hosts. Information on the epidemiological status of foodborne trematode infections in Africa is largely missing.
+
+The economic impact of foodborne trematodiases is significant, and is linked to losses in the livestock and aquaculture industries due to reduced animal productivity, as well as to restrictions on exports and reduced consumer demand.
+Symptoms
+
+The public health burden attributable to foodborne trematodiases is predominantly due to morbidity rather than mortality.
+
+Early and light infections often pass unnoticed, as they are asymptomatic or only scarcely symptomatic. Conversely, if the worm load is high, general malaise is common and severe pain can occur, especially in the abdominal region, and this occurs most frequently in the case of fascioliasis.
+
+Chronic infections are invariably associated with severe morbidity. Symptoms are mainly organ-specific and reflect the final location of the adult worms in the body.
+
+In clonorchiasis and opisthorchiasis, the adult worms lodge in the smaller bile ducts of the liver, causing inflammation and fibrosis of the adjacent tissues with a potential to cause cholangiocarcinoma, a severe and fatal form of bile duct cancer. Both C. sinensis and O. viverrini, but not O. felineus, are classified as carcinogenic agents.
+
+In fascioliasis, the adult worms lodge in the larger bile ducts and the gall bladder, where they cause inflammation, fibrosis, blockage, colic pain and jaundice. Liver fibrosis and anaemia are also frequent.
+
+In paragonimiasis, the final location of the worms is the lung tissue. They cause symptoms that can be confounded with tuberculosis: chronic cough with blood-stained sputum, chest pain, dyspnoea (shortness of breath) and fever. Migration of the worms is possible: cerebral locations are the most severe.
+Prevention and control
+
+Control of foodborne trematodiases aims to reduce the risk of infection and at controlling associated morbidity.
+
+Like other diseases including an animal cycle, for the control of food-borne trematodes, an approach which links animal, human and environmental aspects should be used.
+
+Unhygienic preparation and storage can lead to the contamination of food, and the consumption of raw fish and seafood is a main risk factor for contracting these parasites.
+
+The preservation of the parasites’ biological cycles is also closely linked with water and sanitation. Unprocessed human and animal faecal waste used as manure or even deliberately as fish feed can contaminate (drinking) water, leading to a continuous cycle of infections.
+
+Therefore, veterinary public health measures and food safety practices and education are recommended to reduce the risk of infection. While, to control morbidity, WHO recommends improved access to treatment using safe and effective anthelminthic medicines (drugs that expel the worms).
+
+Treatment can be offered through preventive chemotherapy or individual case management. Preventive chemotherapy involves a population-based approach where everyone in a given region or area is given medicines, irrespective of their infection status. It is recommended in areas where large numbers of people are infected. A vigilant use of this preventive treatment is recommended due to rarely observed side effects. A cost-effective and risk minimizing strategy is to define at-risk populations based on consumption patterns of raw fish and focus on these for medication.
+
+Individual case-management involves the treatment of people with confirmed or suspected infection (see Table 2): this approach is more appropriate where cases are less clustered and where health facilities are available.
+Table 2. Recommended treatments and strategies
+
+
+
+
+Disease
+Recommended drug and dosage
+Recommended strategy
+
+
+
+
+
+
+Clonorchiasis and opisthorchiasis
+Individual case management
+
+
+Praziquantel 25 mg/kg three times daily for 2–-3 consecutive days
+- Treat all confirmed cases 
+            - In endemic areas: treat all suspect cases
+
+
+
+
+Preventive chemotherapy
+
+
+Praziquantel 40 mg/kg in single administration
+- In districts where the prevalence of infection is ≥ 20%, treat all residents every 12 months
+            -In districts where the prevalence of infection is
+            
+
+
+Fascioliasis
+Individual case management
+
+
+Triclabendazole:
+            – 10 mg/kg in single administration (a double dose of 20 mg/kg can be administered in case of treatment failure)
+- Treat all confirmed cases 
+            - In endemic areas: treat all suspect cases
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preventive chemotherapy
+
+
+Triclabendazole 10 mg/kg in single administration
+– In sub-districts, villages or communities where cases of fascioliasis appear to be clustered: treat all school-age children (5–14 years) or all residents, every 12 months
+
+
+Paragonimiasis
+Individual case management
+
+
+Triclabendazole:
+            – 2 x 10 mg/kg in the same day or
+
+            Praziquantel:
+            – 25 mg/kg three times daily for three days 
+- Treat all confirmed cases 
+            - In endemic areas: treat all suspect cases
+
+
+Preventive chemotherapy
+
+
+Triclabendazole:
+            – 20 mg/kg in single administration 
+- In sub-districts, villages or communities where cases of paragonimiasis appear to be clustered: treat all residents every 12 months
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHO response
+
+WHO’s work on foodborne trematodiases is part of an integrated approach to the control of neglected tropical diseases, and includes:
+
+development of strategic directions and recommendations;
+support for mapping in endemic countries;
+support for pilot interventions and control programmes in endemic countries;
+support for monitoring and evaluation of implemented activities; and
+documentation of the burden of foodborne trematodiases and the impact of implemented interventions.
+
+
+WHO promotes the inclusion of foodborne trematodiases among the targets of preventive chemotherapy interventions, with the aim of ensuring that their worst consequences (cancer of the bile duct and others) are fully prevented.
+
+WHO has also negotiated an agreement with Novartis Pharma AG whereby the company donates triclabendazole for the treatment of human fascioliasis and paragonimiasis. The medicines are shipped free of charge to ministries of health that apply for them. Several countries have taken advantage of this opportunity. In 2016, about 600 000 individuals were reported to have received treatment for foodborne trematodiases worldwide.
+
+In contrast, donations of praziquantel have not yet been secured.
+
+In May 2017, an expert consultation to accelerate the control of foodborne trematode infections will be held by the WHO Regional Office for the Western Pacific in Korea to discuss programmatic actions, operational research, monitoring & evaluation and surveillance of these diseases.
+
+
+(1) Disability adjusted life years (DALY) are used in health economics as a measure of disease impact. One DALY is equal to one year of “healthy life lost” due to a disease. They are calculated as the sum of years of life lost to death (YLL) and to disability (YLD) for people living with the health condition or its consequences.
+ 

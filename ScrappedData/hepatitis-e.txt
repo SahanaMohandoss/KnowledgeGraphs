@@ -1,0 +1,152 @@
+Key facts
+
+Hepatitis E is a liver disease caused by infection with a virus known as hepatitis E virus (HEV).
+Every year, there are an estimated 20 million HEV infections worldwide, leading to an estimated 3.3 million symptomatic cases of hepatitis E (1).
+WHO estimates that hepatitis E caused approximately 44 000 deaths in 2015 (accounting for 3.3% of the mortality due to viral hepatitis).
+The virus is transmitted via the faecal-oral route, principally via contaminated water.
+Hepatitis E is found worldwide, but the prevalence is highest in East and South Asia.
+A vaccine to prevent hepatitis E virus infection has been developed and is licensed in China, but is not yet available elsewhere.
+
+
+
+Hepatitis E is a liver disease caused by the hepatitis E virus (HEV): a small virus, with a positive-sense, single-stranded ribonucleic acid (RNA) genome. The virus has at least 4 different types: genotypes 1, 2, 3 and 4. Genotypes 1 and 2 have been found only in humans. Genotype 3 and 4 viruses circulate in several animals (including pigs, wild boars, and deer) without causing any disease, and occasionally infect humans.
+
+The virus is shed in the stools of infected persons, and enters the human body through the intestine. It is transmitted mainly through contaminated drinking water. Usually the infection is self-limiting and resolves within 2–6 weeks. Occasionally a serious disease, known as fulminant hepatitis (acute liver failure) develops, and a proportion of people with this disease can die.
+Geographical distribution
+
+Hepatitis E infection is found worldwide. Two different patterns are observed, where hepatitis E is found in:
+
+resource-poor areas with frequent water contamination; and 
+areas with safe drinking water supplies. 
+
+
+The disease is common in resource-limited countries with limited access to essential water, sanitation, hygiene and health services. In these areas, the disease occurs both as outbreaks and as sporadic cases. The outbreaks usually follow periods of faecal contamination of drinking water supplies and may affect several hundred to several thousand persons. Some of these outbreaks have occurred in areas of conflict and humanitarian emergencies, such as war zones, and in camps for refugees or internally displaced populations (IDP), situations where sanitation and safe water supply pose special challenges. 
+
+Sporadic cases are also believed to be related to contamination of water or food, albeit at a smaller scale. The cases in these areas are caused mostly by infection with genotype 1 virus, and much less frequently by genotype 2 virus. 
+
+In areas with better sanitation and water supply, hepatitis E disease is infrequent with only occasional sporadic cases. Most of these cases are caused by genotype 3 virus, and are caused by infection with virus originating in animals, usually through ingestion of undercooked animal meat (including animal liver) and are not related to contamination of water or other foods. 
+
+Serological evidence of prior exposure to the virus has been found in most areas, with higher seroprevalence rates (proportion of people who test positive for IgG antibodies to HEV) in regions with lower standards of sanitation and thus higher risk for transmission. However, presence of these antibodies does not imply presence of or increased risk of disease. The usefulness of such data for epidemiological purposes may also be limited due to variable and possible sub-optimal performance of available serological assays, and possible disappearance of the antibody with the passage of time among those exposed to the virus. 
+Transmission
+
+The hepatitis E virus is transmitted mainly through the faecal-oral route due to faecal contamination of drinking water. This route accounts for a very large proportion of clinical cases with this disease. The risk factors for hepatitis E are related to poor sanitation, allowing virus excreted in the faeces of infected people to reach drinking water supplies. 
+
+Other routes of transmission have been identified, but appear to account for a much smaller number of clinical cases. These routes of transmission include:
+
+ingestion of undercooked meat or meat products derived from infected animals;
+transfusion of infected blood products; and
+vertical transmission from a pregnant woman to her fetus.
+
+
+The ingestion of raw or uncooked shellfish may be the source of sporadic cases in endemic areas.
+Symptoms
+
+The incubation period following exposure to the hepatitis E virus ranges from 2 to 10 weeks, with an average of 5–6 weeks. The infected persons are believed to excrete the virus beginning a few days before to around 3-4 weeks after the onset of disease.
+
+In areas with high disease endemicity, symptomatic infection is most common in young adults aged 15–40 years. In these areas, although infection does occur in children, they often have either no symptoms or only a mild illness without jaundice that goes undiagnosed.
+
+Typical signs and symptoms of hepatitis include:
+
+an initial phase of mild fever, reduced appetite (anorexia), nausea and vomiting, lasting for a few days; some persons may also have abdominal pain, itching (without skin lesions), skin rash, or joint pain. 
+jaundice (yellow discolouration of the skin and sclera of the eyes), with dark urine and pale stools; and
+a slightly enlarged, tender liver (hepatomegaly).
+
+
+These symptoms are often indistinguishable from those experienced during other liver illnesses and typically last between 1–6 weeks.
+
+In rare cases, acute hepatitis E can be severe, and results in fulminant hepatitis (acute liver failure); these patients are at risk of death. Fulminant hepatitis occurs more frequently when hepatitis E occurs during pregnancy. Pregnant women with hepatitis E, particularly those in the second or third trimester, are at an increased risk of acute liver failure, fetal loss and mortality. Case fatality rates as high as 20–25% have been reported among pregnant women in their third trimester.
+
+Cases of chronic hepatitis E infection have been reported in immunosuppressed people, particularly organ transplant recipients on immunosuppressive drugs, with genotype 3 or 4 HEV infection. 
+Diagnosis
+
+Cases of hepatitis E are not clinically distinguishable from other types of acute viral hepatitis. Diagnosis can often be strongly suspected in appropriate epidemiologic settings however, for example in the occurrence of several cases in localities in known disease-endemic areas, in settings with risk of water contamination, if the disease is more severe in pregnant women, or if hepatitis A has been excluded.
+
+Definitive diagnosis of hepatitis E infection is usually based on the detection of specific IgM antibodies to the virus in a person’s blood; this is usually adequate in areas where disease is common. 
+
+Additional tests include reverse transcriptase polymerase chain reaction (RT-PCR) to detect the hepatitis E virus RNA in blood and/or stool; this assay requires specialised laboratory facilities. This test is particularly needed in areas where hepatitis E is infrequent, and in cases with chronic HEV infection. 
+
+A test for viral antigen detection in serum has been developed; its place in the diagnosis of hepatitis E is currently being studied. 
+Treatment 
+
+There is no specific treatment capable of altering the course of acute hepatitis E. As the disease is usually self-limiting, hospitalization is generally not required. Hospitalization is required for people with fulminant hepatitis, however, and should also be considered for symptomatic pregnant women.
+
+Immunosuppressed people with chronic hepatitis E benefit from specific treatment using ribavirin, an antiviral drug. In some specific situations, interferon has also been used successfully. 
+Prevention
+
+Prevention is the most effective approach against the disease. At the population level, transmission of HEV and hepatitis E disease can be reduced by:
+
+maintaining quality standards for public water supplies;
+establishing proper disposal systems for human feces.
+
+
+On an individual level, infection risk can be reduced by:
+
+maintaining hygienic practices such as hand-washing with safe water, particularly before handling food;
+avoiding consumption of water and/or ice of unknown purity; and
+adhering to WHO safe food practices.
+
+
+In 2011, a recombinant subunit vaccine to prevent hepatitis E virus infection was registered in China. It has not yet been approved in other countries.
+
+In 2015 the WHO’s Strategic Advisory Group of Experts (SAGE) on Immunization reviewed the existing evidence on the burden of hepatitis E and on the safety, immunogenicity, efficacy, and cost-effectiveness of the licensed hepatitis E vaccine:
+
+
+The global prevalence of hepatitis E virus infection and susceptibility: a systematic review.  
+
+A systematic review on hepatitis E virus globally 
+
+
+WHO has also written a position paper based on the SAGE review:
+
+
+Hepatitis E position paper
+
+
+
+Recommendations from the position paper are summarized in the WHO response section below. 
+Guidelines for epidemic measures
+
+WHO has published a manual on recognition, investigation and control of waterborne outbreaks of hepatitis E. 
+
+
+Waterborne Outbreaks of Hepatitis E: recognition, investigation and control 
+
+
+In brief, the following steps are recommended during a suspected outbreak of hepatitis E:
+
+verification of the diagnosis and confirmation of existence of an outbreak;
+determination of the mode of transmission, and identification of the population at increased risk of infection;
+improvement of sanitary and hygienic practices to eliminate faecal contamination of food and water; and
+elimination of the source of infection.
+
+WHO response
+
+WHO has issued a technical report “Waterborne Outbreaks of Hepatitis E: recognition, investigation and control”. The manual gives information about the epidemiology, clinical manifestations of the disease, and diagnosis of hepatitis E. It also provides guidance to public-health authorities on how to respond to outbreaks of hepatitis E infection.
+
+The WHO Strategic Advisory Group of Experts (SAGE) on Immunization issued a position paper on hepatitis E in 2015 which reviewed existing evidence on the burden of hepatitis E and on the safety, immunogenicity, efficacy, and cost-effectiveness of the licensed hepatitis E vaccine. Regarding the use of the hepatitis E vaccine, it recommends the following: 
+
+WHO recognizes the importance of hepatitis E as a public health problem in many developing countries, particularly among special populations such as pregnant women and individuals living in camps for displaced persons and in outbreak situations.
+WHO does not make a recommendation on the introduction of the vaccine for routine use in national programmes in populations where epidemic and sporadic hepatitis E disease is common. However, national authorities may decide to use the vaccine based on the local epidemiology.
+Due to the lack of sufficient information on safety, immunogenicity, and efficacy in the following population subgroups, WHO does not recommend routine use of the vaccine in children aged under 16 years, pregnant women, people with chronic liver disease, people on organ transplant waiting lists, and travellers.
+There may be special situations such as outbreaks where the risk of hepatitis E or of its complications or mortality is particularly high. The current WHO position concerning routine programmes should not preclude the use of the vaccine in these specific situations. In particular, the use of the vaccine to mitigate or prevent outbreaks of hepatitis E should be considered as well as the use of the vaccine to mitigate consequences in high risk groups such as pregnant women.
+As further data become available, the current WHO position on hepatitis E vaccine will be reviewed and updated as necessary on the basis of new information.
+
+
+WHO is currently working with experts and global partners to develop a generic protocol for use of the hepatitis E vaccine as an outbreak response intervention. There is also ongoing work with similar groups to create a simplified algorithm for the diagnosis, triage and management of hepatitis E during an outbreak.
+
+In May 2016, The World Health Assembly adopted the first “Global Health Sector Strategy on Viral Hepatitis, 2016-2021”. The strategy highlights the critical role of Universal Health Coverage and the targets of the strategy are aligned with those of the Sustainable Development Goals. 
+
+The strategy has a vision of eliminating viral hepatitis as a public health problem and this is encapsulated in the global targets of reducing new viral hepatitis infections by 90% and reducing deaths due to viral hepatitis by 65% by 2030. Actions to be taken by countries and WHO Secretariat to reach these targets are outlined in the strategy.
+
+To support countries in moving towards achieving the global hepatitis goals under the Sustainable Development Agenda 2030 WHO is working in the following areas:
+
+raising awareness, promoting partnerships and mobilizing resources;
+formulating evidence-based policy and data for action;
+preventing transmission; and
+scaling up screening, care and treatment services.
+
+
+WHO also organizes World Hepatitis Day on 28 July every year to increase awareness and understanding of viral hepatitis.
+
+
+(1) The Global Burden of Hepatitis E Virus Genotypes 1 and 2 in 2005.

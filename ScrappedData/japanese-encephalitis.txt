@@ -1,0 +1,53 @@
+Key facts
+
+Japanese encephalitis virus (JEV) is a flavivirus related to dengue, yellow fever and West Nile viruses, and is spread by mosquitoes.
+JEV is the main cause of viral encephalitis in many countries of Asia with an estimated 68 000 clinical cases every year.
+Although symptomatic Japanese encephalitis (JE) is rare, the case-fatality rate among those with encephalitis can be as high as 30%. Permanent neurologic or psychiatric sequelae can occur in 30%–50% of those with encephalitis.
+24 countries in the WHO South-East Asia and Western Pacific regions have endemic JEV transmission, exposing more than 3 billion people to risks of infection.
+There is no cure for the disease. Treatment is focused on relieving severe clinical signs and supporting the patient to overcome the infection.
+Safe and effective vaccines are available to prevent JE. WHO recommends that JE vaccination be integrated into national immunization schedules in all areas where JE disease is recognized as a public health issue.
+
+
+
+Japanese encephalitis virus JEV is the most important cause of viral encephalitis in Asia. It is a mosquito-borne flavivirus, and belongs to the same genus as dengue, yellow fever and West Nile viruses.
+
+The first case of Japanese encephalitis viral disease (JE) was documented in 1871 in Japan.
+
+The annual incidence of clinical disease varies both across and within endemic countries, ranging from <1 to >10 per 100 000 population or higher during outbreaks. A literature review estimates nearly 68 000 clinical cases of JE globally each year, with approximately 13 600 to 20 400 deaths. JE primarily affects children. Most adults in endemic countries have natural immunity after childhood infection, but individuals of any age may be affected.
+Signs and symptoms
+
+Most JEV infections are mild (fever and headache) or without apparent symptoms, but approximately 1 in 250 infections results in severe clinical illness. Severe disease is characterized by rapid onset of high fever, headache, neck stiffness, disorientation, coma, seizures, spastic paralysis and ultimately death. The case-fatality rate can be as high as 30% among those with disease symptoms.
+
+Of those who survive, 20%–30% suffer permanent intellectual, behavioural or neurological problems such as paralysis, recurrent seizures or the inability to speak. 
+Transmission
+
+24 countries in the WHO South-East Asia and Western Pacific regions have JEV transmission risk, which includes more than 3 billion people.
+
+JEV is transmitted to humans through bites from infected mosquitoes of the Culex species (mainly Culex tritaeniorhynchus). Humans, once infected, do not develop sufficient viraemia to infect feeding mosquitoes. The virus exists in a transmission cycle between mosquitoes, pigs and/or water birds (enzootic cycle). The disease is predominantly found in rural and periurban settings, where humans live in closer proximity to these vertebrate hosts.
+
+In most temperate areas of Asia, JEV is transmitted mainly during the warm season, when large epidemics can occur. In the tropics and subtropics, transmission can occur year-round but often intensifies during the rainy season and pre-harvest period in rice-cultivating regions. 
+Diagnosis
+
+Individuals who live in or have travelled to a JE-endemic area and experience encephalitis are considered a suspected JE case. To confirm JEV infection and to rule out other causes of encephalitis requires a laboratory testing of serum or, preferentially, cerebrospinal fluid. 
+
+Surveillance of the disease is mostly syndromic for acute encephalitis. Confirmatory laboratory testing is often conducted in dedicated sentinel sites, and efforts are undertaken to expand laboratory-based surveillance. Case-based surveillance is established in countries that effectively control JE through vaccination.
+Treatment
+
+There is no antiviral treatment for patients with JE. Treatment is supportive to relieve symptoms and stabilize the patient. 
+Prevention and control
+
+Safe and effective JE vaccines are available to prevent disease. WHO recommends having strong JE prevention and control activities, including JE immunization in all regions where the disease is a recognized public health priority, along with strengthening surveillance and reporting mechanisms. Even if the number of JE-confirmed cases is low, vaccination should be considered where there is a suitable environment for JE virus transmission. There is little evidence to support a reduction in JE disease burden from interventions other than the vaccination of humans.
+
+There are 4 main types of JE vaccines currently in use: inactivated mouse brain-derived vaccines, inactivated Vero cell-derived vaccines, live attenuated vaccines, and live recombinant vaccines. 
+
+Over the past years, the live attenuated SA14-14-2 vaccine manufactured in China has become the most widely used vaccine in endemic countries, and it was prequalified by WHO in October 2013. Cell-culture based inactivated vaccines and the live recombinant vaccine based on the yellow fever vaccine strain have also been licensed and WHO-prequalified. In November 2013, Gavi opened a funding window to support JE vaccination campaigns in eligible countries.
+
+All travellers to Japanese encephalitis-endemic areas should take precautions to avoid mosquito bites to reduce the risk for JE. Personal preventive measures include the use of repellents, long-sleeved clothes, coils and vaporizers. Travellers spending extensive time in JE endemic areas are recommended to get vaccinated.
+Disease outbreaks
+
+Major outbreaks of JE occur every 2-15 years. JE transmission intensifies during the rainy season, during which vector populations increase. However, there has not yet been evidence of increased JEV transmission following major floods or tsunamis. The spread of JEV in new areas has been correlated with agricultural development and intensive rice cultivation supported by irrigation programmes. 
+
+WHO responds to JE by:
+
+providing global recommendations for JE control, including the use of vaccines. WHO recommends JE immunization in all regions where the disease is a recognized public health priority and supports implementation.
+providing technical support for JE surveillance, JE vaccine introduction and large-scale JE vaccination campaigns, and evaluation of JE vaccine effectiveness and programmatic impact. 

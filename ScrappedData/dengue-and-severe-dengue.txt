@@ -1,0 +1,96 @@
+Key facts
+
+Dengue is a mosquito-borne viral infection.
+The infection causes flu-like illness, and occasionally develops into a potentially lethal complication called severe dengue.
+The global incidence of dengue has grown dramatically in recent decades. About half of the world's population is now at risk.
+Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas.
+Severe dengue is a leading cause of serious illness and death among children in some Asian and Latin American countries.
+There is no specific treatment for dengue/ severe dengue, but early detection and access to proper medical care lowers fatality rates below 1%.
+Dengue prevention and control depends on effective vector control measures.
+
+
+
+
+Dengue is a mosquito-borne viral disease that has rapidly spread in all regions of WHO in recent years. Dengue virus is transmitted by female mosquitoes mainly of the species Aedes aegypti and, to a lesser extent, Ae. albopictus. This mosquito also transmits chikungunya, yellow fever and Zika infection. Dengue is widespread throughout the tropics, with local variations in risk influenced by rainfall, temperature and unplanned rapid urbanization.
+
+Severe dengue (also known as Dengue Haemorrhagic Fever) was first recognized in the 1950s during dengue epidemics in the Philippines and Thailand. Today, severe dengue affects most Asian and Latin American countries and has become a leading cause of hospitalization and death among children and adults in these regions.
+There are 4 distinct, but closely related, serotypes of the virus that cause dengue (DEN-1, DEN-2, DEN-3 and DEN-4). Recovery from infection by one provides lifelong immunity against that particular serotype. However, cross-immunity to the other serotypes after recovery is only partial and temporary. Subsequent infections by other serotypes increase the risk of developing severe dengue.
+Global burden of dengue
+The incidence of dengue has grown dramatically around the world in recent decades. The actual numbers of dengue cases are underreported and many cases are misclassified. One recent estimate indicates 390 million dengue infections per year (95% credible interval 284–528 million), of which 96 million (67–136 million) manifest clinically (with any severity of disease).1 Another study, of the prevalence of dengue, estimates that 3.9 billion people, in 128 countries, are at risk of infection with dengue viruses.2
+Member States in three WHO regions regularly report the annual number of cases.. The number of cases reported increased from 2.2 million in 2010 to 3.2 million in 2015. Although the full global burden of the disease is uncertain, the initiation of activities to record all dengue cases partly explains the sharp increase in the number of cases reported in recent years. 
+Other features of the disease include its epidemiological patterns, including hyper-endemicity of multiple dengue virus serotypes in many countries and the alarming impact on both human health and the global and national economies.
+Distribution trends
+Before 1970, only 9 countries had experienced severe dengue epidemics. The disease is now endemic in more than 100 countries in the WHO regions of Africa, the Americas, the Eastern Mediterranean, South-East Asia and the Western Pacific. The America, South-East Asia and Western Pacific regions are the most seriously affected.
+Cases across the Americas, South-East Asia and Western Pacific exceeded 1.2 million in 2008 and over 3.2 million in 2015 (based on official data submitted by Member States). Recently the number of reported cases has continued to increase. In 2015, 2.35 million cases of dengue were reported in the Americas alone, of which 10 200 cases were diagnosed as severe dengue causing 1181 deaths.
+Not only is the number of cases increasing as the disease spreads to new areas, but explosive outbreaks are occurring. The threat of a possible outbreak of dengue fever now exists in Europe as local transmission was reported for the first time in France and Croatia in 2010 and imported cases were detected in 3 other European countries. In 2012, an outbreak of dengue on the Madeira islands of Portugal resulted in over 2 000 cases and imported cases were detected in mainland Portugal and 10 other countries in Europe. Among travellers returning from low- and middle-income countries, dengue is the second most diagnosed cause of fever after malaria.
+In 2014, trends indicate increases in the number of cases in the People's Republic of China, the Cook Islands, Fiji, Malaysia and Vanuatu, with Dengue Type 3 (DEN 3) affecting the Pacific Island countries after a lapse of over 10 years. Dengue was also reported in Japan after a lapse of over 70 years. 
+In 2015, Delhi, India, recorded its worst outbreak since 2006 with over 15 000 cases. The Island of Hawaii, United States of America, was affected by an outbreak with 181 cases reported in 2015 and ongoing transmission in 2016. The Pacific island countries of Fiji, Tonga and French Polynesia have continued to record cases.
+The year 2016 was characterized by large dengue outbreaks worldwide. The Region of the Americas region reported more than 2.38 million cases in 2016, where Brazil alone contributed slightly less than 1.5 million cases, approximately 3 times higher than in 2014. 1032 dengue deaths were also reported in the region. The Western Pacific Region reported more than 375 000 suspected cases of dengue in 2016, of which the Philippines reported 176 411 and Malaysia 100 028 cases, representing a similar burden to the previous year for both countries. The Solomon Islands declared an outbreak with more than 7000 suspected. In the African Region, Burkina Faso reported a localized outbreak of dengue with 1061 probable cases.
+ In 2017, a significant reduction was reported in the number of dengue cases in the Americas - from 2 177 171 cases in 2016 to 584 263 cases in 2017. This represents a reduction of 73%. Panama, Peru and Aruba were the only countries that registered an increase in cases during 2017. Similarly a 53% reduction in severe dengue cases was also recorded during 2017. In the first quarter of 2018, a reduction of 27% of cases was noted compared with the same period in 2017. In early 2018 Paraguay and Argentina reported dengue outbreaks. 
+WHO’s Western Pacific Region has reported dengue outbreaks in several countries in the Pacific, as well as the circulation of DENV-1 and DENV-2 serotypes. 
+In 2018, dengue has also been reported from Bangladesh, Cambodia, India, Myanmar, Malaysia  Pakistan, , Philippines, Thailand , and Yemen. 
+An estimated 500 000 people with severe dengue require hospitalization each year, and with an estimated 2.5% case fatality, annually.Globally,  28% decline in case fatality have been recorded between 2010 and 2016 with significant improvement in case management through capacity building at country level.
+ 
+Transmission
+The Aedes aegypti mosquito is the primary vector of dengue. The virus is transmitted to humans through the bites of infected female mosquitoes. After virus incubation for 4–10 days, an infected mosquito is capable of transmitting the virus for the rest of its life. 
+Infected symptomatic or asymptomatic humans are the main carriers and multipliers of the virus, serving as a source of the virus for uninfected mosquitoes. Patients who are already infected with the dengue virus can transmit the infection (for 4–5 days; maximum 12) via Aedes mosquitoes after their first symptoms appear.
+The Aedes aegypti mosquito lives in urban habitats and breeds mostly in man-made containers. Unlike other mosquitoes Ae. aegypti is a day-time feeder; its peak biting periods are early in the morning and in the evening before dusk. Female Ae. aegypti bites multiple people during each feeding period. 
+Aedes albopictus, a secondary dengue vector in Asia, has spread to North America and more than 25 countries in the European Region, largely due to the international trade in used tyres (a breeding habitat) and other goods (e.g. lucky bamboo). Ae. albopictus is highly adaptive and, therefore, can survive in cooler temperate regions of Europe. Its spread is due to its tolerance to temperatures below freezing, hibernation, and ability to shelter in microhabitats.
+Characteristics
+Dengue fever is a severe, flu-like illness that affects infants, young children and adults, but seldom causes death.
+Dengue should be suspected when a high fever (40°C/104°F) is accompanied by 2 of the following symptoms: severe headache, pain behind the eyes, muscle and joint pains, nausea, vomiting, swollen glands or rash. Symptoms usually last for 2–7 days, after an incubation period of 4–10 days after the bite from an infected mosquito.
+Severe dengue is a potentially deadly complication due to plasma leaking, fluid accumulation, respiratory distress, severe bleeding, or organ impairment. Warning signs occur 3–7 days after the first symptoms in conjunction with a decrease in temperature (below 38°C/100°F) and include: severe abdominal pain, persistent vomiting, rapid breathing, bleeding gums, fatigue, restlessness and blood in vomit. The next 24–48 hours of the critical stage can be lethal; proper medical care is needed to avoid complications and risk of death.
+Treatment
+There is no specific treatment for dengue fever.
+For severe dengue, medical care by physicians and nurses experienced with the effects and progression of the disease can save lives – decreasing mortality rates from more than 20% to less than 1%. Maintenance of the patient's body fluid volume is critical to severe dengue care.
+Immunization
+ 
+
+The first dengue vaccine, Dengvaxia® (CYD-TDV) developed by Sanofi Pasteur was licensed in December 2015 and has now been approved by regulatory authorities in 20 countries for use in endemic areas in persons ranging from 9-45 years of age. In April 2016, WHO issued a conditional recommendation on the use of the vaccine for areas in which dengue is highly endemic as defined by seroprevalence of 70% or higher. In November 2017, the results of an additional analysis to retrospectively determine serostatus at the time of vaccination were released. The analysis showed that the subset of trial participants who were inferred to be seronegative at time of first vaccination had a higher risk of more severe dengue and hospitalizations from dengue compared to unvaccinated participants. 
+
+
+WHO position 
+The live attenuated dengue vaccine CYD-TDV has been shown in clinical trials to be efficacious and safe in persons who have had a previous dengue virus infection (seropositive individuals), but carries an increased risk of severe dengue in those who experience their first natural dengue infection after vaccination (seronegative individuals). 
+
+
+For countries considering vaccination as part of their dengue control programme, pre-vaccination screening is the recommended strategy. With this strategy, only persons with evidence of a past dengue infection would be vaccinated (based on an antibody test, or on a documented laboratory confirmed dengue infection in the past). 
+Decisions about implementing a pre-vaccination screening strategy will require careful assessment at the country level, including consideration of the sensitivity and specificity of available tests and of local priorities, dengue epidemiology, country-specific dengue hospitalization rates, and affordability of both CYD-TDV and screening tests. 
+
+
+Vaccination should be considered as part of an integrated dengue prevention and control strategy. There is an ongoing need to adhere to other disease preventive measures such as well-executed and sustained vector control. Individuals, whether vaccinated or not, should seek prompt medical care if dengue-like symptoms occur. 
+
+ 
+ 
+Prevention and control
+At present, the main method to control or prevent the transmission of dengue virus is to combat vector mosquitoes through:
+
+preventing mosquitoes from accessing egg-laying habitats by environmental management and modification;
+disposing of solid waste properly and removing artificial man-made habitats;
+covering, emptying and cleaning of domestic water storage containers on a weekly basis;
+applying appropriate insecticides to water storage outdoor containers; 
+using of personal household protection such as window screens, long-sleeved clothes, insecticide treated materials, coils and vaporizers;
+improving community participation and mobilization for sustained vector control;
+applying insecticides as space spraying during outbreaks as one of the emergency vector-control measures;
+active monitoring and surveillance of vectors should be carried out to determine effectiveness of control interventions.
+
+Careful clinical detection and management of dengue patients can significantly reduce mortality rates from severe dengue.
+
+Global Strategy for dengue prevention and control, 2012–2020, Chapter 2
+
+
+WHO response
+WHO responds to dengue in the following ways:
+
+supports countries in the confirmation of outbreaks through its collaborating network of laboratories;
+provides technical support and guidance to countries for the effective management of dengue outbreaks;
+supports countries to improve their reporting systems and capture the true burden of the disease;
+provides training on clinical management, diagnosis and vector control at the regional level with some of its collaborating centres;
+formulates evidence-based strategies and policies;
+develops new tools, including insecticide products and application technologies;
+gathers official records of dengue and severe dengue from over 100 Member States; and
+publishes guidelines and handbooks for surveillance, case management, diagnosis, dengue prevention and control for Member States.
+
+
+1 Bhatt S, Gething PW, Brady OJ, Messina JP, Farlow AW, Moyes CL et.al. The global distribution and burden of dengue. Nature;496:504-507.
+2 Brady OJ, Gething PW, Bhatt S, Messina JP, Brownstein JS, Hoen AG et al. Refining the global spatial limits of dengue virus transmission by evidence-based consensus. PLoS Negl Trop Dis. 2012;6:e1760. doi:10.1371/journal.pntd.0001760.
+ 

@@ -1,0 +1,77 @@
+Key facts
+
+Climate change affects the social and environmental determinants of health – clean air, safe drinking water, sufficient food and secure shelter.
+Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year, from malnutrition, malaria, diarrhoea and heat stress.
+The direct damage costs to health (i.e. excluding costs in health-determining sectors such as agriculture and water and sanitation), is estimated to be between USD 2-4 billion/year by 2030.
+Areas with weak health infrastructure – mostly in developing countries – will be the least able to cope without assistance to prepare and respond.
+Reducing emissions of greenhouse gases through better transport, food and energy-use choices can result in improved health, particularly through reduced air pollution.
+
+
+
+ Climate change
+
+Over the last 50 years, human activities – particularly the burning of fossil fuels – have released sufficient quantities of carbon dioxide and other greenhouse gases to trap additional heat in the lower atmosphere and affect the global climate. 
+
+In the last 130 years, the world has warmed by approximately 0.85oC. Each of the last 3 decades has been successively warmer than any preceding decade since 1850(1). 
+
+Sea levels are rising, glaciers are melting and precipitation patterns are changing. Extreme weather events are becoming more intense and frequent.
+What is the impact of climate change on health?
+
+Although global warming may bring some localized benefits, such as fewer winter deaths in temperate climates and increased food production in certain areas, the overall health effects of a changing climate are likely to be overwhelmingly negative. Climate change affects social and environmental determinants of health – clean air, safe drinking water, sufficient food and secure shelter.
+Extreme heat
+
+Extreme high air temperatures contribute directly to deaths from cardiovascular and respiratory disease, particularly among elderly people. In the heat wave of summer 2003 in Europe for example, more than 70 000 excess deaths were recorded(2). 
+
+High temperatures also raise the levels of ozone and other pollutants in the air that exacerbate cardiovascular and respiratory disease. 
+
+Pollen and other aeroallergen levels are also higher in extreme heat. These can trigger asthma, which affects around 300 million people. Ongoing temperature increases are expected to increase this burden.
+Natural disasters and variable rainfall patterns
+
+Globally, the number of reported weather-related natural disasters has more than tripled since the 1960s. Every year, these disasters result in over 60 000 deaths, mainly in developing countries. 
+
+Rising sea levels and increasingly extreme weather events will destroy homes, medical facilities and other essential services. More than half of the world's population lives within 60 km of the sea. People may be forced to move, which in turn heightens the risk of a range of health effects, from mental disorders to communicable diseases. 
+
+Increasingly variable rainfall patterns are likely to affect the supply of fresh water. A lack of safe water can compromise hygiene and increase the risk of diarrhoeal disease, which kills over 500 000 children aged under 5 years, every year. In extreme cases, water scarcity leads to drought and famine. By the late 21st century, climate change is likely to increase the frequency and intensity of drought at regional and global scale(1). 
+
+Floods are also increasing in frequency and intensity, and the frequency and intensity of extreme precipitation is expected to continue to increase throughout the current century(1). Floods contaminate freshwater supplies, heighten the risk of water-borne diseases, and create breeding grounds for disease-carrying insects such as mosquitoes. They also cause drownings and physical injuries, damage homes and disrupt the supply of medical and health services.
+
+Rising temperatures and variable precipitation are likely to decrease the production of staple foods in many of the poorest regions. This will increase the prevalence of malnutrition and undernutrition, which currently cause 3.1 million deaths every year.
+Patterns of infection
+
+Climatic conditions strongly affect water-borne diseases and diseases transmitted through insects, snails or other cold blooded animals. 
+
+Changes in climate are likely to lengthen the transmission seasons of important vector-borne diseases and to alter their geographic range. For example, climate change is projected to widen significantly the area of China where the snail-borne disease schistosomiasis occurs(3). 
+
+Malaria is strongly influenced by climate. Transmitted by Anopheles mosquitoes, malaria kills over 400 000 people every year – mainly African children under 5 years old. The Aedes mosquito vector of dengue is also highly sensitive to climate conditions, and studies suggest that climate change is likely to continue to increase exposure to dengue.
+
+Measuring the health effects
+
+Measuring the health effects from climate change can only be very approximate. Nevertheless, a WHO assessment, taking into account only a subset of the possible health impacts, and assuming continued economic growth and health progress, concluded that climate change is expected to cause approximately 250 000 additional deaths per year between 2030 and 2050; 38 000 due to heat exposure in elderly people, 48 000 due to diarrhoea, 60 000 due to malaria, and 95 000 due to childhood undernutrition.
+Who is at risk?
+
+All populations will be affected by climate change, but some are more vulnerable than others. People living in small island developing states and other coastal regions, megacities, and mountainous and polar regions are particularly vulnerable. 
+
+Children – in particular, children living in poor countries – are among the most vulnerable to the resulting health risks and will be exposed longer to the health consequences. The health effects are also expected to be more severe for elderly people and people with infirmities or pre-existing medical conditions.
+
+Areas with weak health infrastructure – mostly in developing countries – will be the least able to cope without assistance to prepare and respond.
+WHO response
+
+Many policies and individual choices have the potential to reduce greenhouse gas emissions and produce major health co-benefits. For example, cleaner energy systems, and promoting the safe use of public transportation and active movement – such as cycling or walking as alternatives to using private vehicles – could reduce carbon emissions, and cut the burden of household air pollution, which causes some 4.3 million deaths per year, and ambient air pollution, which causes about 3 million deaths every year. 
+
+In 2015, the WHO Executive Board endorsed a new work plan on climate change and health. This includes: 
+
+Partnerships: to coordinate with partner agencies within the UN system, and ensure that health is properly represented in the climate change agenda.
+Awareness raising: to provide and disseminate information on the threats that climate change presents to human health, and opportunities to promote health while cutting carbon emissions. 
+Science and evidence: to coordinate reviews of the scientific evidence on the links between climate change and health, and develop a global research agenda. 
+Support for implementation of the public health response to climate change: to assist countries to build capacity to reduce health vulnerability to climate change, and promote health while reducing carbon emissions. 
+
+
+References
+
+(1) IPCC, 2014: Summary for Policymakers. In: Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel and J.C. Minx (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+
+(2) Death toll exceeded 70,000 in Europe during the summer of 2003. Robine JM, Cheung SL, Le Roy S, Van Oyen H, Griffiths C, Michel JP, et al. C R Biol. 2008;331(2):171-8.
+
+
+(3) Potential impact of climate change on schistosomiasis transmission in China. Zhou XN, Yang GJ, Yang K, Wang XH, Hong QB, Sun LP, et al. Am J Trop Med Hyg. 2008;78(2):188-94.
+ 

@@ -1,0 +1,72 @@
+Key facts
+
+Tuberculosis (TB) is one of the top 10 causes of death worldwide.
+In 2017, 10 million people fell ill with TB, and 1.6 million died from the disease (including 0.3  million among people with HIV). 
+In 2017, an estimated 1 million children became ill with TB and 230 000 children died of TB (including children with HIV associated TB).
+TB is a leading killer of HIV-positive people.
+Multidrug-resistant TB (MDR-TB) remains a public health crisis and a health security threat. WHO estimates that there were 558 000 new cases with resistance to rifampicin – the most effective first-line drug, of which - 82% had MDR-TB.
+Globally, TB incidence is falling at about 2% per year. This needs to accelerate to a 4–5% annual decline to reach the 2020 milestones of the End TB Strategy.
+An estimated 54  million lives were saved through TB diagnosis and treatment between 2000 and 2017.
+Ending the TB epidemic by 2030 is among the health targets of the Sustainable Development Goals.
+
+
+
+Tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable.
+TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.
+About one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.
+People infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. However, persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a much higher risk of falling ill.
+When a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 10–15 other people through close contact over the course of a year. Without proper treatment, 45% of HIV-negative people with TB on average and nearly all HIV-positive people with TB will die.
+Who is most at risk?
+Tuberculosis mostly affects adults in their most productive years. However, all age groups are at risk. Over 95% of cases and deaths are in developing countries.
+People who are infected with HIV are 20 to 30 times more likely to develop active TB (see TB and HIV section below). The risk of active TB is also greater in persons suffering from other conditions that impair the immune system.
+One million children (0–14 years of age) fell ill with TB, and 230 000 children (including children with HIV associated TB) died from the disease in 2017.
+Tobacco use greatly increases the risk of TB disease and death. 7.9% of TB cases worldwide are attributable to smoking.
+Global impact of TB
+TB occurs in every part of the world. In 2017, the largest number of new TB cases occurred in the South-East Asia and Western Pacific regions, with 62% of new cases, followed by the African region, with 25% of new cases.
+In 2017, 87% of new TB cases occurred in the 30 high TB burden countries. Eight  countries accounted for two thirds of the new TB cases: India,China,Indonesia, the Philippines, Pakistan, Nigeria, Bangladesh and South Africa.
+Symptoms and diagnosis
+Common symptoms of active lung TB are cough with sputum and blood at times, chest pains, weakness, weight loss, fever and night sweats. Many countries still rely on a long-used method called sputum smear microscopy to diagnose TB. Trained laboratory technicians look at sputum samples under a microscope to see if TB bacteria are present. Microscopy detects only half the number of TB cases and cannot detect drug-resistance.
+The use of the rapid test Xpert MTB/RIF® has expanded substantially since 2010, when WHO first recommended its use. The test simultaneously detects TB and resistance to rifampicin, the most important TB medicine. Diagnosis can be made within 2 hours and the test is now recommended by WHO as the initial diagnostic test in all persons with signs and symptoms of TB. 
+Diagnosing multi-drug resistant and extensively drug-resistant TB (see Multidrug-resistant TB section below) as well as HIV-associated TB can be complex and expensive. In 2016, 4 new diagnostic tests were recommended by WHO – a rapid molecular test to detect TB at peripheral health centres where Xpert MTB/RIF cannot be used, and 3 tests to detect resistance to first- and second-line TB medicines.
+Tuberculosis is particularly difficult to diagnose in children and as yet only the Xpert MTB/RIF assay is generally available to assist with the diagnosis of paediatric TB.
+Treatment
+TB is a treatable and curable disease. Active, drug-susceptible TB disease is treated with a standard 6 month course of 4 antimicrobial drugs that are provided with information, supervision and support to the patient by a health worker or trained volunteer. Without such support, treatment adherence can be difficult and the disease can spread. The vast majority of TB cases can be cured when medicines are provided and taken properly.
+Between 2000 and 2017, an estimated 54 million lives were saved through TB diagnosis and treatment.
+TB and HIV
+People living with HIV are 20 to 30 times more likely to develop active TB disease than people without HIV.
+HIV and TB form a lethal combination, each speeding the other's progress. In 2017 about 0.3 million people died of HIV-associated TB. In 2017, there were an estimated 0.9 million new cases of TB amongst people who were HIV-positive, 72% of whom were living in Africa.
+WHO recommends a 12-component approach of collaborative TB-HIV activities, including actions for prevention and treatment of infection and disease, to reduce deaths.
+Multidrug-resistant TB
+Anti-TB medicines have been used for decades and strains that are resistant to 1 or more of the medicines have been documented in every country surveyed. Drug resistance emerges when anti-TB medicines are used inappropriately, through incorrect prescription by health care providers, poor quality drugs, and patients stopping treatment prematurely.
+Multidrug-resistant tuberculosis (MDR-TB) is a form of TB caused by bacteria that do not respond to isoniazid and rifampicin, the 2 most powerful, first-line anti-TB drugs. MDR-TB is treatable and curable by using second-line drugs. However, second-line treatment options are limited and require extensive chemotherapy (up to 2 years of treatment) with medicines that are expensive and toxic.
+In some cases, more severe drug resistance can develop. Extensively drug-resistant TB (XDR-TB) is a more serious form of MDR-TB caused by bacteria that do not respond to the most effective second-line anti-TB drugs, often leaving patients without any further treatment options.
+In 2017, MDR-TB remains a public health crisis and a health security threat. WHO estimates that there were 558 000 new cases with resistance to rifampicin – the most effective first-line drug – of which 82% had MDR-TB. The MDR-TB burden largely falls on 3 countries – India, China and the Russian Federation – which together account for nearly half of the global cases. About 8.5% of MDR-TB cases had extensively drug-resistant TB (XDR-TB) in 2017.
+Worldwide, only 55% of MDR-TB patients are currently successfully treated. In 2016, WHO approved the use of a short, standardised regimen for MDR-TB patients who do not have strains that are resistant to second-line TB medicines. This regimen takes 9–12 months and is much less expensive than the conventional treatment for MDR-TB, which can take up to 2 years. Patients with XDR-TB or resistance to second-line anti-TB drugs cannot use this regimen, however, and need to be put on longer MDR-TB regimens to which 1 of the new drugs (bedquiline and delamanid) may be added.
+In July 2018, the latest evidence on treatment of drug-resistant TB was reviewed by an independent panel of experts convened by WHO. A rapid communication on key changes to recommendations for the treatment of drug-resistant TB has been issued by WHO, to be followed by the release of updated and consolidated WHO policy guidelines later in the year.
+WHO also approved in 2016 a rapid diagnostic test to quickly identify these patients. 62  countries have started using shorter MDR-TB regimens. By the end of 2017, 62 countries reported having introduced bedaquiline and 42 countries reported having introduced delamanid, in an effort to improve the effectiveness of MDR-TB treatment regimens.
+WHO response
+WHO pursues 6 core functions in addressing TB:
+
+Providing global leadership on matters critical to TB.
+Developing evidence-based policies, strategies and standards for TB prevention, care and control, and monitoring their implementation.
+Providing technical support to Member States, catalyzing change, and building sustainable capacity.
+Monitoring the global TB situation, and measuring progress in TB care, control, and financing.
+Shaping the TB research agenda and stimulating the production, translation and dissemination of valuable knowledge.
+Facilitating and engaging in partnerships for TB action.
+
+The WHO End TB Strategy, adopted by the World Health Assembly in May 2014, is a blueprint for countries to end the TB epidemic by driving down TB deaths, incidence and eliminating catastrophic costs. It outlines global impact targets to reduce TB deaths by 90%, to cut new cases by 80% between 2015 and 2030, and to ensure that no family is burdened with catastrophic costs due to TB.
+Ending the TB epidemic by 2030 is among the health targets of the newly adopted Sustainable Development Goals. WHO has gone one step further and set a 2035 target of 95% reduction in deaths and a 90% decline in TB incidence – similar to current levels in low TB incidence countries today.
+The Strategy outlines three strategic pillars that need to be put in place to effectively end the epidemic:
+
+Pillar 1: integrated patient-centred care and prevention
+Pillar 2: bold policies and supportive systems
+Pillar 3: intensified research and innovation
+
+The success of the Strategy will depend on countries respecting the following 4 key principles as they implement the interventions outlined in each pillar:
+
+government stewardship and accountability, with monitoring and evaluation
+strong coalition with civil society organizations and communities
+protection and promotion of human rights, ethics and equity
+adaptation of the strategy and targets at country level, with global collaboration.
+
+ 

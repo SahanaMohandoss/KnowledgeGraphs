@@ -1,0 +1,63 @@
+Key facts
+
+Sepsis arises when the body’s response to an infection injures its own tissues and organs, potentially leading to death or significant morbidity.
+The global epidemiological burden of sepsis is difficult to ascertain. It is estimated to affect more than 30 million people worldwide every year, potentially leading to 6 million deaths (1). The burden of sepsis is most likely highest in low- and middle-income countries.
+It is estimated that 3 million newborns and 1.2 million children suffer from sepsis globally every year (2). Three out of every ten deaths due to neonatal sepsis are thought to be caused by resistant pathogens (3).
+One in ten deaths associated with pregnancy and childbirth is due to maternal sepsis with over 95% of deaths due to maternal sepsis occurring in low- and middle-income countries (4). One million newborn deaths are associated with maternal infection, such as maternal sepsis, each year (5).
+Sepsis can be the clinical manifestation of infections acquired both in the community setting or in health care facilities. Health care-associated infections are one of, if not the most frequent type of adverse event to occur during care delivery and affect hundreds of millions of patients worldwide every year (6). Since these infections are often resistant to antibiotics, they can rapidly lead to deteriorating clinical conditions.
+
+
+
+Background
+Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection (7). If not recognized early and managed promptly, it can lead to septic shock, multiple organ failure and death. Any type of infectious pathogen can potentially cause sepsis. Antimicrobial resistance is a major factor determining clinical unresponsiveness to treatment and rapid evolution to sepsis and septic shock. Sepsis patients with resistant pathogens have been found to have a higher risk of hospital mortality.
+Who is at risk?
+Anyone affected by an infection can progress to sepsis conditions but some vulnerable populations such as elderly people, pregnant women, neonates, hospitalized patients, and people with HIV/AIDS, liver cirrhosis, cancer, kidney disease, autoimmune diseases and no spleen, are at higher risk (8).
+Signs and symptoms
+Sepsis is a medical emergency. However, because of the characteristics of sepsis as a disease condition with multiple causative organisms and its evolving nature over time, people with sepsis can present various signs and symptoms at different times. Warning signs and symptoms include fever or low temperature and shivering, altered mental status, difficulty breathing/rapid breathing, increased heart rate, weak pulse/low blood pressure, low urine output, cyanotic or mottled skin, cold extremities, and extreme body pain or discomfort (9-11). Suspecting sepsis is a first major step towards early recognition and diagnosis.
+Prevention
+There are two main steps to preventing sepsis:
+
+prevention of microbial transmission and infection
+prevention of the evolution of an infection to sepsis conditions.
+
+Prevention of infection in the community involves using effective hygiene practices, such as hand washing, and safe preparation of food, improving sanitation and water quality and availability, providing access to vaccines, particularly for those at high risk, as well as appropriate nutrition, including breastfeeding for newborns.
+Prevention of infection in health care facilities mainly relies on having functioning infection prevention and control (IPC) programmes and teams, effective hygiene practices and precautions, including hand hygiene, along with a clean, well-functioning environment and equipment.
+Prevention of the evolution to sepsis in both community and health care facilitiesrequires the appropriate antibiotic treatment of infection, including reassessment for optimization, prompt seeking of medical care, and early detection of sepsis signs and symptoms.
+Scientific evidence has clearly demonstrated the effectiveness of infection prevention. For instance, improved hand hygiene practice in health care can reduce infection by as much as 50% (12), while, in community settings, it can cut the risk of diarrhoea by at least 40% (13) Water, sanitation and hygiene (WASH) improvements could result in a 10% reduction of the total burden of disease worldwide (14). Vaccinations prevent 2–3 million infection-associated deaths every year (15).
+Diagnosis and clinical management
+Identifying and not underestimating the signs and symptoms listed above, along with the detection of some biomarkers (such as procalcitonin), are crucial elements for early diagnosis of sepsis and the timely establishment of its appropriate clinical management. After early recognition, diagnostics to help identify a causal pathogen of infection leading to sepsis are also important to guide targeted antimicrobial treatment. Antimicrobial resistance (AMR) can jeopardize clinical management of sepsis because empirical antibiotic treatment is often required. Therefore, understanding of the epidemiology of AMR in the local setting is important. Once the source of infection is determined, the source control such as drainage of an abscess is also critical.
+Early fluid resuscitation to improve volume status is also important in the initial phase of sepsis management. In addition, vasopressors may be required to improve and maintain tissue perfusion. Repeated exams and diagnostics, including monitoring vital signs, will guide the appropriate management of sepsis over time.
+Sepsis and the Sustainable Development Goals
+Sepsis is a very relevant cause of maternal mortality, and also of death in neonates and children under five years of age. Consequently, combating sepsis will clearly contribute to achievement of Sustainable Development Goals (SDGs) targets 3.1 and 3.2.
+For these two SDG targets, maternal, neonatal and under-five mortality rates are the indicators. Sepsis ranks highly among the causes leading to this avoidable mortality. It can also be the clinical condition that ultimately leads to death in patients affected by HIV, tuberculosis, malaria and other infectious diseases that are included in target 3.3, but it is not usually recorded as the cause of death in these patients and thus is not captured as part of the indicators for SDG target 3.3.
+Even if less directly, sepsis is also relevant to other health targets in SDG 3. For instance, the prevention and/or appropriate diagnosis and management of sepsis is also linked to adequate vaccine coverage, quality universal health coverage, capacity to comply with the International Health Regulations, preparedness, and water and sanitation services. The challenge, however, remains how to achieve universal prevention, diagnosis and management of sepsis.
+WHO response
+Supported by a WHO Secretariat report, the Seventieth World Health Assembly adopted a resolution on sepsis in May 2017.
+
+Resolution WHA70.7: Improving the prevention, diagnosis and clinical management of sepsis
+WHO Secretariat Report A70/13: Improving the prevention, diagnosis and clinical management of sepsis
+
+In collaboration and coordination with WHO regional offices, Member States and other stakeholders, several WHO headquarters programmes listed below are currently working on the public health impact of sepsis, and are providing guidance and country support on sepsis prevention, early and appropriate diagnosis, and timely and appropriate clinical management, in order to address sepsis comprehensively. The Infection Prevention and Control (IPC) global unit in the Service Delivery and Safety Department at WHO headquarters provides coordination of sepsis activities and leads activities on sepsis prevention.
+
+References
+(1) Fleischmann C, Scherag A, Adhikari NK, et al. Assessment of Global Incidence and Mortality of Hospital-treated Sepsis. Current Estimates and Limitations. Am J Respir Crit Care Med 2016; 193(3): 259-72.
+(2) Fleischmann-Struzek C, Goldfarb DM, Schlattmann P, Schlapbach LJ, Reinhart K, Kissoon N. The global burden of paediatric and neonatal sepsis: a systematic review. The Lancet Respiratory medicine 2018; 6(3): 223-30.
+(3) Laxminarayan R, Matsoso P, Pant S, et al. Access to effective antimicrobials: a worldwide challenge. Lancet 2016; 387(10014): 168-75.
+(4) Say L, Chou D, Gemmill A, et al. Global causes of maternal death: a WHO systematic analysis. The Lancet Global health 2014; 2(6): e323-33.
+(5) Reproductive, Maternal, Newborn, and Child Health: Disease Control Priorities, Third Edition (Volume 2). In: Black RE, Laxminarayan R, Temmerman M, Walker N, eds. Reproductive, Maternal, Newborn, and Child Health: Disease Control Priorities, Third Edition (Volume 2). Washington (DC): The International Bank for Reconstruction and Development / The World Bank(c) 2016 International Bank for Reconstruction and Development / The World Bank.; 2016.
+(6) World Health Organization. WHO Report on the burden of endemic health care-associated infection worldwide. 2017-11-21 15:11:22 2011.
+
+http://apps.who.int/iris/bitstream/handle/10665/80135/9789241501507_eng.pdf?sequence=1 (accessed April 10 2018).
+(7) Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 2016; 315(8): 801-10.
+(8) Gotts JE, Matthay MA. Sepsis: pathophysiology and clinical management. British Medical Journal 2016.
+(9) United States Centers for Disease Control and Prevention. Healthcare Professional (HCP) Resources : Sepsis. 2018-02-01T06:23:15Z.
+
+https://www.cdc.gov/sepsis/get-ahead-of-sepsis/hcp-resources.html (accessed April 10 2018).
+(10) Global Sepsis Alliance. Toolkits. https://www.world-sepsis-day.org/toolkits/ (accessed April 10 2018).
+(11) UK SepsisTrust. Education. 2018. https://sepsistrust.org/education/ (accessed April 10 2018).
+(12) Luangasanatip N, Hongsuwan M, Limmathurotsakul D, et al. Comparative efficacy of interventions to promote hand hygiene in hospital: systematic review and network meta-analysis. British Medical Journal. 2015;351:h3728.
+(13) UNICEF. UNICEF Data : Monitoring the Situation of Children and Women - Diarrhoeal Disease. https://data.unicef.org/topic/child-health/diarrhoeal-disease/ (accessed April 10 2018).
+(14) Pruss-Ustun A, Bartram J, Clasen T, et al. Burden of disease from inadequate water, sanitation and hygiene in low- and middle-income settings: a retrospective analysis of data from 145 countries. Tropical medicine & international health : TM & IH 2014; 19(8): 894-905.
+(15) World Health Organization. Fact sheet: Immunization coverage. 2018-04-10 14:55:37.
+
+http://www.who.int/mediacentre/factsheets/fs378/en/ (accessed April 10 2018).

@@ -1,0 +1,161 @@
+Key facts
+
+Cholera is an acute diarrhoeal disease that can kill within hours if left untreated.
+Researchers have estimated that each year there are 1.3 million to 4.0 million cases of cholera, and 21 000 to 143 000 deaths worldwide due to cholera (1).
+Most of those infected will have no or mild symptoms, and can be successfully treated with oral rehydration solution.
+Severe cases will need rapid treatment with intravenous fluids and antibiotics.
+Provision of safe water and sanitation is critical to control the transmission of cholera and other waterborne diseases.
+Safe oral cholera vaccines should be used in conjunction with improvements in water and sanitation to control cholera outbreaks and for prevention in areas known to be high risk for cholera.
+A global strategy on cholera control with a target to reduce cholera deaths by 90% was launched in 2017.
+
+
+
+Cholera is an acute diarrhoeal infection caused by ingestion of food or water contaminated with the bacterium Vibrio cholerae. Cholera remains a global threat to public health and an indicator of inequity and lack of social development. Researchers have estimated that every year, there are roughly 1.3 to 4.0 million cases, and 21 000 to 143 000 deaths worldwide due to cholera (1). 
+Symptoms
+
+Cholera is an extremely virulent disease that can cause severe acute watery diarrhoea. It takes between 12 hours and 5 days for a person to show symptoms after ingesting contaminated food or water (2). Cholera affects both children and adults and can kill within hours if untreated. 
+
+Most people infected with V. cholerae do not develop any symptoms, although the bacteria are present in their faeces for 1-10 days after infection and are shed back into the environment, potentially infecting other people. 
+
+Among people who develop symptoms, the majority have mild or moderate symptoms, while a minority develop acute watery diarrhoea with severe dehydration. This can lead to death if left untreated. 
+History
+
+During the 19th century, cholera spread across the world from its original reservoir in the Ganges delta in India. Six subsequent pandemics killed millions of people across all continents. The current (seventh) pandemic started in South Asia in 1961, and reached Africa in 1971 and the Americas in 1991. Cholera is now endemic in many countries.
+Vibrio cholerae strains
+
+There are many serogroups of V. cholerae, but only two – O1 and O139 – cause outbreaks. V. cholerae O1 has caused all recent outbreaks. V. cholerae O139 – first identified in Bangladesh in 1992 – caused outbreaks in the past, but recently has only been identified in sporadic cases. It has never been identified outside Asia. There is no difference in the illness caused by the two serogroups.
+Epidemiology, risk factors, and disease burden
+
+Cholera can be endemic or epidemic. A cholera-endemic area is an area where confirmed cholera cases were detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere). A cholera outbreak/epidemic can occur in both endemic countries and in countries where cholera does not regularly occur.
+
+In cholera endemic countries an outbreak can be seasonal or sporadic and represents a greater than expected number of cases. In a country where cholera does not regularly occur, an outbreak is defined by the occurrence of at least 1 confirmed case of cholera with evidence of local transmission in an area where there is not usually cholera.
+
+Cholera transmission is closely linked to inadequate access to clean water and sanitation facilities. Typical at-risk areas include peri-urban slums, and camps for internally displaced persons or refugees, where minimum requirements of clean water and sanitation are not been met. 
+
+The consequences of a humanitarian crisis – such as disruption of water and sanitation systems, or the displacement of populations to inadequate and overcrowded camps – can increase the risk of cholera transmission, should the bacteria be present or introduced. Uninfected dead bodies have never been reported as the source of epidemics.
+
+The number of cholera cases reported to WHO has continued to be high over the last few years. During 2016, 132 121 cases were notified from 38 countries, including 2420 deaths. The discrepancy between these figures and the estimated burden of the disease is due to the fact that many cases are not recorded due to limitations in surveillance systems and fear of impact on trade and tourism. 
+Prevention and control
+
+A multifaceted approach is key to control cholera, and to reduce deaths. A combination of surveillance, water, sanitation and hygiene, social mobilisation, treatment, and oral cholera vaccines are used. 
+Surveillance
+
+Cholera surveillance should be part of an integrated disease surveillance system that includes feedback at the local level and information-sharing at the global level.
+
+Cholera cases are detected based on clinical suspicion in patients who present with severe acute watery diarrhoea. The suspicion is then confirmed by identifying V. cholerae in stool samples from affected patients. Detection can be facilitated by the use of rapid diagnostic tests (RDTs), where one or more positive samples triggers a cholera alert. The samples are sent to a laboratory for culture confirmation. Local capacity to detect (diagnose) and monitor (collect, compile, and analyse data) cholera occurrence, is central to an effective surveillance system and to planning control measures. 
+
+Countries affected by cholera are encouraged to strengthen disease surveillance and national preparedness to rapidly detect and respond to outbreaks. Under the International Health Regulations, notification of all cases of cholera is no longer mandatory. However, public health events involving cholera must always be assessed against the criteria provided in the regulations to determine whether there is a need for official notification. 
+Water and sanitation interventions
+
+The long-term solution for cholera control lies in economic development and universal access to safe drinking water and adequate sanitation. 
+
+Actions targeting environmental conditions include the implementation of adapted long-term sustainable WASH solutions to ensure use of safe water, basic sanitation and good hygiene practices to populations most at risk of cholera. In addition to cholera, such interventions prevent a wide range of other water-borne illnesses, as well as contributing to achieving goals related to poverty, malnutrition, and education. 
+
+Many of these interventions require substantial long-term investments and continued maintenance, making them difficult to fund and sustain by less developed countries where the interventions are most needed. 
+Treatment
+
+Cholera is an easily treatable disease. The majority of people can be treated successfully through prompt administration of oral rehydration solution (ORS). The WHO/UNICEF ORS standard sachet is dissolved in 1 litre (L) of clean water. Adult patients may require up to 6 L of ORS to treat moderate dehydration on the first day. 
+
+Severely dehydrated patients are at risk of shock and require the rapid administration of intravenous fluids. These patients are also given appropriate antibiotics to diminish the duration of diarrhoea, reduce the volume of rehydration fluids needed, and shorten the amount and duration of V. cholerae excretion in their stool.
+
+Mass administration of antibiotics is not recommended, as it has no proven effect on the spread of cholera and contributes to increasing antimicrobial resistance. 
+
+Rapid access to treatment is essential during a cholera outbreak. Oral rehydration should be available in communities, in addition to larger treatment centres that can provide intravenous fluids and 24 hour care. With early and proper treatment, the case fatality rate should remain below 1%.
+
+Zinc is an important adjunctive therapy for children under 5, which also reduces the duration of diarrhoea and may prevent future episodes of other causes on acute watery diarrhoea.
+
+Breastfeeding should also be promoted. 
+Hygiene promotion and social mobilisation
+
+Health education campaigns, adapted to local culture and beliefs, should promote the adoption of appropriate hygiene practices such as hand-washing with soap, safe preparation and storage of food and safe disposal of the faeces of children. Funeral practices for individuals who die from cholera must be adapted to prevent infection among attendees.
+
+Further, awareness campaigns should be organised during outbreaks, and information should be provided to the community about the potential risks and symptoms of cholera, precautions to take to avoid cholera, when and where to report cases and to seek immediate treatment when symptoms appear. The location of appropriate treatment sites should also be shared.
+
+Community engagement is key to long term changes in behaviour and to the control of cholera. 
+Oral cholera vaccines
+
+Currently there are three WHO pre-qualified oral cholera vaccines (OCV): Dukoral®, Shanchol™, and Euvichol®. All three vaccines require two doses for full protection. 
+
+Dukoral® is administered with a buffer solution that, for adults, requires 150 ml of clean water. Dukoral can be given to all individuals over the age of 2 years. There must be a minimum of 7 days, and no more than 6 weeks, delay between each dose. Children aged 2 -5 require a third dose. Dukoral® is mainly used for travellers. Two doses of Dukoral® provide protection against cholera for 2 years.
+
+Shanchol™ and Euvichol® are essentially the same vaccine produced by two different manufacturers. They do not require a buffer solution for administration. They are given to all individuals over the age of one year. There must be a minimum of two weeks delay between each dose of these two vaccines. Two doses of Shanchol™ and Euvichol® provide protection against cholera for three years, while one dose provides short term protection. 
+
+Shanchol™ and Euvichol® are the vaccines currently available for mass vaccination campaigns through the Global OCV Stockpile. The stockpile is supported by Gavi, the Vaccine Alliance. 
+
+Based on the available evidence, the August 2017 WHO Position Paper on Vaccines against Cholera states that: 
+
+OCV should be used in areas with endemic cholera, in humanitarian crises with high risk of cholera, and during cholera outbreaks; always in conjunction with other cholera prevention and control strategies;
+vaccination should not disrupt the provision of other high priority health interventions to control or prevent cholera outbreaks.
+
+
+More than 15 million doses of OCVs have been used in mass vaccination campaigns. The campaigns have been implemented in areas experiencing an outbreak, in areas at heightened vulnerability during humanitarian crises, and among populations living in highly endemic areas, known as “hotspots”. 
+
+
+More information on cholera vaccines
+
+
+The 2017 WHO OCV position paper
+
+
+WHO response
+
+In 2014 the Global Task Force on Cholera Control (GTFCC), with its Secretariat based at WHO, was revitalised. The GTFCC is a network of more than 50 partners active in cholera control globally, including academic institutions, non-governmental organisations and United Nations agencies. 
+
+Through the GTFCC and with support from donors, WHO works to:
+
+promote the design and implementation of global strategies to contribute to capacity development for cholera prevention and control globally;
+provide a forum for technical exchange, coordination, and cooperation on cholera-related activities to strengthen country capacity to prevent and control cholera;
+support countries for the implementation of effective cholera control strategies and monitoring of progress;
+disseminate technical guidelines and operational manuals;
+support the development of a research agenda with emphasis on evaluating innovative approaches to cholera prevention and control in affected countries; and 
+increase the visibility of cholera as an important global public health problem through the dissemination of information about cholera prevention and control, and conducting advocacy and resource mobilization activities to support cholera prevention and control at national, regional, and global levels.
+
+
+
+More about the Global Task Force on Cholera Control (GTFCC)
+
+
+Ending Cholera: a Roadmap to 2030
+
+In October 2017, GTFCC partners launched a strategy for cholera control Ending Cholera: A roadmap to 2030. The country led strategy aims to reduce cholera deaths by 90% and to eliminate cholera in as many as 20 countries by 2030. 
+
+The Global Roadmap focuses on three strategic axes: 
+
+Early detection and quick response to contain outbreaks: the strategy focuses on containing outbreaks—wherever they may occur— through early detection and rapid multisectoral response including community engagement, strengthening surveillance and laboratory capacity, health systems and supply readiness, and establishing rapid response teams.
+A targeted multi-sectoral approach to prevent cholera recurrence: the strategy calls on countries and partners to focus on cholera “hotspots”, the relatively small areas most heavily affected by cholera. Cholera transmission can be stopped in these areas through measures including improved WASH and through use of OCV. 
+An effective mechanism of coordination for technical support, advocacy, resource mobilisation, and partnership at local and global levels: The GTFCC provides a strong framework to support countries to intensify efforts to control cholera, building upon country-led cross-sectoral cholera control programs and supporting them with human, technical, and financial resources. 
+
+
+
+More about the strategy
+pdf, 6.20Mb
+
+
+Cholera Kits
+
+To ensure efficient and effective deployment of necessary materials for the investigation and confirmation of cholera outbreaks, as well as the treatment of cholera patients, WHO has developed a set of cholera kits. 
+
+After consultation with implementing partners, WHO revised the cholera kits in 2016 to better meet field needs. In total there are 6 kits: 
+
+1 for investigation
+1 with supplies for laboratory confirmation 
+3 for treatment at the community, peripheral and central levels
+1 support kit with logistical materials such as solar lamps, fencing and water bladders and taps. 
+
+
+Each treatment kit provides enough material to treat 100 patients. The revised cholera kits are designed to help prepare for a potential cholera outbreak and to support the first month of the initial response. 
+
+
+More about cholera kits
+
+
+
+
+
+1 Updated global burden of cholera in endemic countries. 
+Ali M, Nelson AR, Lopez AL, Sack D. (2015). PLoS Negl Trop Dis 9(6): e0003832. doi:10.1371/journal.pntd.0003832.  
+
+2 The incubation period of cholera: a systematic review.
+Azman AS, Rudolph KE, Cummings DA, Lessler J. J Infect. 2013;66(5):432-8. doi: 10.1016/j.jinf.2012.11.013. PubMed PMID: 23201968; PubMed Central PMCID: PMC3677557. 
+
+ 

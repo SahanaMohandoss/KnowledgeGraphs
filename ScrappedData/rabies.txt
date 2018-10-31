@@ -1,0 +1,146 @@
+Key facts
+
+Rabies is a vaccine-preventable viral disease which occurs in more than 150 countries and territories.
+Dogs are the main source of human rabies deaths, contributing up to 99% of all rabies transmissions to humans.
+Rabies elimination is feasible through vaccination of dogs and prevention of dog bites.
+Infection causes tens of thousands of deaths every year, mainly in Asia and Africa.
+40% of people bitten by suspect rabid animals are children under 15 years of age.
+Immediate, thorough wound washing with soap and water after contact with a suspect rabid animal is crucial and can save lives.
+WHO, the World Organisation for Animal Health (OIE), the Food and Agriculture Organization of the United Nations (FAO) and the Global Alliance for Rabies Control (GARC) have established a global “United Against Rabies” collaboration to provide a common strategy to achieve "Zero human rabies deaths by 2030".
+
+
+
+Rabies is an infectious viral disease that is almost always fatal following the onset of clinical symptoms. In up to 99% of cases, domestic dogs are responsible for rabies virus transmission to humans. Yet, rabies can affect both domestic and wild animals. It is spread to people through bites or scratches, usually via saliva.
+Rabies is present on all continents, except Antarctica, with over 95% of human deaths occurring in the Asia and Africa regions.
+Rabies is one of the neglected tropical diseases that predominantly affects poor and vulnerable populations who live in remote rural locations. Although effective human vaccines and immunoglobulins exist for rabies, they are not readily available or accessible to those in need. Globally, rabies deaths are rarely reported and children between the ages of 5–14 years are frequent victims. Treating a rabies exposure, where the average cost of rabies post-exposure prophylaxis (PEP) is US$ 40 in Africa, and US$ 49 in Asia, can be a catastrophic financial burden on affected families whose average daily income is around US$ 1–2 per person.
+Every year, more than 15 million people worldwide receive a post-bite vaccination. This is estimated to prevent hundreds of thousands of rabies deaths annually.
+Prevention
+Eliminating rabies in dogs
+Rabies is a vaccine-preventable disease. Vaccinating dogs is the most cost-effective strategy for preventing rabies in people. Dog vaccination reduces deaths attributable to rabies and the need for PEP as a part of dog bite patient care.
+Awareness on rabies and preventing dog bites
+Education on dog behaviour and bite prevention for both children and adults is an essential extension of a rabies vaccination programme and can decrease both the incidence of human rabies and the financial burden of treating dog bites. Increasing awareness of rabies prevention and control in communities includes education and information on responsible pet ownership, how to prevent dog bites, and immediate care measures after a bite. Engagement and ownership of the programme at the community level increases reach and uptake of key messages.
+Preventive immunization in people
+Human rabies vaccines exist for pre-exposure immunization. These are recommended for people in certain high-risk occupations such as laboratory workers handling live rabies and rabies-related (lyssavirus) viruses; and people (such as animal disease control staff and wildlife rangers) whose professional or personal activities might bring them into direct contact with bats, carnivores, or other mammals that may be infected.
+Pre-exposure immunization is also recommended for travellers to rabies-affected, remote areas who plan to spend a lot of time outdoors involved in activities such as caving or mountain-climbing. Expatriates and long-term travellers to areas with a high rabies exposure risk should be immunized if local access to rabies biologics is limited. Finally, immunization should also be considered for children living in, or visiting, remote, high-risk areas. As they play with animals, they may receive more severe bites, or may not report bites.
+Symptoms
+The incubation period for rabies is typically 2–3 months but may vary from 1 week to 1 year, dependent upon factors such as the location of virus entry and viral load. Initial symptoms of rabies include a fever with pain and unusual or unexplained tingling, pricking, or burning sensation (paraesthesia) at the wound site. As the virus spreads to the central nervous system, progressive and fatal inflammation of the brain and spinal cord develops.
+There are two forms of the disease:
+
+People with furious rabies exhibit signs of hyperactivity, excitable behaviour, hydrophobia (fear of water) and sometimes aerophobia (fear of drafts or of fresh air). Death occurs after a few days due to cardio-respiratory arrest.
+
+
+Paralytic rabies accounts for about 20% of the total number of human cases. This form of rabies runs a less dramatic and usually longer course than the furious form. Muscles gradually become paralyzed, starting at the site of the bite or scratch. A coma slowly develops, and eventually death occurs. The paralytic form of rabies is often misdiagnosed, contributing to the under-reporting of the disease.
+
+Diagnosis
+Current diagnostic tools are not suitable for detecting rabies infection before the onset of clinical disease, and unless the rabies-specific signs of hydrophobia or aerophobia are present, clinical diagnosis may be difficult. Human rabies can be confirmed intra-vitam and post mortem by various diagnostic techniques that detect whole viruses, viral antigens, or nucleic acids in infected tissues (brain, skin, urine, or saliva).
+Transmission
+People are usually infected following a deep bite or scratch from an animal with rabies, and transmission to humans by rabid dogs accounts for 99% of cases. Africa and Asia have the highest rabies burden in humans and account for 95% of rabies deaths, worldwide.
+In the Americas, bats are now the major source of human rabies deaths as dog-mediated transmission has mostly been broken in this region. Bat rabies is also an emerging public health threat in Australia and Western Europe. Human deaths following exposure to foxes, raccoons, skunks, jackals, mongooses and other wild carnivore host species are very rare, and bites from rodents are not known to transmit rabies.
+Transmission can also occur when infectious material – usually saliva – comes into direct contact with human mucosa or fresh skin wounds. Human-to-human transmission through bites is theoretically possible but has never been confirmed.
+Contraction of rabies through inhalation of virus-containing aerosols or through transplantation of infected organs is rare. Contracting rabies through consumption of raw meat or animal-derived tissue has never been confirmed in humans.
+Post-exposure prophylaxis (PEP)
+Post-exposure prophylaxis (PEP) is the immediate treatment of a bite victim after rabies exposure. This prevents virus entry into the central nervous system, which results in imminent death. PEP consists of:
+
+extensive washing and local treatment of the wound as soon as possible after exposure;
+a course of potent and effective rabies vaccine that meets WHO standards; and
+the administration of rabies immunoglobulin (RIG), if indicated.
+
+Effective treatment soon after exposure to rabies can prevent the onset of symptoms and death.
+Extensive wound washing
+This involves first-aid of the wound that includes immediate and thorough flushing and washing of the wound for a minimum of 15 minutes with soap and water, detergent, povidone iodine or other substances that kill the rabies virus.
+Recommended PEP
+Depending on the severity of the contact with the suspected rabid animal, administration of PEP is recommended as follows (see table):
+
+
+
+Table: Categories of contact and recommended post-exposure prophylaxis (PEP)
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+Categories of contact with suspect rabid animal
+Post-exposure prophylaxis measures
+ 
+ 
+ 
+ 
+
+
+Category I – touching or feeding animals, licks on intact skin 
+None
+ 
+ 
+ 
+ 
+
+
+Category II – nibbling of uncovered skin, minor scratches or abrasions without bleeding
+Immediate vaccination and local treatment of the wound
+ 
+ 
+ 
+ 
+
+
+Category III – single or multiple transdermal bites or scratches, licks on broken skin; contamination of mucous membrane with saliva from licks, contacts with bats. 
+Immediate vaccination and administration of rabies immunoglobulin; local treatment of the wound
+ 
+ 
+ 
+ 
+
+
+
+All category II and III exposures assessed as carrying a risk of developing rabies require PEP. This risk is increased if:
+
+the biting mammal is a known rabies reservoir or vector species
+the exposure occurs in a geographical area where rabies is still present
+the animal looks sick or displays abnormal behaviour
+a wound or mucous membrane was contaminated by the animal’s saliva
+the bite was unprovoked
+the animal has not been vaccinated.
+
+The vaccination status of the suspect animal should not be the deciding factor when considering to initiate PEP or not when the vaccination status of the animal is questionable. This can be the case if dog vaccination programmes are not being sufficiently regulated or followed out of lack of resources or low priority.
+WHO continues to promote human rabies prevention through the elimination of rabies in dogs, dog bite prevention strategies, and more widespread use of the intradermal route for PEP which reduces volume and therefore the cost of cell-cultured vaccine by 60% to 80%.
+Integrated bite case management
+If possible, the veterinary services should be alerted, the biting animal identified and quarantined for observation (for healthy dogs and cats). Alternatively, the animal may be euthanized for immediate laboratory examination. Prophylaxis must be continued during the 10-day observation period or while awaiting laboratory results. Treatment may be discontinued if the animal is proven to be free of rabies. If a suspect animal cannot be captured and tested, then a full course of prophylaxis should be completed.
+WHO response
+Rabies is included in the neglected tropical disease roadmap of WHO. As a zoonotic disease, it requires close cross-sectoral coordination at the national, regional and global levels.
+Global activities
+The United Against Rabies collaboration: a global catalytic platform to achieve zero human rabies deaths by 2030
+WHO, Food and Agriculture Organization (FAO), International Organisation for Animal Health (OIE) and the Global Alliance for Rabies Control (GARC) came together in 2015 to adopt a common strategy to achieve "Zero human Rabies deaths by 2030" and formed the United Against Rabies collaboration.
+This initiative marks the first time that both the human and animal health sectors have come together to advocate for, and prioritize investments in rabies control and coordinate the global rabies-elimination efforts. Zero by 30: the global strategic plan to end human deaths from dog-medicated rabies by 2030 formulated by the United Against Rabies collaboration will guide and support countries as they develop and implement their national rabies elimination plans that embrace the concepts of One-health and cross-sectoral collaboration.
+Monitoring and surveillance of the disease should be a central element of every rabies programme. Declaring a disease notifiable is crucial to establish functional reporting. This should include mechanisms for the transmission of data from the community level to the national level and on to the OIE and WHO. This will provide feedback on programme efficacy and allow for actions to be taken to improve areas of weakness.
+
+Share data for rabies with WHO
+
+
+Stockpiles of dog and human rabies vaccines have had a catalytic effect on rabies elimination efforts. WHO, with partners, is working to forecast the global need for human and dog vaccines and rabies immunoglobulin, to understand the global manufacturing capacity and to explore bulk purchasing options for countries through WHO/UNICEF (human vaccine and RIG) and OIE/WHO (animal vaccine) mechanisms.
+In 2016, the WHO Strategic Advisory Group of Experts on Immunization (SAGE), established a working group on rabies vaccines and immunoglobulins which reviewed scientific evidence, the relevant programmatic considerations, and the costs associated with their use. The proposed SAGE recommendations include evaluation of intra-dermal vaccine delivery, shortened vaccination schedules, and the potential impact of new biologicals. The full recommendations are published in the updated WHO position paper. 
+WHO supported studies in Rabies endemic countries
+With the support of WHO, selected countries in Africa and Asia are conducting prospective and retrospective studies to gather data on dog bites and rabies cases, PEP treatment and follow-up, vaccine needs, and programme delivery options.
+Preliminary results from studies in Cambodia, Kenya, and Viet Nam confirm that:
+
+children under 15 years of age have a higher rabies exposure risk, and most exposures are from dog bites;
+both the availability of biologicals and the costs of seeking PEP are factors in treatment compliance; and
+health system-based reporting underestimates rabies case detection in humans and dogs, when compared to community-based systems.
+
+Additionally, data on rabies vaccine and immunoglobulin formulations, procurement, and usage are expected from rabies biological suppliers in both India and Viet Nam.
+Once complete, the data will provide further evidence to support the need for investment in rabies programmes – crucial to informing global and regional strategies in achieving zero human rabies deaths by 2030. Furthermore, the data will be used by the GAVI Alliance to inform its Vaccine Investment Strategy, for the inclusion of rabies vaccines in its portfolio. A decision is expected in late 2018.
+Regional and country examples
+Since 1983, countries in the WHO Region of the Americas have reduced the incidence of rabies by over 95% in humans and 98% in dogs. This success has been achieved mainly through the implementation of effective policies and programmes that focus on regionally coordinated dog vaccination campaigns, raising public awareness, and widespread availability of PEP.
+Many countries in the WHO South-East Asia Region have embarked on rabies elimination campaigns in line with the target of regional elimination by 2020. Bangladesh launched an elimination programme in 2010 and, through the management of dog bites, mass dog vaccination, and increased availability of vaccines free of charge, human rabies deaths decreased by 50% between 2010–2013.
+Great strides have also been made in the Philippines, South Africa and the United Republic of Tanzania where proof of concepts, as part of a Bill & Melinda Gates Foundation project led by WHO, recently showed that a reduction in human rabies cases is possible through a combination of interventions involving mass dog vaccination, improved access to PEP, increased surveillance and raising public awareness.
+The key towards sustaining and expanding the rabies programmes to adjacent geographies has been to start small, catalyse local rabies programmes through stimulus packages, demonstrate success and cost-effectiveness, and ensure the engagement of governments and affected communities.

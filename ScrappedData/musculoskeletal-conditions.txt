@@ -1,0 +1,51 @@
+Key facts
+
+Musculoskeletal conditions are the second largest contributor to disability worldwide, with low back pain being the single leading cause of disability globally.
+Musculoskeletal conditions and injuries are not just conditions of older age – they are relevant across the life-course. Between one in three and one in five people live with a painful and disabling musculoskeletal condition.
+Musculoskeletal conditions significantly limit mobility and dexterity, leading to early retirement from work, reduced accumulated wealth and reduced ability to participate in social roles.
+The greatest proportion of persistent pain conditions is accounted for by musculoskeletal conditions.
+Highly prevalent among multi-morbidity health states, musculoskeletal conditions are prevalent in one third to one half of multi-morbidity presentations, and very commonly linked with depression .
+
+
+
+Introduction
+Musculoskeletal conditions comprise more than 150 diagnoses that affect the locomotor system – that is, muscles, bones, joints and associated tissues such as tendons and ligaments, as listed in the International Classification of Diseases. They range from those that arise suddenly and are short-lived, such as fractures, sprains and strains; to lifelong conditions associated with ongoing pain and disability.
+Musculoskeletal conditions are typically characterised by pain (often persistent pain) and limitations in mobility, dexterity and functional ability, reducing people’s ability to work and participate in social roles with associated impacts on mental wellbeing, and at a broader level impacts on the prosperity of communities. The most common and disabling musculoskeletal conditions are osteoarthritis, back and neck pain, fractures associated with bone fragility, injuries and systemic inflammatory conditions such as rheumatoid arthritis.
+Musculoskeletal conditions include conditions that affect:
+
+joints, such as osteoarthritis, rheumatoid arthritis, psoriatic arthritis, gout, ankylosing spondylitis;
+bones, such as osteoporosis, osteopenia and associated fragility fractures, traumatic fractures;
+muscles, such as sarcopenia;
+the spine, such as back and neck pain;
+multiple body areas or systems, such as regional and widespread pain disorders and inflammatory diseases such as connective tissue diseases and vasculitis that have musculoskeletal manifestations, for example systemic lupus erythematosus.
+
+Musculoskeletal conditions are prevalent across the life-course and most commonly affect people from adolescence through to older age. The prevalence and impact of musculoskeletal conditions is predicted to rise as the global population ages and the prevalence of risk factors for noncommunicable diseases increases, particularly in low- and middle-income settings.
+Scope of the health issue
+Musculoskeletal conditions affect people across the life-course in all regions of the world. While the prevalence of musculoskeletal conditions increases with age, younger people are also affected, often during their peak income-earning years.
+The Global Burden of Disease (GBD) study provides evidence of the impact of musculoskeletal conditions, highlighting the significant disability burden associated with these conditions. In the 2016 GBD study, musculoskeletal conditions were the second highest contributor to global disability, and lower back pain remained the single leading cause of disability since it was first measured in 1990. While the prevalence of musculoskeletal conditions varies by age and diagnosis, between 20%–33% of people across the globe live with a painful musculoskeletal condition (1).
+A recent report from the United States of America suggests that one in two adult Americans live with a musculoskeletal condition – the same number as those with cardiovascular or chronic respiratory diseases combined (2).
+Analysis of data from WHO’s Study on global AGEing and adult health (SAGE) point to the high prevalence of arthritis in low- and middle-income settings, particularly among those in a lower socioeconomic position (3).
+
+WHO Study on global AGEing and adult health (SAGE)
+
+Signs and symptoms
+Pain and restricted mobility are the unifying features of the range of musculoskeletal conditions. Pain is typically persistent for long-term conditions. In some conditions, joint deformity may occur, where early diagnosis and treatment are not available.
+Prevention and management
+Musculoskeletal conditions share some similar risk factors to other noncommunicable diseases, such as inadequate physical activity, obesity, smoking and poor nutrition. While management of some musculoskeletal conditions often requires specialist and/or surgical care, many musculoskeletal conditions can be managed in primary care through a combination of core non-pharmacologic interventions such as exercise and psychological therapies and pharmacologic therapies.
+Social and economic implications
+The health and broader social cost of musculoskeletal conditions are significant. Spending on musculoskeletal conditions is challenging to measure due to the vast array of musculoskeletal conditions and limitations in health surveillance systems. Orthopaedic surgery procedures, for example total joint replacement, account for one of the greatest hospital expenditures. Data are particularly scarce in low- and middle-income areas. Musculoskeletal conditions account for the greatest proportion of lost productivity in the workplace. In 2011, musculoskeletal conditions cost US$ 213 billion – 1.4% of Gross Domestic Product (2).
+WHO response
+WHO recognises that musculoskeletal health conditions contribute greatly to disability across the life-course in all regions of the world. In particular, WHO recognises that musculoskeletal conditions significantly impact functional ability. In this context, WHO is responding through the Integrated Care for Older People (ICOPE) approach, which identifies the need to improve musculoskeletal function through a range of interventions, with multimodal exercise as a key component.
+
+Integrated Care for Older People
+
+The need to address impairments in musculoskeletal health is also identified in WHO’s Global Programme of Work in rehabilitation, in order to improve peoples’ performance. Prevention of musculoskeletal trauma is addressed in WHO’s Global Programme of Work on road traffic injuries.
+
+(1) Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32154-2/fulltext
+G. B. D. Disease and Injury Incidence and Prevalence Collaborators. 2017. Lancet, 390(10100), 1211-59.
+(2) The Impact of Musculoskeletal Disorders on Americans — Opportunities for Action
+http://www.boneandjointburden.org/docs/BMUSExecutiveSummary2016.pdf Bone and Joint Initiative USA. 2016.
+(3) Prevalence of arthritis according to age, sex and socioeconomic status in six low and middle income countries: analysis of data from the World Health Organization study on global AGEing and adult health (SAGE) Wave 1.
+https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-017-1624-z
+S. L. Brennan-Olsen, S. Cook, M. T. Leech, S. J. Bowe, P. Kowal, N. Naidoo, I. N. Ackerman, et al. BMC Musculoskeletal Disorders. 2017..

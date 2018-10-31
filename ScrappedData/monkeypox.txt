@@ -1,0 +1,87 @@
+Key facts
+
+Monkeypox is a rare viral zoonotic disease that occurs primarily in remote parts of central and west Africa, near tropical rainforests.
+The monkeypox virus is similar to human smallpox, a disease that has been eradicated in 1980. Although  monkeypox is much milder than smallpox, it can be fatal.
+The monkeypox virus is mostly transmitted to people from various wild animals such as rodents and primates, but has limited secondary spread through human-to-human transmission.
+Typically, case fatality in monkeypox outbreaks has been between 1% and 10%, with most deaths occurring in younger age groups.
+There is no specific treatment or vaccine available although prior smallpox vaccination was highly effective in preventing monkeypox as well.
+
+
+
+Monkeypox is a member of the Orthopoxvirus genus in the family Poxviridae. 
+
+Monkeypox is a rare viral zoonosis (a virus transmitted to humans from animals) with symptoms similar to those seen in the past in smallpox patients, although it is clinically less severe. With the eradication of smallpox in 1980 and subsequent cessation of smallpox vaccination, it has emerged as the most important orthopoxvirus. Monkeypox occurs sporadically in central and western parts of Africa’s tropical rainforest.
+Outbreaks
+
+Human monkeypox was first identified in humans in 1970 in the Democratic Republic of Congo (then known as Zaire) in a 9 -year -old boy in a region where smallpox had been eliminated in 1968. Since then, the majority of cases have been reported in rural, rainforest regions of the Congo Basin and western Africa, particularly in the Democratic Republic of Congo, where it is considered to be endemic. In 1996–97, a major outbreak occurred in the Democratic Republic of Congo. 
+
+In the spring of 2003, monkeypox cases were confirmed in the United States of America, marking the first reported occurrence of the disease outside of the African continent. Most of the patients were reported to have had close contact with pet prairie dogs that were infected by African rodents that had been imported into the country.
+
+Sporadic cases of monkeypox have been reported from west and central African countries, and with increasing awareness more countries are identifying and reporting cases. Since 1970 human cases of monkeypox have been reported from 10 African countries – Democratic Republic of the Congo, Republic of the Congo, Cameroon, Central African Republic, Nigeria, Ivory Coast, Liberia, Sierra Leone, Gabon and South Sudan. In 2017 Nigeria experienced the largest documented outbreak, approximately 40 years since the country had last confirmed cases of monkeypox.
+Transmission
+
+Infection of index cases results from direct contact with the blood, bodily fluids, or cutaneous or mucosal lesions of infected animals. In Africa human infections have been documented through the handling of infected monkeys, Gambian giant rats and squirrels, with rodents being the most likely reservoir of the virus. Eating inadequately cooked meat of infected animals is a possible risk factor.
+
+Secondary, or human-to-human, transmission can result from close contact with infected respiratory tract secretions, skin lesions of an infected person or objects recently contaminated by patient fluids or lesion materials. Transmission occurs primarily via droplet respiratory particles usually requiring prolonged face-to-face contact, which puts household members of active cases at greater risk of infection. Transmission can also occur by inoculation or via the placenta (congenital monkeypox). There is no evidence, to date, that person-to-person transmission alone can sustain monkeypox infections in the human population.
+
+In recent animal studies of the prairie dog-human monkeypox model, two distinct clades of the virus were identified – the Congo Basin and the West African clades – with the former found to be more virulent.
+Signs and symptoms
+
+The incubation period (interval from infection to onset of symptoms) of monkeypox is usually from 6 to 16 days but can range from 5 to 21 days.
+
+
+The infection can be divided into two periods:
+
+
+the invasion period (0-5 days) characterized by fever, intense headache, lymphadenopathy (swelling of the lymph node), back pain, myalgia (muscle ache) and an intense asthenia (lack of energy);
+the skin eruption period (within 1-3 days after appearance of fever) in which the various stages of the rash appear often beginning on the face and then spreading elsewhere on the body. The face (in 95% of cases), and palms of the hands and soles of the feet (in 75% of cases) are most affected. Evolution of the rash from maculopapules (lesions with a flat bases) to vesicles (small fluid-filled blisters), pustules, followed by crusts occurs in approximately 10 days. Three weeks might be necessary before the complete disappearance of the crusts.
+
+
+The number of the lesions varies from a few to several thousand, affecting oral mucous membranes (in 70% of cases), genitalia (30%), and conjunctivae (eyelid) (20%), as well as the cornea (eyeball).
+
+Some patients develop severe lymphadenopathy (swollen lymph nodes) before the appearance of the rash, which is a distinctive feature of monkeypox compared to other similar diseases.
+
+Monkeypox is usually a self-limited disease with the symptoms lasting from 14 to 21 days. Severe cases occur more commonly among children and are related to the extent of virus exposure, patient health status and severity of complications.
+
+People living in or near the forested areas may have indirect or low-level exposure to infected animals, possibly leading to subclinical (asymptomatic) infection.
+
+The case fatality has varied widely between epidemics but has been less than 10% in documented events, mostly among young children. In general, younger age-groups appear to be more susceptible to monkeypox disease.
+Diagnosis
+
+The clinical differential diagnoses that must be considered include other rash illnesses, such as, smallpox (even though it is eradicated), chickenpox, measles, bacterial skin infections, scabies, syphilis, and medication-associated allergies. Lymphadenopathy during the prodromal stage of illness can be a clinical feature to distinguish monkeypox from smallpox.
+
+Monkeypox can only be diagnosed definitively in the laboratory where the virus can be identified by a number of different tests that need to be conducted in specialized laboratories. If monkeypox is suspected, health workers should take an appropriate sample (see below) and transport it safely to a laboratory with appropriate capacities.
+
+Optimal diagnostic specimens are from lesions – vesicular swabs of lesion exudate or crusts stored in a dry, sterile tube (no viral transport media) and kept cold. Blood and serum can be used but often can be inconclusive because of short duration of viremia and timing of specimen collection. In order to interpret test results it is critical that patient information is provided with the specimens including: a) approximate date of onset of fever, b) date of onset of rash, c) date of specimen collection, d) current status of the individual (stage of rash), and e) age.
+Treatment and vaccine
+
+There are no specific treatments or vaccines available for monkeypox infection, but outbreaks can be controlled. Vaccination against smallpox has been proven to be 85% effective in preventing monkeypox in the past but the vaccine is no longer available to the general public after it was discontinued following global smallpox eradication. Nevertheless, prior smallpox vaccination will likely result in a milder disease course.
+Natural host of monkeypox virus
+
+In Africa, monkeypox infection has been found in many animal species: rope squirrels, tree squirrels, Gambian rats, striped mice, dormice and primates. Doubts persist on the natural history of the virus and further studies are needed to identify the exact reservoir of the monkeypox virus and how it is maintained in nature.
+
+In the USA, the virus is thought to have been transmitted from African animals to a number of susceptible non-African species (like prairie dogs) with which they were co-housed.
+Prevention
+Reducing the risk of infection in people
+
+During human monkeypox outbreaks, close contact with other patients is the most significant risk factor for monkeypox virus infection. In the absence of specific treatment or vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus. Surveillance measures and rapid identification of new cases is critical for outbreak containment.
+
+Public health educational messages should focus on the following risks:
+
+Reducing the risk of animal-to-human transmission. Efforts to prevent transmission in endemic regions should focus first on avoiding any contact with rodents and primates and secondly on limiting direct exposure to blood and meat, as well as thoroughly cooking them prior to consumption. Gloves and other appropriate protective clothing should be worn while handling sick animals or their infected tissues, and during slaughtering procedures.
+Reducing the risk of human-to-human transmission. Close physical contact with monkeypox infected people or contaminated materials should be avoided. Gloves and protective equipment should be worn when taking care of ill people. Regular hand washing should be carried out after caring for or visiting sick people. Isolation of patients either at home or in health facilities is recommended. 
+
+Controlling infection in health-care settings
+
+Health-care workers caring for patients with suspected or confirmed monkeypox virus infection, or handling specimens from them, should implement standard infection control precautions.
+
+Healthcare workers and those treating or exposed to patients with monkeypox or their samples should consider being immunized against smallpox through their national health authorities. Older smallpox vaccines should not be administered to people with comprised immune systems.
+
+Samples taken from people and animals with suspected monkeypox virus infection should be handled by trained staff working in suitably equipped laboratories. Transporting of patient specimens should ensure safe packaging and follow guidelines for infectious substances.
+Preventing monkeypox expansion through restrictions on animal trade
+Restricting or banning the movement of small African mammals and monkeys may be effective in slowing the expansion of the virus outside Africa.
+
+Captive animals that are potentially infected with monkeypox should be isolated from other animals and placed into immediate quarantine. Any animals that might have come into contact with an infected animal should be quarantined, handled with standard precautions and observed for monkeypox symptoms for 30 days.
+WHO response
+
+WHO supports Member States with surveillance, preparedness and outbreak response activities for monkeypox in affected countries.

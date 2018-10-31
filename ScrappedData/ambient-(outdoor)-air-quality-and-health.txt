@@ -1,0 +1,110 @@
+Key facts
+
+Air pollution is a major environmental risk to health. By reducing air pollution levels, countries can reduce the burden of disease from stroke, heart disease, lung cancer, and both chronic and acute respiratory diseases, including asthma.
+The lower the levels of air pollution, the better the cardiovascular and respiratory health of the population will be, both long- and short-term.
+The WHO Air Quality Guidelines: Global Update 2005 provide an assessment of health effects of air pollution and thresholds for health-harmful pollution levels.
+In 2016, 91% of the world population was living in places where the WHO air quality guidelines levels were not met.
+Ambient (outdoor air pollution) in both cities and rural areas was estimated to cause 4.2 million premature deaths worldwide in 2016.
+Some 91% of those premature deaths occurred in low- and middle-income countries, and the greatest number in the WHO South-East Asia and Western Pacific regions.
+Policies and investments supporting cleaner transport, energy-efficient homes, power generation, industry and better municipal waste management would reduce key sources of outdoor air pollution.
+In addition to outdoor air pollution, indoor smoke is a serious health risk for some 3 billion people who cook and heat their homes with biomass, kerosene fuels and coal.
+
+
+
+Background
+Outdoor air pollution is a major environmental health problem affecting everyone in low, middle, and high-income countries.
+Ambient (outdoor) air pollution in both cities and rural areas was estimated to cause 4.2 million premature deaths worldwide per year in 2016; this mortality is due to exposure to small particulate matter of 2.5 microns or less in diameter (PM2.5), which cause cardiovascular and respiratory disease, and cancers.
+People living in low- and middle-income countries disproportionately experience the burden of outdoor air pollution with 91% (of the 4.2 million premature deaths) occurring in low- and middle-income countries, and the greatest burden in the WHO South-East Asia and Western Pacific regions. The latest burden estimates reflect the very significant role air pollution plays in cardiovascular illness and death. More and more, evidence demonstrating the linkages between ambient air pollution and the cardiovascular disease risk is becoming available, including studies from highly polluted areas.
+WHO estimates that in 2016, some 58% of outdoor air pollution-related premature deaths were due to ischaemic heart disease and strokes, while 18% of deaths were due to chronic obstructive pulmonary disease and acute lower respiratory infections respectively, and 6% of deaths were due to lung cancer.
+Some deaths may be attributed to more than one risk factor at the same time. For example, both smoking and ambient air pollution affect lung cancer. Some lung cancer deaths could have been averted by improving ambient air quality, or by reducing tobacco smoking.
+A 2013 assessment by WHO’s International Agency for Research on Cancer (IARC) concluded that outdoor air pollution is carcinogenic to humans, with the particulate matter component of air pollution most closely associated with increased cancer incidence, especially lung cancer. An association also has been observed between outdoor air pollution and increase in cancer of the urinary tract/bladder.
+Addressing all risk factors for noncommunicable diseases – including air pollution - is key to protecting public health.
+Most sources of outdoor air pollution are well beyond the control of individuals and demands concerted action by local, national and regional level policy-makers working in sectors like transport, energy, waste management, urban planning, and agriculture.
+There are many examples of successful policies in transport, urban planning, power generation and industry that reduce air pollution:
+
+for industry: clean technologies that reduce industrial smokestack emissions; improved management of urban and agricultural waste, including capture of methane gas emitted from waste sites as an alternative to incineration (for use as biogas);
+for energy: ensuring access to affordable clean household energy solutions for cooking, heating and lighting;
+for transport: shifting to clean modes of power generation; prioritizing rapid urban transit, walking and cycling networks in cities as well as rail interurban freight and passenger travel; shifting to cleaner heavy duty diesel vehicles and low-emissions vehicles and fuels, including fuels with reduced sulfur content;
+for urban planning: improving the energy efficiency of buildings and making cities more green and compact, and thus energy efficient;
+for power generation: increased use of low-emissions fuels and renewable combustion-free power sources (like solar, wind or hydropower); co-generation of heat and power; and distributed energy generation (e.g. mini-grids and rooftop solar power generation);
+for municipal and agricultural waste management: strategies for waste reduction, waste separation, recycling and reuse or waste reprocessing; as well as improved methods of biological waste management such as anaerobic waste digestion to produce biogas, are feasible, low cost alternatives to the open incineration of solid waste. Where incineration is unavoidable, then combustion technologies with strict emission controls are critical.
+
+In addition to outdoor air pollution, indoor smoke from household air pollution  is a serious health risk for some 3 billion people who cook and heat their homes with biomass fuels and coal. Some 3.8 million premature deaths were attributable to household air pollution in 2016. Almost all of the burden was in low-middle-income countries. Household air pollution is also a major source of outdoor air pollution in both urban and rural areas.
+The 2005 WHO Air quality guidelines offer global guidance on thresholds and limits for key air pollutants that pose health risks. The Guidelines indicate that by reducing particulate matter (PM10) pollution from 70 to 20 micrograms per cubic metre (μg/m), we can cut air pollution-related deaths by around 15%.
+The Guidelines apply worldwide and are based on expert evaluation of current scientific evidence for:
+
+particulate matter (PM)
+·ozone (O3)
+·nitrogen dioxide (NO2)
+sulfur dioxide (SO2).
+
+Please note that the The WHO Air quality guidelines are currently under revision with an expected publication date in 2020.
+Particulate matter (PM)
+Definition and principal sources
+PM is a common proxy indicator for air pollution. It affects more people than any other pollutant. The major components of PM are sulfate, nitrates, ammonia, sodium chloride, black carbon, mineral dust and water. It consists of a complex mixture of solid and liquid particles of organic and inorganic substances suspended in the air. While particles  with a diameter of 10 microns or less, (≤ PM10) can penetrate and lodge deep inside the lungs, the even more health-damaging particles are those with a diameter of 2.5 microns or less, (≤ PM2.5). PM2.5  can penetrate the lung barrier and enter the blood system. Chronic exposure to particles contributes to the risk of developing cardiovascular and respiratory diseases, as well as of lung cancer.
+Air quality measurements are typically reported in terms of daily or annual mean concentrations of PM10 particles per cubic meter of air volume (m3). Routine air quality measurements typically describe such PM concentrations in terms of micrograms per cubic meter (μg/m3). When sufficiently sensitive measurement tools are available, concentrations of fine particles (PM2.5 or smaller), are also reported.
+Health effects
+There is a close, quantitative relationship between exposure to high concentrations of small particulates (PM10 and PM2.5) and increased mortality or morbidity, both daily and over time. Conversely, when concentrations of small and fine particulates are reduced, related mortality will also go down – presuming other factors remain the same. This allows policymakers to project the population health improvements that could be expected if particulate air pollution is reduced.
+Small particulate pollution have health impacts even at very low concentrations – indeed no threshold has been identified below which no damage to health is observed. Therefore, the WHO 2005 guideline limits aimed to achieve the lowest concentrations of PM possible.
+WHO Air Quality Guideline values
+Particulate Matter (PM)
+Guideline values
+Fine Particulate Matter (PM2.5)
+ 10 μg/m3 annual mean
+25 μg/m3 24-hour mean
+Coarse Particulate Matter (PM10)
+ 20 μg/m3 annual mean
+50 μg/m3 24-hour mean
+In addition to guideline values, the Air Quality Guidelines provide interim targets for concentrations of PM10 and PM2.5 aimed at promoting a gradual shift from high to lower concentrations.
+If these interim targets were to be achieved, significant reductions in risks for acute and chronic health effects from air pollution can be expected. Achieving the guideline values, however, should be the ultimate objective.
+The effects of PM on health occur at levels of exposure currently being experienced by many people both in urban and rural areas and in developed and developing countries – although exposures in many fast-developing cities today are often far higher than in developed cities of comparable size.
+"WHO Air Quality Guidelines" estimate that reducing annual average fine particulate matter (PM2.5) concentrations from levels of 35 μg/m3, common in many developing cities, to the WHO guideline level of 10 μg/m3, could reduce air pollution-related deaths by around 15%. However, even in the European Union, where PM concentrations in many cities do comply with Guideline levels, it is estimated that average life expectancy is 8.6 months lower than it would otherwise be, due to PM exposures from human sources.
+In low- and middle- income countries, exposure to pollutants in and around homes from the household combustion of polluting fuels on open fires or traditional stoves for cooking, heating and lighting further increases the risk for air pollution-related diseases, including acute lower respiratory infections, cardiovascular disease, chronic obstructive pulmonary disease and lung cancer.
+There are serious risks to health not only from exposure to PM, but also from exposure to ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2). As with PM, concentrations are often highest largely in the urban areas of low- and middle-income countries. Ozone is a major factor in asthma morbidity and mortality, while nitrogen dioxide and sulfur dioxide also can play a role in asthma, bronchial symptoms, lung inflammation and reduced lung function.
+Ozone (O3)
+Guideline values
+O3
+100 μg/m3 8-hour mean
+The recommended limit in the 2005 Air Quality Guidelines was reduced from the previous level of 120 µg/m3 in previous editions of the "WHO Air Quality Guidelines" based on recent conclusive associations between daily mortality and lower ozone concentrations.
+Definition and principal sources
+Ozone at ground level – not to be confused with the ozone layer in the upper atmosphere – is one of the major constituents of photochemical smog. It is formed by the reaction with sunlight (photochemical reaction) of pollutants such as nitrogen oxides (NOx) from vehicle and industry emissions and volatile organic compounds (VOCs) emitted by vehicles, solvents and industry. As a result, the highest levels of ozone pollution occur during periods of sunny weather.
+Health effects
+Excessive ozone in the air can have a marked effect on human health. It can cause breathing problems, trigger asthma, reduce lung function and cause lung diseases. 
+Nitrogen dioxide (NO2)
+Guideline values
+NO2
+ 40 μg/m3 annual mean
+200 μg/m3 1-hour mean
+The current WHO guideline value of 40 µg/m3 (annual mean) was set to protect the public from the health effects of gaseous.
+Definition and principal sources
+As an air pollutant, NO2 has several correlated activities. At short-term, concentrations exceeding 200 μg/m3, it is a toxic gas which causes significant inflammation of the airways.
+NO2 is the main source of nitrate aerosols, which form an important fraction of PM2.5 and, in the presence of ultraviolet light, of ozone. The major sources of anthropogenic emissions of NO2 are combustion processes (heating, power generation, and engines in vehicles and ships).
+Health effects
+Epidemiological studies have shown that symptoms of bronchitis in asthmatic children increase in association with long-term exposure to NO2. Reduced lung function growth is also linked to NO2 at concentrations currently measured (or observed) in cities of Europe and North America.
+Sulfur dioxide (SO2)
+Guideline values
+SO2
+ 20 μg/m3 24-hour mean
+500 μg/m3 10-minute mean
+A SO2 concentration of 500 µg/m3 should not be exceeded over average periods of 10 minutes duration. Studies indicate that a proportion of people with asthma experience changes in pulmonary function and respiratory symptoms after periods of exposure to SO2 as short as 10 minutes. Health effects are now known to be associated with much lower levels of SO2than previously believed. A greater degree of protection is needed. Although the causality of the effects of low concentrations of SO2 is still uncertain, reducing SO2 concentrations is likely to decrease exposure to co-pollutants.
+Definition and principal sources
+SO2 is a colourless gas with a sharp odour. It is produced from the burning of fossil fuels (coal and oil) and the smelting of mineral ores that contain sulfur. The main anthropogenic source of SO2 is the burning of sulfur-containing fossil fuels for domestic heating, power generation and motor vehicles.
+Health effects
+SO2 can affect the respiratory system and the functions of the lungs, and causes irritation of the eyes. Inflammation of the respiratory tract causes coughing, mucus secretion, aggravation of asthma and chronic bronchitis and makes people more prone to infections of the respiratory tract. Hospital admissions for cardiac disease and mortality increase on days with higher SO2 levels. When SO2 combines with water, it forms sulfuric acid; this is the main component of acid rain which is a cause of deforestation.
+WHO response
+WHO Member States recently adopted a resolution (2015) and a road map (2016) for an enhanced global response to the adverse health effects of air pollution.
+WHO is custodial agency for 3 air pollution-related Sustainable Development Goals indicators:
+
+3.9.1 Mortality from air pollution
+7.1.2 Access to clean fuels and technologies
+11.6.2 Air quality in cities. 
+
+WHO develops and produces air quality guidelines recommending exposure limits to key air pollutants (indoor and outdoor).
+WHO creates detailed health-related assessments of different types of air pollutants, including particulates and black carbon particles, and ozone.
+WHO produces evidence regarding the linkage of air pollution to specific diseases, such as cardiovascular and respiratory diseases and cancers, as well as burden of disease estimates from existing air pollution exposures, at country, regional, and global levels.
+WHO develops tools such as AirQ+ for assessing the health impacts from various pollutants, but also the Health Economic Assessment Tool (HEAT) to assess walking and cycling interventions, the Green+ tool to raise importance of green space and health, the Sustainable Transport Health Assessment Tool (STHAT) and the Integrated Transport and Health Impact Modelling Tool (ITHIM).
+WHO is developing a Clean Household Energy Solutions Toolkit (CHEST) to provide countries and programmes with the tools needed to create or evaluate policies that expand clean household energy access and use, which is particularly important as pollutants released in and around the household (household air pollution) contribute significantly to ambient pollution. CHEST tools include modules on needs assessment, guidance on standards and testing for household energy devices, monitoring and evaluation, and materials to empower the health sector to tackle household air pollution.
+WHO assists Member States in sharing information on successful approaches, on methods of exposure assessment and monitoring of health impacts of pollution.
+WHO is leading the Joint Task Force on the Health Aspects of Air Pollution within the Convention on Long-range Transboundary Air Pollution to assess the health effects of such pollution and to provide supporting documentation.
+The WHO co-sponsored Pan European Programme on Transport Health and Environment (PEP), has built a model of regional, Member State, and multi-sectoral cooperation for mitigation of air pollution and other health impacts in the transport sector, as well as tools for assessing the health benefits of such mitigation measures.
+ 

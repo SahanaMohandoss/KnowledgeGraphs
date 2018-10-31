@@ -1,0 +1,66 @@
+Key facts
+
+Buruli ulcer is a chronic debilitating disease caused by Mycobacterium ulcerans.
+It often affects the skin and sometimes bone, and can lead to permanent disfigurement and long-term disability.
+•	At least 33 countries with tropical, subtropical and temperate climates have reported Buruli ulcer in Africa, South America and Western Pacific regions. In Australia, an increasing number of cases have been reported since 2013.
+•	Partial data from 13 countries for 2017 shows 2206 cases compared to 1920 in 2016; Australia and Nigeria reporting most cases.
+The mode of transmission is not known and there is no prevention for the disease.
+
+
+
+Buruli ulcer, caused by Mycobacterium ulcerans is a chronic debilitating disease that affects mainly affects the skin and sometime bone. The organism belongs to the family of bacteria that causes tuberculosis and leprosy. However, M. ulcerans is an environmental bacterium and the mode of transmission to humans remains unknown. Currently, early diagnosis and treatment are crucial to minimizing morbidity, costs and prevent long-term disability.
+Scope of the problem
+Buruli ulcer has been reported in 33 countries in Africa, the Americas, Asia and the Western Pacific. Most cases occur in tropical and subtropical regions except in Australia, China and Japan. Out of the 33 countries 13 regularly report data to WHO.
+The majority of cases are reported from West and Central Africa, including Benin, Cameroon, Côte d’Ivoire, Democratic Republic of the Congo and Ghana. There are no predictable trends in the number of cases reported yearly. In 2015, 13 countries reported 2046; in 2016 there were 1920 cases and partial data for 2017 is 2209 cases. Australia and Nigeria have been reporting increasing numbers of cases. Côte d’Ivoire which used to report the highest number of cases has seen a progressive decline since 2011.
+Clinical and epidemiological characteristics of cases
+The clinical and epidemiological aspects of cases vary considerably within and across different countries and settings. In Africa, for example, about 48% of those affected are observed to be children under 15 years, whereas in Australia, 10% are children under 15 years and in Japan, 19% are children under 15 years. No significant difference exists between the rates of affected males and affected females.
+Lesions frequently occur in the limbs: 35% on the upper limbs, 55% on the lower limbs, and 10% on the other parts of the body.
+In terms of severity, the disease has been classified into three categories: Category I single small lesion (32%), Category II non-ulcerative and ulcerative plaque and oedematous forms (35%) and Category III disseminated and mixed forms such as osteitis, osteomyelitis, joint involvement (33%). In Australia and Japan, most lesions (>90%) are diagnosed in Category I. Since 2013, severe cases are being reported in Australia and it is unclear the reasons for this observation. In all countries, at least 70% of all cases are diagnosed in the ulceration stage.
+Causative organism
+Mycobacterium ulcerans grows at temperatures between 29–33 °C (Mycobacterium tuberculosis grows at 37°C) and a low 2.5% oxygen concentration to grow. The organism produces a unique toxin – mycolactone – which causes tissue damage and inhibits the immune response.
+Transmission
+The exact mode of transmission of M. ulcerans is still unknown.
+Signs and symptoms
+Buruli ulcer often starts as a painless swelling (nodule). It can also initially present as a large painless area of induration (plaque) or a diffuse painless swelling of the legs, arms or face (oedema). Local immunosuppressive properties of the mycolactone toxin enable the disease to progress with no pain and fever. Without treatment or sometimes during antibiotics treatment, the nodule, plaque or oedema will ulcerate within 4 weeks with the classical, undermined borders. Occasionally, bone is affected causing gross deformities.
+Diagnosis
+Clinical
+In most cases, experienced health professionals in endemic areas can make a reliable clinical diagnosis.
+Depending on the patient’s age, the patient’s geographical area, the location of lesions, and the extent of pain experienced, other conditions should be excluded from the diagnosis. These other conditions include tropical phagedenic ulcers, chronic lower leg ulcers due to arterial and venous insufficiency (often in the older and elderly populations), diabetic ulcers, cutaneous leishmaniasis, extensive ulcerative yaws and ulcers caused by Haemophilus ducreyi1.
+Early nodular lesions are occasionally confused with boils, lipomas, ganglions, lymph node tuberculosis, onchocerciasis nodules or other subcutaneous infections such as fungal infection.
+In Australia, papular lesions may initially be confused with an insect bite.
+Cellulitis may look like oedema caused by M. ulcerans infection but in the case of cellulitis, the lesions are painful and the patient is ill and febrile.
+HIV infection is not a risk factor, but in co-endemic countries HIV infection complicates the management of the patient. The weakened immune system makes the clinical progression of Buruli ulcer more aggressive, and as a result the treatment outcomes are poor.
+Due to international travel, cases can appear in non-endemic areas. It is therefore important that health workers are knowledgeable about Buruli ulcer and its clinical presentations.
+Laboratory
+Four standard laboratory methods can be used to confirm Buruli ulcer; IS2404 polymerase chain reaction (PCR), direct microscopy, histopathology and culture. PCR is the most commonly used method. WHO has recently published a manual on these 4 methods to guide laboratory scientists and health workers.
+Treatment
+Treatment consists of a combination of antibiotics and complementary treatments (under morbidity management and disability prevention/rehabilitation). Treatment guidance for health workers can be found in the WHO publication "Treatment of mycobacterium ulcerans disease (Buruli ulcer)."
+Antibiotics
+Different combinations of antibiotics given for 8 weeks are used to treat the Buruli ulcer irrespective of the stage. One of the following combinations may be used depending on the patient:
+                a combination of rifampicin (10 mg/kg once daily) and streptomycin (15 mg/kg once daily); or
+                a combination of rifampicin (10 mg/kg once daily) and clarithromycin (7.5 mg/kg twice daily).
+A randomized controlled trial concluded in 2017 and preliminary results show no difference in cure rates between the two treatments.
+For pregnant women, the combination of rifampicin and clarithromycin is considered the safer option because of contraindication to streptomycin.
+In Australia, a combination of rifampicin (10 mg/kg once daily) and moxifloxacin (400 mg once daily) is routinely used with good results but its effectiveness has not been proven by randomized trial.
+Morbidity management, disability prevention and rehabilitation
+Interventions such as wound management and surgery (mainly debridement and skin grafting) are used to speed up the healing thereby shortening the duration of hospitalization. In addition, physiotherapy is needed in severe cases to prevent disability. Those who are left with disability require long-term rehabilitation. These same interventions are applicable to other neglected tropical diseases, such as leprosy and lymphatic filariasis so it is important to integrate a long-term care approach into the health system to benefit all patients. The integrated approach to the control of skin-related NTDs provide an opportunity to integrate Buruli ulcer detection and its management with these diseases.
+Prevention
+There are currently no primary preventive measures that can be applied. The mode of transmission is not known. Bacillus Calmette–Guérin (BCG) vaccination appears to provide a limited protection.
+Control
+The objective of Buruli ulcer control is to minimize the suffering, disabilities and socioeconomic burden. Early detection and antibiotic treatment is the cornerstone of the WHO Buruli ulcer control strategy.
+Research priorities
+There are three research priorties for Buruli ulcer:
+1. Development of oral antibiotic treatment
+A randomized clinical trial coordinated by WHO started in Benin and Ghana in 2013 with the objective of developing an oral-based treatment for Buruli ulcer. The recruitment was completed at the end of 2016 and the one-year follow-up ended in December 2017, with manuscript preparation in progress.
+2. Development of rapid diagnostic tests
+ In March 2018, WHO and Foundation for Innovative New Diagnostics (FIND) organized a meeting to assess progress in the development of rapid diagnostic test for Buruli ulcer. The meeting agreed on further work to detect mycolactone as a diagnostic test, including improvements to the fluorescent thin layer chromatography technique,  currently being piloted in selected countries.
+3. Mode of transmission
+Despite extensive studies to determine the mode of transmission, there is no clear understanding how people acquire the disease from the environment. In order to design an effective public health intervention, understanding the mode of transmission remains a critical research priority.
+WHO and global response
+WHO provides technical guidance, develops policies, and coordinates control and research efforts. WHO brings together all major actors involved in Buruli ulcer on a regular basis to share information, coordinate disease control and research efforts, and monitor progress.
+These efforts have also helped to raise the visibility of Buruli ulcer, and mobilized resources to fight it. Under WHO’s leadership and with support of nongovernmental organizations, research institutions and governments of affected countries, steady and impressive progress has been made.
+ 
+
+References
+(1) Mitjà, O et al. Haemophilus ducreyi as a cause of skin ulcers in children from a yaws-endemic area of Papua New Guinea.
+Lancet Global Health: 2014; Vol 2, Issue 4: e235 - e241.

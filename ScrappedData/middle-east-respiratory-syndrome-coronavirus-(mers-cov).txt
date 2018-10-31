@@ -1,0 +1,56 @@
+Key facts
+
+Middle East respiratory syndrome (MERS) is a viral respiratory disease caused by a novel coronavirus (Middle East respiratory syndrome coronavirus, or MERS‐CoV) that was first identified in Saudi Arabia in 2012.
+Coronaviruses are a large family of viruses that can cause diseases ranging from the common cold to Severe Acute Respiratory Syndrome (SARS).
+Typical MERS symptoms include fever, cough and shortness of breath. Pneumonia is common, but not always present. Gastrointestinal symptoms, including diarrhoea, have also been reported. Some laboratory-confirmed cases of MERS-CoV infection are reported as asymptomatic, meaning that they do not have any clinical symptoms, yet they are positive for MERS following a laboratory test. Most of these asymptomatic cases have been detected following aggressive contact tracing of a laboratory-confirmed case.
+Approximately 35% of reported patients with MERS have died.
+Although the majority of human cases of MERS have been attributed to human-to-human infections in health care settings, current scientific evidence suggests that dromedary camels are a major reservoir host for MERS-CoV and an animal source of MERS infection in humans. However, the exact role of dromedaries in transmission of the virus and the exact route(s) of transmission are unknown.
+The virus does not seem to pass easily from person to person unless there is close contact, such as occurs when providing unprotected care to a patient. Health care associated outbreaks have occurred in several countries, with the largest outbreaks seen in Saudi Arabia, United Arab Emirates, and the Republic of Korea.
+
+
+
+ Symptoms
+
+The clinical spectrum of MERS-CoV infection ranges from no symptoms (asymptomatic) or mild respiratory symptoms to severe acute respiratory disease and death. A typical presentation of MERS-CoV disease is fever, cough and shortness of breath. Pneumonia is a common finding, but not always present. Gastrointestinal symptoms, including diarrhoea, have also been reported. Severe illness can cause respiratory failure that requires mechanical ventilation and support in an intensive care unit. The virus appears to cause more severe disease in older people, people with weakened immune systems, and those with chronic diseases such as renal disease, cancer, chronic lung disease, and diabetes.
+
+Approximately 35% of patients with MERS have died, but this may be an overestimate of the true mortality rate, as mild cases of MERS may be missed by existing surveillance systems and until more is known about the disease, the case fatality rates are counted only amongst the laboratory-confirmed cases.
+Source of the virus
+
+MERS-CoV is a zoonotic virus, which means it is a virus that is transmitted between animals and people. Studies have shown that humans are infected through direct or indirect contact with infected dromedary camels. MERS-CoV has been identified in dromedaries in several countries, including Egypt, Oman, Qatar, and Saudi Arabia, and MERS-CoV specific antibodies (a finding that indicates an animal has previously been infected with MERS-CoV) have been identified in dromedaries in the Middle East, Africa and South Asia.
+
+The origins of the virus are not fully understood but, according to the analysis of different virus genomes, it is believed that it may have originated in bats and was transmitted to camels sometime in the distant past.
+Transmission
+
+Non-human to human transmission: The route of transmission from animals to humans is not fully understood, but dromedary camels are a major reservoir host for MERS-CoV and an animal source of infection in humans. Strains of MERS-CoV that are identical to human strains have been isolated from dromedaries in several countries, including Egypt, Oman, Qatar, and Saudi Arabia.
+
+Human-to-human transmission: The virus does not pass easily from person to person unless there is close contact, such as providing unprotected care to an infected patient. There have been clusters of cases in healthcare facilities, where human-to-human transmission appears to have occurred, especially when infection prevention and control practices are inadequate or inappropriate. Human to human transmission has been limited to date, and has been identified among family members, patients, and health care workers. While the majority of MERS cases have occurred in health care settings, thus far, no sustained human to human transmission has been documented anywhere in the world.
+
+Since 2012, 27 countries have reported cases of MERS including Algeria, Austria, Bahrain, China, Egypt, France, Germany, Greece, Islamic Republic of Iran, Italy, Jordan, Kuwait, Lebanon, Malaysia, the Netherlands, Oman, Philippines, Qatar, Republic of Korea, Kingdom of Saudi Arabia, Thailand, Tunisia, Turkey, United Arab Emirates, United Kingdom, United States, and Yemen.
+
+Approximately 80% of human cases have been reported by Saudi Arabia. What we know is that people get infected there through contact with infected dromedary camels or infected people. Cases identified outside the Middle East are usually traveling people who were infected in the Middle East and then travelled to areas outside the Middle East. On rare occasions, outbreaks have occurred in areas outside the Middle East.
+Prevention and treatment
+
+No vaccine or specific treatment is currently available. Treatment is supportive and based on the patient’s clinical condition.
+
+As a general precaution, anyone visiting farms, markets, barns, or other places where dromedary camels and other animals are present should practice general hygiene measures, including regular hand washing before and after touching animals, and should avoid contact with sick animals.
+
+The consumption of raw or undercooked animal products, including milk and meat, carries a high risk of infection from a variety of organisms that might cause disease in humans. Animal products that are processed appropriately through cooking or pasteurization are safe for consumption, but should also be handled with care to avoid cross contamination with uncooked foods. Camel meat and camel milk are nutritious products that can continue to be consumed after pasteurization, cooking, or other heat treatments.
+
+Until more is understood about MERS-CoV, people with diabetes, renal failure, chronic lung disease, and immunocompromised persons are considered to be at high risk of severe disease from MERS-CoV infection. These people should avoid contact with camels, drinking raw camel milk or camel urine, or eating meat that has not been properly cooked.
+Health-care facilities
+
+Transmission of the virus has occurred in health‐care facilities in several countries, including from patients to health‐care providers and between patients in a health care setting before MERS-CoV was diagnosed. It is not always possible to identify patients with MERS‐CoV early or without testing because symptoms and other clinical features may be non‐specific. 
+
+Infection prevention and control measures are critical to prevent the possible spread of MERS‐CoV in health‐care facilities. Facilities that provide care for patients suspected or confirmed to be infected with MERS‐CoV should take appropriate measures to decrease the risk of transmission of the virus from an infected patient to other patients, health‐care workers, or visitors. Health‐care workers should be educated and trained in infection prevention and control and should refresh these skills regularly.
+Travel
+
+WHO does not recommend the application of any travel or trade restrictions or entry screening related to MERS-CoV.
+WHO response
+
+WHO is working with clinicians and scientists in affected countries and internationally to gather and share scientific evidence to better understand the virus and the disease it causes, and to determine outbreak response priorities, treatment strategies, and clinical management approaches. The Organization is also working with countries to develop public health prevention strategies to combat the virus.
+
+Together with affected countries and international technical partners and networks, WHO is coordinating the global health response to MERS, including: the provision of updated information on the situation; conducting risk assessments and joint investigations with national authorities; convening scientific meetings; and developing guidance and training for health authorities and technical health agencies on interim surveillance recommendations, laboratory testing of cases, infection prevention and control, and clinical management. 
+
+The Director‐General convened an Emergency Committee under the International Health Regulations (2005) to advise her as to whether this event constitutes a Public Health Emergency of International Concern (PHEIC) and on the public health measures that should be taken. The Committee has met a number of times since the disease was first identified. WHO encourages all Member States to enhance their surveillance for severe acute respiratory infections (SARI) and to carefully review any unusual patterns of SARI or pneumonia cases. 
+
+Countries, whether or not MERS cases have been reported in them, should maintain a high level of vigilance, especially those with large numbers of travellers or migrant workers returning from the Middle East. Surveillance should continue to be enhanced in these countries according to WHO guidelines, along with infection prevention and control procedures in health-care facilities. WHO continues to request that Member States report to WHO all confirmed and probable cases of infection with MERS-CoV together with information about their exposure, testing, and clinical course to inform the most effective international preparedness and response.

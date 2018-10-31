@@ -1,0 +1,107 @@
+Key facts
+
+Yaws is a chronic disfiguring and debilitating childhood infectious disease caused by Treponema pallidum subspecies pertenue.
+It is one of the first diseases targeted for eradication by WHO and UNICEF in the 1950s. WHO renewed global efforts to eradicate yaws in 2012.
+The disease affects skin, bone and cartilage. Humans are currently believed to be the only reservoir, and transmission is from person to person.
+Yaws is cured with a single oral dose of an inexpensive antibiotic called azithromycin. 
+There are 13 countries currently known to be endemic for yaws, of which only 8 regularly report data to WHO.
+There are 73 countries previously endemic for yaws that need to confirm the current status of the disease.
+
+
+
+Yaws forms part of a group of chronic bacterial infections commonly known as the endemic treponematoses. These diseases are caused by spiral bacteria of the genus Treponema, which also includes endemic syphilis (bejel) and pinta. Yaws is the most common of these three infections.
+
+The causative organism, Treponema pallidum subspecies pertenue, is closely related genetically to T. pallidum subspecies pallidum, the causative agent of syphilis and the causative bacteria of bejel and pinta.
+
+The disease is found primarily in poor communities in warm, humid and tropical forest areas of Africa, Asia, Latin America and the Pacific. The majority of affected populations, mostly children, live at the “end of the road”, far from health services. Poverty, low socio-economic conditions and poor personal hygiene facilitate the spread of yaws.
+
+About 75– 80% of people affected are children under 15 years of age, and they constitute the main reservoir of infection. Peak incidence occurs in children aged 6–10 years, and males and females are equally affected. Transmission is through direct (person-to-person) contact of minor injuries. Most lesions occur on the limbs. The initial lesion of yaws is teemed with the bacteria. The incubation period is 9–90 days, with an average of 21 days.
+
+Without treatment, infection can lead to chronic disfigurement and disability.
+Scope of the problem
+
+Of the 13 countries known to be currently endemic with yaws, 8 of them reported more than 46 000 cases in 2015. Further assessment is needed to ascertain endemicity in the 5 other countries. Recent estimates indicate that about 89 million people live in the 13 countries endemic for yaws (1). Out of the countries known to have been endemic in the 1950s, at least 73 need to be assessed to determine interruption of transmission so that WHO can take steps to certify them free of the disease as part of the global eradication process.
+
+In May 2016, WHO declared India free of yaws. Although Ecuador has reported no cases for several years, it has not yet been verified as free of yaws.
+Clinical Presentation, diagnosis and treatment
+Clinical Presentation
+
+Yaws initially presents as a papilloma teemed with bacteria. The papilloma is a typical presentation of yaws and clinical diagnosis is straightforward. Without treatment, the papilloma will ulcerate. The diagnosis of the ulcerative form is more challenging and requires serological confirmation. Papilloma and ulcers are very infectious and in the absence of treatment can quickly spread to others. Other clinical forms of yaws exist but they are not very infectious.
+
+Secondary yaws occurs weeks to months after the primary infection and typically presents with multiple raised yellow lesions or pain and swelling of long bones and fingers (dactylitis). WHO has developed training material to help health workers and community volunteers identify the disease.
+
+Ulcers caused by Haemophilus ducreyi is an important cause of skin ulcers (2) (mostly on the legs) which clinically mimic the ulcerative form of yaws complicates clinical diagnosis. About 40% of ulcers clinically identified as yaws are caused by H. ducreyi.
+Diagnosis 
+
+Traditionally, laboratory-based serological tests such as Treponema pallidum particle agglutination (TPPA) and rapid plasma reagin (RPR) are widely used to diagnose treponemal infections (for example, syphilis and yaws). These tests cannot distinguish yaws from syphilis however, and the interpretation of results from these tests in adults who live in yaws endemic areas therefore needs careful clinical assessment.
+
+Rapid point-of-care (3) tests that can be used in the field are widely available. However, most of them are treponemal-based and cannot distinguish between past and current infection. Recently dual treponemal and nontreponemal rapid tests have become available, thus simplifying diagnosis in the field. These tests are able to detect both present and past infections so as to guide immediate treatment.
+
+Polymerase chain reaction (PCR) technology is used to definitively confirm yaws by detecting the organisms in the skin lesions (4). It can also be used to monitor azithromycin resistance. The application of PCR in yaws eradication will be very useful after mass treatment when the few cases that occur must be proven to be yaws.
+Treatment
+
+Either of 2 antibiotics – azithromycin or benzathine penicillin – may be used to treat yaws:
+
+Azithromycin (single oral dose) at 30 mg/kg (maximum 2 g) is the preferred choice in the WHO "Yaws Eradication Strategy" (the Morges Strategy) because of the ease of administration and logistical consideration in large-scale treatment campaigns.
+Benzathine penicillin (single intramuscular dose) at 0.6 million units (children aged under 10 years) and 1.2 million units (people aged over 10 years) for patients who “clinically fail on azithromycin”, or are allergic to azithromycin.
+
+Patient monitoring
+
+Patients should be examined 4 weeks after antibiotic treatment – in over 95% of cases, complete healing will be observed. If clinically indicated, specific patients may undergo repeat nontreponemal testing at 6 and 12 months after treatment to assess complete cure.
+Prevention
+
+There is no vaccine for yaws. Prevention is based on the interruption of transmission through early diagnosis and treatment of individual cases and mass or targeted treatment of affected populations or communities. Health education and improvement in personal hygiene are essential components of prevention.
+Renewed eradication efforts: progress so far
+
+In 2012, WHO developed the Yaws Eradication Strategy, also referred to as "the Morges strategy", based on the use of oral azithromycin, indicating a shift from 60 years' use of the injection of benzathine penicillin. In the 2012 WHO Roadmap for Neglected Tropical Diseases and resolution WHA66.12 of the 2013 World Health Assembly, yaws is targeted for eradication by the year 2020.
+
+Pilot implementation of the Yaws Eradication Strategy in 5 countries (Congo, Ghana, Papua New Guinea, Solomon Islands and Vanuatu) has provided promising results and practical lessons for scale-up (5).
+
+Priorities for operational research have been identified to guide the eradication programme (6). A study completed at the end of 2016 assessed the efficacy of a lower dose of 20 mg/kg (the recommended dose used for trachoma) compared to the standard treatment of yaws given at 30 mg/kg in Ghana and Papua New Guinea. The results are expected in 2017.
+Criteria for Eradication
+
+Two criteria for eradication of diseases were established in 1960 by the WHO Expert Committee on Venereal Infections and Treponematoses.
+
+These criteria are:
+
+Absence of new indigenous cases for 3 consecutive years.
+Absence of evidence of transmission for 3 continuous years measured with sero-surveys among children aged between 1–5 years (for example, no young children with RPR sero-reactivity).
+
+
+Since the development of PCR technology in 2010, an additional criterion of negative PCR in suspected lesions has been added. This is also necessary because of lesions like the H. ducreyi lesions which mimic yaws ulcers.
+Collaboration with other programmes
+
+Collaboration with other neglected tropical diseases (NTDs) programmes such as Buruli ulcer, cutaneous leishmaniasis and leprosy, as well as sexually transmitted infections programmes, will be essential to advancing the eradication of yaws.
+ Prospects for Eradication by 2020
+
+The different experiences gained from the pilot implementation of the Yaws Eradication Strategy (the Morges strategy) in countries have clearly demonstrated that if a sustainable supply of azithromycin can be secured, interruption of transmission by 2020 is feasible in some countries. India`s triumph over yaws (7) provides positive lessons to other countries to strive towards.
+
+
+(1) Global epidemiology of yaws: systematic review.
+Mitjà O, Marks M, Konan DJ et al. Lancet. 2015 Jun;3(6):e324-31. doi: 10.1016/S2214-109X(15)00011-X.
+http://www.ncbi.nlm.nih.gov/pubmed/26001576
+
+(2) Haemophilus ducreyi as a cause of skin ulcers in children from a yaws-endemic area of Papua New Guinea: a prospective cohort study.
+Mitja O, Lukehart SA, Pokowas G, et al. Lancet Global Health 2014; 2: e235-241
+http://www.thelancet.com/journals/langlo/article/PIIS2214-109X%2814%2970019-1/abstract
+
+(3) Sensitivity and specificity of a rapid point-of-care test for active yaws: a comparative study.
+Ayove T, Houniei W, Wangnapi R et al. Lancet global health 2014; 2 (7): e415-e421
+http://www.thelancet.com/journals/langlo/article/PIIS2214-109X%2814%2970231-1/abstract
+
+(4) Molecular differentiation of Treponema pallidum subspecies in skin ulceration clinically suspected as yaws in Vanuatu using real-time multiplex PCR and serological methods.
+Chi KH, Danavall D, Taleo F, Pillay A, Ye T, Nachamkin E, et al. Am J Trop Med Hyg. 2015 Jan;92(1):134-8. doi: 10.4269/ajtmh.14-0459. Epub 2014 Nov 17.
+http://www.ncbi.nlm.nih.gov/pubmed/25404075
+
+(5) Mass Treatment with Single-Dose Azithromycin for Yaws.br/>
+Mitjà O, Houinei W, Moses Penias, Kapa A, Paru R, Hays R et al. New England Journal of Medicine. 2015;372-8.
+http://www.nejm.org/doi/pdf/10.1056/NEJMoa1408586
+
+(6) Challenges and key research questions for yaws: eradication.
+Marks M, Mitjà O, Vestergaard LS, Pillay A, Knauf S, Chen CY et al. Lancet Infect Dis. 2015 October ; 15(10): 1220–1225. doi:10.1016/S1473-3099(15)00136-X
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4668588/pdf/emss-66182.pdf
+
+(7) Eradicating successfully yaws from India: The strategy & global lessons.
+Jai P. Narain, S.K. Jain, D. Bora, and S. Venkatesh. Indian J Med Res. 2015 May; 141(5): 608–613. doi: 10.4103/0971-5916.159542
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510759/
+ 

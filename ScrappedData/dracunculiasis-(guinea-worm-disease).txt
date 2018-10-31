@@ -1,0 +1,70 @@
+Key facts
+
+Dracunculiasis is a crippling parasitic disease on the verge of eradication, with only 30 human cases reported in 2017.
+The disease is usually transmitted when people who have little or no access to improved drinking water sources swallow stagnant water contaminated with parasite-infected water-fleas (Cyclops) that carry infective guinea-worm larvae.
+Of the 20 countries that were endemic for the disease in the mid-1980s, only 2 reported cases in 2017: Chad (15 cases) and Ethiopia (15 cases).
+From the time infection occurs, it takes between 10–14 months for the transmission cycle to complete until a mature worm emerges from the body.
+
+
+
+Dracunculiasis (commonly known as guinea-worm disease) is a crippling parasitic disease caused by Dracunculus medinensis - a long, thread-like worm. It is transmitted exclusively when people drink stagnant water contaminated with parasite-infected water fleas.
+
+Dracunculiasis is rarely fatal, but infected people become non-functional for weeks. It affects people in rural, deprived and isolated communities who depend mainly on open surface water sources such as ponds for drinking water. 
+Scope of the problem
+
+During the mid-1980s an estimated 3.5 million cases of dracunculiasis occurred in 20 countries worldwide (1), 17 countries of which were in Africa. The number of reported cases fell to fewer than 10 000 cases in 2007, dropping further to 542 cases (2012), 148 (2013), 126 (2014), 22 (2015), 25 (2016). In 2017, only 30 cases were reported globally. In March 2018, South Sudan, which reported human cases until 2016, announced it has succeeded in interrupting transmission of the disease.
+Transmission, life-cycle and incubation period
+
+About a year after infection, a painful blister forms – 90% of the time on the lower leg – and one or more worms emerge accompanied by a burning sensation. To soothe the burning pain, patients often immerse the infected part of the body in water. The worm(s) then releases thousands of larvae (baby worms) into the water. These larvae reach the infective stage after being ingested by tiny crustaceans or copepods, also called water fleas.
+
+People swallow the infected water fleas when drinking contaminated water. The water fleas are killed in the stomach but the infective larvae are liberated. They then penetrate the wall of the intestine and migrate through the body. The fertilized female worm (which measures from 60–100 cm long) migrates under the skin tissues until it reaches its exit point, usually at the lower limbs, forming a blister or swelling from which it eventually emerges. The worm takes 10–14 months to emerge after infection.
+Prevention
+
+There is no vaccine to prevent, nor is there any medication to treat the disease. Prevention is possible however and it is through preventive strategies that the disease is on the verge of eradication. Prevention strategies include:
+
+heightening surveillance to detect every case within 24 hours of worm emergence; 
+preventing transmission from each worm by treatment, cleaning and bandaging regularly the affected skin-area until the worm is completely expelled from the body; 
+preventing drinking water contamination by advising the patient to avoid wading into water;
+ensuring wider access to improved drinking-water supplies to prevent infection;
+filtering water from open water bodies before drinking;
+implementing vector control by using the larvicide temephos; 
+promoting health education and behaviour change.
+
+Road to eradication
+
+In May 1981, the Interagency Steering Committee for Cooperative Action for the International Drinking Water Supply and Sanitation Decade (1981–1990) proposed the elimination of dracunculiasis as an indicator of success of the Decade. In the same year, WHO’s decision-making body, the World Health Assembly, adopted a resolution (WHA 34.25) recognizing that the International Drinking Water Supply and Sanitation Decade presented an opportunity to eliminate dracunculiasis. This led to WHO and the United States Centers for Disease Control and Prevention (CDC) formulating the strategy and technical guidelines for an eradication campaign. 
+
+In 1986, the Carter Center joined the battle against the disease and, in partnership with WHO and UNICEF, has since been in the forefront of eradication activities. To give it a final push, in 2011 the World Health Assembly called on all Member States where dracunculiasis is endemic to expedite the interruption of transmission and enforce nationwide surveillance to ensure eradication of dracunculiasis. 
+Country certification
+
+To be declared free of dracunculiasis, a country needs to have reported 0 instances of transmission and maintained active surveillance for at least 3 years afterwards.
+
+After this period, an international certification team visits the country to assess the adequacy of the surveillance system and to review records of investigations regarding rumoured cases and subsequent actions taken.
+
+Indicators such as access to improved drinking water sources in infected areas are examined and assessments are carried out in villages to confirm the absence of transmission. Risks of reintroduction of the disease are also assessed. Finally a report is submitted to the International Commission for the Certification of Dracunculiasis Eradication (ICCDE) for review.
+
+Since 1995 the ICCDE has met 12 times and on its recommendation WHO has certified 199 countries, territories and areas (belonging to 187 Member States) as free of dracunculiasis.
+
+The last country to attain this status in February 2017 was Kenya, a formerly endemic country.
+Ongoing surveillance
+
+WHO recommends active surveillance in a country and/or area that has recently interrupted guinea-worm disease transmission to be maintained for a minimum of 3 years. This is essential to make sure there have been no missed cases and to ensure zero reoccurrence of the disease.
+
+As the incubation period of the worm takes between 10–14 months, a single missed case will delay eradication efforts by a year or more. Evidence of re-emergence was brought to light in Ethiopia (2008) even though the national eradication programme had claimed interruption of transmission, and more recently in Chad (2010) where transmission re-occurred after the country reported 0 cases for almost 10 years.
+
+A country reporting 0 cases over a period of 14 consecutive months is believed to have interrupted transmission. It is then classified as being in the pre-certification stage for at least 3 years since the last indigenous case, during which intense surveillance activities need to continue. Even after certification, surveillance should be maintained until global eradication is declared.
+Challenges
+
+Finding and containing the last remaining cases are the most difficult and expensive stages of the eradication process as these usually occur in remote, often inaccessible, rural areas. 
+
+Insecurity, with the resulting lack of access to disease-endemic areas, is a major constraint, especially in countries where cases and animal infections are still occurring. 
+Dog infections with Dracunculus medinensis pose a challenge to the programme particularly in Chad, Ethiopia and Mali. The phenomenon was noted in Chad in 2012, and since then several dogs with emerging worms, genetically undistinguishable to those emerging in humans, continue to be detected in the same at-risk area. In 2017, more than 800 dogs in Chad, 11 dogs in Ethiopia, 9 dogs in Mali were reported with guinea-worm emergence.
+ Results of operational research, as recommended by a scientific meeting convened by WHO in March 2016,  indicate that transmission can be interrupted through the application of current strategies, including the vigorous control of copepod through regular, comprehensive application of the cyclopicide Temephos to control and prevent transmission in humans and infected dogs.
+WHO response
+
+WHO advocates for eradication, provides technical guidance, coordinates eradication activities, enforces surveillance in dracunculiasis-free areas and monitors and reports on progress achieved. 
+
+WHO is the only organization mandated to certify countries as free of the disease following recommendations made by the ICCDE. The ICCDE currently comprises 9 public health experts. The Commission meets as and when necessary to evaluate the status of transmission in countries applying for certification of dracunculiasis eradication and to recommend whether a particular country should be certified as free of transmission.
+
+(1) Until South Sudan gained its independence on 9 July 2011, it was part of Sudan. Guinea-worm disease cases for South Sudan were reported under Sudan; thus, between the 1980s and 2011, 20 countries were endemic for the disease. 
+ 

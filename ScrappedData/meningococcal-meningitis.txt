@@ -1,0 +1,89 @@
+Key facts
+
+Meningococcal meningitis is a bacterial form of meningitis, a serious infection of the thin lining that surrounds the brain and spinal cord.
+Meningococcal meningitis is associated with high fatality (up to 50% when untreated) and high frequency (more than 10%) of severe sequelae. Early antibiotic treatment is the most important measure to save lives and reduce complications.
+Meningococcal meningitis is observed worldwide but the highest burden of the disease is in the meningitis belt of sub-Saharan Africa, stretching from Senegal in the west to Ethiopia in the east. Around 30 000 cases are still reported each year from that area.
+Serogroup specific vaccines are used for prevention (routine immunization) and in response to outbreaks (prompt reactive vaccination).
+Since 2010 and the roll-out of a meningococcal A conjugate vaccine through mass preventive immunization campaigns in the meningitis belt, the proportion of the A serogroup has declined dramatically.
+
+
+
+A variety of organisms including different bacteria, fungi or viruses, can cause meningitis. Meningococcal meningitis, a bacterial form of meningitis, is a serious infection of the meninges that affects the brain membrane. It can cause severe brain damage and is fatal in 50% of cases if untreated.
+
+Meningococcal meningitis, caused by Neisseria meningitidis bacteria, is of particular importance due to its potential to cause large epidemics. Twelve types of N. meningitides, called serogroups, have been identified, six of which (A, B, C, W, X and Y) can cause epidemics. 
+
+Meningococcal meningitis is observed in a range of situations, from sporadic cases, small clusters, to huge epidemics throughout the world, with seasonal variations. The disease can affect anyone of any age, but mainly affects babies, preschool children and young people. 
+
+The geographic distribution and epidemic potential differ according to the serogroup. There are no reliable estimates of global meningococcal disease burden due to inadequate surveillance in several parts of the world. The largest burden of meningococcal disease occurs in an area of sub-Saharan Africa known as the meningitis belt, which stretches from Senegal in the west to Ethiopia in the east (26 countries). During the dry season between December to June, dust winds, cold nights and upper respiratory tract infections combine to damage the nasopharyngeal mucosa, increasing the risk of meningococcal disease. At the same time, transmission of N. meningitidis may be facilitated by overcrowded housing. This combination of factors explains the large epidemics which occur during the dry season in the meningitis belt.
+Transmission
+
+Neisseria meningitidis only infects humans; there is no animal reservoir. The bacteria are transmitted from person-to-person through droplets of respiratory or throat secretions from carriers. Smoking, close and prolonged contact – such as kissing, sneezing or coughing on someone, or living in close quarters with a carrier – facilitates the spread of the disease. Transmission of N. meningitidis is facilitated during mass gatherings (recent examples include the Haj pilgrimage, and jamborees). 
+
+The bacteria can be carried in the throat and sometimes overwhelms the body's defences allowing the bacteria to spread through the bloodstream to the brain. It is believed that 1% to 10% of the population carries N. meningitidis in their throat at any given time. However, the carriage rate may be higher (10% to 25%) in epidemic situations.
+Symptoms
+
+The average incubation period is four days, but can range between two and 10 days. The most common symptoms are a stiff neck, high fever, sensitivity to light, confusion, headaches and vomiting. In addition in infants bulging fontanelle and ragdoll appearance are commonly found. A less common but even more severe (often fatal) form of meningococcal disease is meningococcal septicaemia, which is characterized by a haemorrhagic rash and rapid circulatory collapse. Even when the disease is diagnosed early and adequate treatment is started, 8% to 15% of patients die, often within 24 to 48 hours after the onset of symptoms. If untreated, meningococcal meningitis is fatal in 50% of cases and may result in brain damage, hearing loss or disability in 10% to 20% of survivors. 
+Diagnosis
+
+Initial diagnosis of meningococcal meningitis can be made by clinical examination followed by a lumbar puncture showing a purulent spinal fluid. The bacteria can sometimes be seen in microscopic examinations of the spinal fluid. The diagnosis is supported or confirmed by growing the bacteria from specimens of spinal fluid or blood, by agglutination tests or by polymerase chain reaction (PCR). The identification of the serogroups and susceptibility testing to antibiotics are important to define control measures.
+Surveillance
+
+Surveillance, from case detection to investigation and laboratory confirmation is essential to the control of meningococcal meningitis. Main objectives include:
+
+Detect and confirm outbreaks.
+Monitor the incidence trends, including the distribution and evolution of meningococcal serogroups.
+Estimate the disease burden.
+Monitor the antibiotic resistance profile.
+Monitor the circulation, distribution and evolution of specific meningococcal strains (clones).
+Estimate the impact of meningitis control strategies, particularly preventive vaccination programs.
+
+Treatment
+
+Meningococcal disease is potentially fatal and should always be viewed as a medical emergency. Admission to a hospital or health centre is necessary. Isolation of the patient is not necessary. Appropriate antibiotic treatment must be started as soon as possible, ideally after the lumbar puncture has been carried out if such a puncture can be performed immediately. If treatment is started prior to the lumbar puncture it may be difficult to grow the bacteria from the spinal fluid and confirm the diagnosis. However confirmation of the diagnosis should not delay treatment.
+
+A range of antibiotics can treat the infection, including penicillin, ampicillin and ceftriaxone. Under epidemic conditions in Africa in areas with limited health infrastructure and resources, ceftriaxone is the drug of choice.
+Prevention
+1. Vaccination
+
+Licensed vaccines against meningococcal disease have been available for more than 40 years. Over time, there have been major improvements in strain coverage and vaccine availability, but to date no universal vaccine against meningococcal disease exists. Vaccines are serogroup specific and confer varying degrees of duration of protection. 
+
+There are three types of vaccines available:
+
+Polysaccharide vaccines are used during a response to outbreaks, mainly in Africa: 
+
+They are either bivalent (serogroups A and C), trivalent (A, C and W), or tetravalent (A, C, Y and W).
+They are not effective before 2 years of age.
+They offer a 3-year protection but do not induce herd immunity.
+
+Conjugate vaccines are used in prevention (into routine immunization schedules and preventive campaigns) and outbreak response:
+
+They confer longer-lasting immunity (5 years and more), prevent carriage and induce herd immunity. 
+They can be used as soon as of one year of age.
+Available vaccines include:
+
+Monovalent C
+Monovalent A
+Tetravalent (serogroups A, C, Y, W).
+
+
+Protein based vaccine, against N. meningitidis B. It has been introduced into the routine immunization schedule (one country as of 2017) and used in outbreak response.
+
+2. Chemoprophylaxis 
+
+Antibiotic prophylaxis for close contacts, when given promptly, decreases the risk of transmission. 
+
+Outside the African meningitis belt, chemoprophylaxis is recommended for close contacts within the household.
+In the meningitis belt, chemoprophylaxis for close contacts is recommended in non-epidemic situations.
+
+
+Ciprofloxacin antibiotic is the antibiotic of choice, and ceftriaxone an alternative.
+Global public health response – the recent meningococcal A conjugate vaccine introduction success in Africa
+
+WHO promotes a strategy comprising epidemic preparedness, prevention, and outbreak control. Preparedness focuses on surveillance, from case detection to investigation and laboratory confirmation. Prevention consists of vaccinating individuals from age groups at major risk using a conjugate vaccine targeting appropriate serogroups. Epidemic response consists of prompt and appropriate case management and reactive mass vaccination of populations not already protected through vaccination.
+
+Meningitis epidemics in the African meningitis belt constitute an enormous public health burden. In December 2010, a new meningococcal A conjugate vaccine was introduced in Africa through mass campaigns targeting persons 1 to 29 years of age. As of November 2017, more than 280 million persons have been vaccinated in 21 African belt countries. 
+
+The vaccine is remarkably safe and cheap (around US$ 0.60 per dose while other meningococcal vaccine prices range from US$ 2.50 to US$ 117.00 per dose (1)). In addition, its thermostability allows its use under Controlled Temperature Chain (CTC) conditions. Its impact on carriage and the reduction in disease and epidemics is significant: a 58% decline in meningitis incidence and 60% decline in the risk of epidemics were described. It is now introduced into routine infant immunization. Maintaining high coverage is expected to eliminate meningococcal A epidemics from this region of Africa. However, other meningococcal serogroups such as W, X and C still cause epidemics and around 30 000 cases are reported each year in the meningitis belt. WHO is committed to eliminating meningococcal disease as a public health problem.
+
+
+(1) These are indicative prices from the public and private sector, as reported by UNICEF, PAHO and CDC.

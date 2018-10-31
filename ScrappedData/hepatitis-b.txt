@@ -1,0 +1,117 @@
+Key facts
+
+Hepatitis B is a viral infection that attacks the liver and can cause both acute and chronic disease.
+The virus is transmitted through contact with the blood or other body fluids of an infected person.
+An estimated 257 million people are living with hepatitis B virus infection (defined as hepatitis B surface antigen positive).
+In 2015, hepatitis B resulted in 887 000 deaths, mostly from complications (including cirrhosis and hepatocellular carcinoma).
+Hepatitis B is an important occupational hazard for health workers.
+However, it can be prevented by currently available safe and effective vaccine.
+
+
+
+Hepatitis B is a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). It is a major global health problem. It can cause chronic infection and puts people at high risk of death from cirrhosis and liver cancer.
+
+A vaccine against hepatitis B has been available since 1982. The vaccine is 95% effective in preventing infection and the development of chronic disease and liver cancer due to hepatitis B.
+Geographical distribution
+
+Hepatitis B prevalence is highest in the WHO Western Pacific Region and the WHO African Region, where 6.2% and 6.1% respectively of the adult population is infected. In the WHO Eastern Mediterranean Region, the WHO South-East Asia Region and the WHO European Region, an estimated 3.3%, 2.0% and 1.6%% of the general population is infected, respectively. 0.7% of the population of the WHO Region of the Americas is infected.
+Transmission
+
+The hepatitis B virus can survive outside the body for at least 7 days. During this time, the virus can still cause infection if it enters the body of a person who is not protected by the vaccine. The incubation period of the hepatitis B virus is 75 days on average, but can vary from 30 to 180 days. The virus may be detected within 30 to 60 days after infection and can persist and develop into chronic hepatitis B.
+
+In highly endemic areas, hepatitis B is most commonly spread from mother to child at birth (perinatal transmission), or through horizontal transmission (exposure to infected blood), especially from an infected child to an uninfected child during the first 5 years of life. The development of chronic infection is very common in infants infected from their mothers or before the age of 5 years.
+
+Hepatitis B is also spread by percutaneous or mucosal exposure to infected blood and various body fluids, as well as through saliva, menstrual, vaginal, and seminal fluids. Sexual transmission of hepatitis B may occur, particularly in unvaccinated men who have sex with men and heterosexual persons with multiple sex partners or contact with sex workers. Infection in adulthood leads to chronic hepatitis in less than 5% of cases. Transmission of the virus may also occur through the reuse of needles and syringes either in health-care settings or among persons who inject drugs. In addition, infection can occur during medical, surgical and dental procedures, through tattooing, or through the use of razors and similar objects that are contaminated with infected blood.
+Symptoms
+
+Most people do not experience any symptoms during the acute infection phase. However, some people have acute illness with symptoms that last several weeks, including yellowing of the skin and eyes (jaundice), dark urine, extreme fatigue, nausea, vomiting and abdominal pain. A small subset of persons with acute hepatitis can develop acute liver failure, which can lead to death.
+
+In some people, the hepatitis B virus can also cause a chronic liver infection that can later develop into cirrhosis (a scarring of the liver) or liver cancer.
+Who is at risk for chronic disease?
+
+The likelihood that infection becomes chronic depends upon the age at which a person becomes infected. Children less than 6 years of age who become infected with the hepatitis B virus are the most likely to develop chronic infections.
+
+In infants and children:
+
+80–90% of infants infected during the first year of life develop chronic infections; and
+30–50% of children infected before the age of 6 years develop chronic infections.
+
+
+In adults:
+
+less than 5% of otherwise healthy persons who are infected as adults will develop chronic infection; and
+20–30% of adults who are chronically infected will develop cirrhosis and/or liver cancer.
+
+HBV-HIV coinfection
+
+About 1% of persons living with HBV infection (2.7 million people) are also infected with HIV. Conversely, the global prevalence of HBV infection in HIV-infected persons is 7.4%. Since 2015, WHO has recommended treatment for everyone diagnosed with HIV infection, regardless of the stage of disease. Tenofovir, which is included in the treatment combinations recommended in first intention against HIV infection, is also active against HBV.
+Diagnosis
+
+It is not possible, on clinical grounds, to differentiate hepatitis B from hepatitis caused by other viral agents and, hence, laboratory confirmation of the diagnosis is essential. A number of blood tests are available to diagnose and monitor people with hepatitis B. They can be used to distinguish acute and chronic infections.
+
+Laboratory diagnosis of hepatitis B infection focuses on the detection of the hepatitis B surface antigen HBsAg. WHO recommends that all blood donations be tested for hepatitis B to ensure blood safety and avoid accidental transmission to people who receive blood products.
+
+Acute HBV infection is characterized by the presence of HBsAg and immunoglobulin M (IgM) antibody to the core antigen, HBcAg. During the initial phase of infection, patients are also seropositive for hepatitis B e antigen (HBeAg). HBeAg is usually a marker of high levels of replication of the virus. The presence of HBeAg indicates that the blood and body fluids of the infected individual are highly infectious.
+Chronic infection is characterized by the persistence of HBsAg for at least 6 months (with or without concurrent HBeAg). Persistence of HBsAg is the principal marker of risk for developing chronic liver disease and liver cancer (hepatocellular carcinoma) later in life.
+
+Treatment
+
+There is no specific treatment for acute hepatitis B. Therefore, care is aimed at maintaining comfort and adequate nutritional balance, including replacement of fluids lost from vomiting and diarrhoea.
+
+Chronic hepatitis B infection can be treated with medicines, including oral antiviral agents. Treatment can slow the progression of cirrhosis, reduce incidence of liver cancer and improve long term survival.
+
+WHO recommends the use of oral treatments - tenofovir or entecavir, because these are the most potent drugs to suppress hepatitis B virus. They rarely lead to drug resistance as compared with other drugs, are simple to take (1 pill a day), and have few side effects so require only limited monitoring.
+
+Entecavir is off-patent, but availability and costs vary widely. Tenofovir is protected by a patent until 2018 in most upper-middle- and high-income countries, where the cost ranged from US$ 400 to US$ 1500 for a year of treatment in February 2017. While some middle-income countries (such as China and the Russian Federation) still face patent barriers in accessing tenofovir, generic tenofovir is affordable in most countries where it is accessible. The Global Price Reporting Mechanism (GPRM) indicates that the cost for a year of treatment ranged from US$ 48 to US$ 50 in February 2017.
+
+In most people, however, the treatment does not cure hepatitis B infection, but only suppresses the replication of the virus. Therefore, most people who start hepatitis B treatment must continue it for life.
+
+There is still limited access to diagnosis and treatment of hepatitis B in many resource-constrained settings. In 2015, of the 257 million people living with HBV infection, 9% (22 million) knew their diagnosis. Of those diagnosed, the global treatment coverage was only 8% (1.7 million). Many people are diagnosed only when they already have advanced liver disease.
+
+Among the long-term complications of HBV infections, cirrhosis and hepatocellular carcinoma cause a large disease burden. Liver cancer progresses rapidly, and since treatment options are limited, the outcome is in general poor. In low-income settings, most people with liver cancer die within months of diagnosis. In high-income countries, surgery and chemotherapy can prolong life for up to a few years. Liver transplantation is sometimes used in people with cirrhosis in high income countries, with varying success.
+Prevention
+
+The hepatitis B vaccine is the mainstay of hepatitis B prevention. WHO recommends that all infants receive the hepatitis B vaccine as soon as possible after birth, preferably within 24 hours. The low incidence of chronic HBV infection in children under 5 years of age at present can be attributed to the widespread use of hepatitis B vaccine. Worldwide, in 2015, the estimated prevalence of HBV infection in this age group was about 1.3%, compared with about 4.7% in the pre-vaccination era. The birth dose should be followed by 2 or 3 doses to complete the primary series. In most cases, 1 of the following 2 options is considered appropriate:
+
+a 3-dose schedule of hepatitis B vaccine, with the first dose (monovalent) being given at birth and the second and third (monovalent or combined vaccine) given at the same time as the first and third doses of diphtheria, pertussis (whooping cough), and tetanus – (DTP) vaccine; or
+a 4-dose schedule, where a monovalent birth dose is followed by three monovalent or combined vaccine doses, usually given with other routine infant vaccines.
+
+
+The complete vaccine series induces protective antibody levels in more than 95% of infants, children and young adults. Protection lasts at least 20 years and is probably lifelong. Thus, WHO does not recommend booster vaccination for persons who have completed the 3 dose vaccination schedule.
+
+All children and adolescents younger than 18 years-old and not previously vaccinated should receive the vaccine if they live in countries where there is low or intermediate endemicity. In those settings it is possible that more people in high-risk groups may acquire the infection and they should also be vaccinated. They include:
+
+people who frequently require blood or blood products, dialysis patients, recipients of solid organ transplantations;
+people interned in prisons;
+persons who inject drugs;
+household and sexual contacts of people with chronic HBV infection;
+people with multiple sexual partners; 
+healthcare workers and others who may be exposed to blood and blood products through their work; and
+travellers who have not completed their hepatitis B vaccination series, who should be offered the vaccine before leaving for endemic areas.
+
+
+The vaccine has an excellent record of safety and effectiveness. Since 1982, over 1 billion doses of hepatitis B vaccine have been used worldwide. In many countries where between 8–15% of children used to become chronically infected with the hepatitis B virus, vaccination has reduced the rate of chronic infection to less than 1% among immunized children.
+
+In 2015, global coverage with the third dose of hepatitis B vaccine reached 84%, and global coverage with the birth dose of hepatitis B vaccine was 39%. The WHO Region of the Americas and WHO Western Pacific Region were the only regions that have wide coverage. In addition, implementation of blood safety strategies, including quality-assured screening of all donated blood and blood components used for transfusion, can prevent transmission of HBV. Worldwide, in 2013, 97% of blood donations were screened and quality assured, but gaps persist. Safe injection practices, eliminating unnecessary and unsafe injections, can be effective strategies to protect against HBV transmission. Unsafe injections decreased from 39% in 2000 to 5% in 2010 worldwide. Furthermore, safer sex practices, including minimizing the number of partners and using barrier protective measures (condoms), also protect against transmission.
+WHO response
+
+In March 2015, WHO launched its first "Guidelines for the prevention, care and treatment of persons living with chronic hepatitis B infection". The recommendations:
+
+promote the use of simple, non-invasive diagnostic tests to assess the stage of liver disease and eligibility for treatment;
+prioritize treatment for those with most advanced liver disease and at greatest risk of mortality; and
+recommend the preferred use of the nucleos(t)ide analogues with a high barrier to drug resistance (tenofovir and entecavir, and entecavir in children aged between 2–11 years) for first- and second-line treatment.
+
+
+These guidelines also recommend lifelong treatment in those with cirrhosis; and regular monitoring for disease progression, toxicity of drugs and early detection of liver cancer.
+
+In May 2016, The World Health Assembly adopted the first "Global Health Sector Strategy on Viral Hepatitis, 2016-2020". The strategy highlights the critical role of Universal Health Coverage and the targets of the strategy are aligned with those of the Sustainable Development Goals. The strategy has a vision of eliminating viral hepatitis as a public health problem and this is encapsulated in the global targets of reducing new viral hepatitis infections by 90% and reducing deaths due to viral hepatitis by 65% by 2030. Actions to be taken by countries and WHO Secretariat to reach these targets are outlined in the strategy.
+
+To support countries in moving towards achieving the global hepatitis goals under the Sustainable Development Agenda 2030, WHO is working in the following areas:
+
+raising awareness, promoting partnerships and mobilizing resources;
+formulating evidence-based policy and data for action;
+preventing transmission; and
+scaling up screening, care and treatment services.
+
+
+WHO also organizes World Hepatitis Day on July 28 every year to increase awareness and understanding of viral hepatitis.

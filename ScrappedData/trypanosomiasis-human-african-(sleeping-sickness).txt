@@ -1,0 +1,130 @@
+Key facts
+
+Sleeping sickness occurs in 36 sub-Saharan Africa countries where there are tsetse flies that transmit the disease.
+The people most exposed to the tsetse fly and therefore the disease live in rural areas and depend on agriculture, fishing, animal husbandry or hunting.
+Human African trypanosomiasis takes 2 forms, depending on the parasite involved: Trypanosoma brucei gambiense accounts for more than 98% of reported cases.
+Sustained control efforts have reduced the number of new cases. In 2009 the number reported dropped below 10 000 for the first time in 50 years, and in 2015 there were 2804 cases recorded.
+Diagnosis and treatment of the disease is complex and requires specifically skilled staff.
+
+
+
+Human African trypanosomiasis, also known as sleeping sickness, is a vector-borne parasitic disease. It is caused by infection with protozoan parasites belonging to the genus Trypanosoma. They are transmitted to humans by tsetse fly (Glossina genus) bites which have acquired their infection from human beings or from animals harbouring human pathogenic parasites.
+
+Tsetse flies are found just in sub-Saharan Africa though only certain species transmit the disease. For reasons that are so far unexplained, in many regions where tsetse flies are found, sleeping sickness is not. Rural populations living in regions where transmission occurs and which depend on agriculture, fishing, animal husbandry or hunting are the most exposed to the tsetse fly and therefore to the disease. The disease develops in areas ranging from a single village to an entire region. Within an infected area, the intensity of the disease can vary from one village to the next.
+Forms of human African trypanosomiasis
+
+Human African trypanosomiasis takes 2 forms, depending on the parasite involved:
+
+Trypanosoma brucei gambiense is found in 24 countries in west and central Africa. This form currently accounts for 97% of reported cases of sleeping sickness and causes a chronic infection. A person can be infected for months or even years without major signs or symptoms of the disease. When more evident symptoms emerge, the patient is often already in an advanced disease stage where the central nervous system is affected.
+Trypanosoma brucei rhodesiense is found in 13 countries in eastern and southern Africa. Nowadays, this form represents under 3% of reported cases and causes an acute infection. First signs and symptoms are observed a few months or weeks after infection. The disease develops rapidly and invades the central nervous system. Only Uganda presents both forms of the disease, but in separate zones.
+
+
+Another form of trypanosomiasis occurs mainly in Latin America. It is known as American trypanosomiasis or Chagas disease. The causal organism belongs to a different Trypanosoma subgenus and is transmitted by a different vector.
+Animal trypanosomiasis
+
+Other parasite species and sub-species of the Trypanosoma genus are pathogenic to animals and cause animal trypanosomiasis in wild and domestic animals. In cattle the disease is called Nagana. Trypanosomiasis in domestic animals, particularly in cattle, is a major obstacle to the economic development of affected rural areas.
+
+Animals can host the human pathogen parasites, especially T.b. rhodesiense, of which domestic and wild animals are an important reservoir. Animals can also be infected with T.b. gambiense and act as a reservoir to a lesser extent. However the precise epidemiological role of the animal reservoir in the gambiense form of the disease is not yet well known. 
+Major human epidemics
+
+There have been several epidemics in Africa over the last century: 
+
+one between 1896 and 1906, mostly in Uganda and the Congo Basin;
+one in 1920 in a number of African countries; and 
+the most recent epidemic started in 1970 and lasted until the late 1990s. 
+
+
+The 1920 epidemic was controlled thanks to mobile teams which carried out the screening of millions of people at risk. By the mid-1960s, the disease was under control with less than 5000 cases reported in the whole continent. After this success, surveillance was relaxed, and the disease reappeared, reaching epidemic proportions in several regions by 1970. The efforts of WHO, national control programmes, bilateral cooperation and nongovernmental organizations (NGOs) during the 1990s and early 21st century reversed the curve.
+
+Since the number of new human African trypanosomiasis cases reported between 2000 and 2012 dropped by 73%, the WHO neglected tropical diseases roadmap targeted its elimination as a public health problem by 2020. 
+Disease burden
+
+Sleeping sickness threatens millions of people in 36 countries in sub-Saharan Africa. Many of the affected populations live in remote rural areas with limited access to adequate health services, which complicates the surveillance and therefore the diagnosis and treatment of cases. In addition, displacement of populations, war and poverty are important factors that facilitate transmission. 
+
+
+
+In 1998, almost 40 000 cases were reported, but estimates were that 300 000 cases were undiagnosed and therefore untreated. 
+During the most recent epidemic the prevalence reached 50% in several villages in Angola, the Democratic Republic of the Congo, and South Sudan. Sleeping sickness was the first or second greatest cause of mortality in those communities, even ahead of HIV/AIDS.
+In 2009, after continued control efforts, the number of cases reported dropped below 10 000 (9878) for the first time in 50 years. This decline in number of cases has continued with 2804 new cases reported in 2015, the lowest level since the start of systematic global data-collection 76 years ago. The estimated number of actual cases is below 20 000 and the estimated population at risk is 65 million people.
+
+Current disease distribution
+
+The disease incidence differs from one country to another as well as in different parts of a single country. 
+
+In the last 10 years, over 70% of reported cases occurred in the Democratic Republic of the Congo (DRC). 
+The DRC is the only country that currently reports more than 1000 new cases annually and accounts for 84% of the cases reported in 2015.
+Central African Republic is the only country that declared between 100 and 200 new cases in 2015.
+Countries such as Angola, Burkina Faso, Cameroon, Chad, Congo, Côte d'Ivoire, Equatorial Guinea, Gabon, Gjana, Guinea, Malawi, Nigeria, South Sudan, Uganda, United Republic of Tanzania, Zambia and Zimbabwe are reporting fewer than 100 new cases per year. 
+Countries like Benin, Botswana, Burundi, Ethiopia, Gambia, Guinea Bissau, Kenya, Liberia, Mali, Mozambique, Namibia, Niger, Rwanda, Senegal, Sierra Leone, Swaziland and Togo have not reported any new cases for over a decade. Transmission of the disease seems to have stopped in some of these countries but there are still some areas where it is difficult to assess the exact situation because the unstable social circumstances and/or difficult accessibility hinder surveillance and diagnostic activities. 
+
+Infection and symptoms
+
+The disease is mostly transmitted through the bite of an infected tsetse fly but there are other ways in which people are infected:
+
+Mother-to-child infection: the trypanosome can cross the placenta and infect the fetus.
+Mechanical transmission through other blood-sucking insects is possible, however, it is difficult to assess its epidemiological impact.
+Accidental infections have occurred in laboratories due to pricks with contaminated needles.
+Transmission of the parasite through sexual contact has been documented.
+
+
+In the first stage, the trypanosomes multiply in subcutaneous tissues, blood and lymph. This is also called haemo-lymphatic stage, which entails bouts of fever, headaches, joint pains and itching
+
+In the second stage the parasites cross the blood-brain barrier to infect the central nervous system. This is known as the neurological or meningo-encephalic stage. In general this is when more obvious signs and symptoms of the disease appear: changes of behaviour, confusion, sensory disturbances and poor coordination. Disturbance of the sleep cycle, which gives the disease its name, is an important feature. Without treatment, sleeping sickness is considered fatal although cases of healthy carriers have been reported.
+Disease management: diagnosis
+
+Disease management is made in 3 steps:
+
+Screening for potential infection. This involves using serological tests (only available for T.b.gambiense) and checking for clinical signs - especially swollen cervical lymph nodes.
+Diagnosing by establishing whether the parasite is present in body fluids.
+Staging to determine the state of disease progression. This entails examining the cerebrospinal fluid obtained by lumbar puncture.
+
+
+Diagnosis must be made as early as possible to avoid progressing to the neurological stage in order to elude complicated and risky treatment procedures
+
+The long, relatively asymptomatic first stage of T. b. gambiense sleeping sickness is one of the reasons why an exhaustive, active screening of the population at risk is recommended, in order to identify patients at an early stage and reduce transmission by removing their status of reservoir. Exhaustive screening requires a major investment in human and material resources. In Africa such resources are often scarce, particularly in remote areas where the disease is mostly found. As a result, some infected individuals may die before they can ever be diagnosed and treated.
+Treatment
+
+The type of treatment depends on the disease stage. The drugs used in the first stage are safer and easier to administer than those for second stage. Also, the earlier the disease is identified, the better the prospect of a cure. The assessment of treatment outcome requires follow up of the patient up to 24 months and entails laboratory exams of body fluids including cerebrospinal fluid obtained by lumbar puncture, as parasites may remain viable for long periods and reproduce the disease months after treatment.
+
+Treatment success in the second stage depends on drugs that cross the blood-brain barrier to reach the parasite. Such drugs are toxic and complicated to administer. 
+
+In total five different drugs are used for the treatment of sleeping sickness. These drugs are donated to WHO by manufacturers and distributed free of charge to disease endemic countries. 
+
+Drugs used in first stage treatment:
+
+Pentamidine: discovered in 1940, used for the treatment of the first stage of T.b. gambiense sleeping sickness. Despite non-negligible undesirable effects, it is in general well tolerated by patients.
+Suramin: discovered in 1920, used for the treatment of the first stage of T.b. rhodesiense. It provokes certain undesirable effects, including urinary tract and allergic reactions.
+
+
+Drugs used in second stage treatment:
+
+Melarsoprol: discovered in 1949, it is used for the treatment of both gambiense and rhodesiense infections. It is derived from arsenic and has many undesirable side effects, the most dramatic of which is reactive encephalopathy (encephalopathic syndrome) which can be fatal (3% to 10%). An increase in resistance to the drug has been observed in several foci, particularly in central Africa. It is currently recommended as first-line treatment for the rhodesiense form, and as second-line for the gambiense form.
+Eflornithine: this molecule, less toxic than melarsoprol, was registered in 1990. It is only effective against T.b. gambiense. The regimen is complex and difficult to apply.
+Nifurtimox: A combination treatment of nifurtimox and eflornithine was introduced in 2009. It simplifies the use of eflornithine by reducing the duration of treatment and the number of IV perfusions, but unfortunately it has not been studied for T.b. rhodesiense. Nifurtimox is registered for the treatment of American trypanosomiasis but not for human African trypanosomiasis. Nevertheless, after safety and efficacy data provided by clinical trials, its use in combination with eflornithine has been included in the "WHO List of Essential Medicines" and is currently recommended as first-line treatment for the gambiense form. Both drugs are provided free of charge by WHO to endemic countries with a kit containing all the material needed for its administration.
+
+Public private partnership
+
+In 2000 and 2001, WHO established public-private partnerships with Aventis Pharma (now Sanofi) and Bayer HealthCare which enabled the creation of a WHO-led control and surveillance programme, providing support to endemic countries in their control activities and the supply of medicines free of charge. 
+
+The partnership was renewed in 2006, 2011 and 2016. The success in curbing the number of sleeping sickness cases has encouraged other private partners to sustain the WHO’s initiative towards eliminating the disease as a public health problem.
+WHO response
+
+WHO provides support and technical assistance to national control programmes.
+
+WHO provides the anti-trypanosome medicines free of charge to endemic countries through public-private partnerships with Sanofi (pentamidine, melarsoprol and eflornithine) and with Bayer HealthCare (suramin and nifurtimox). The conditioning and shipment of medicines is done in collaboration with MSF-Logistics. 
+
+In 2009, WHO set up a biological specimens bank that is available to researchers to facilitate the development of new and affordable diagnostic tools. The bank contains samples of blood, serum, cerebrospinal fluid, saliva and urine from patients infected with both forms of the disease as well as samples from uninfected people from areas where the disease is endemic.
+
+In 2014 a coordination network for human African trypanosomiasis was established under WHO leadership to ensure strengthened and sustained efforts to eliminate the disease. The stakeholders include national sleeping sickness control programmes, groups developing new tools to fight the disease, international and non-governmental organizations, and donors.
+
+The objectives of the WHO programme are to:
+
+strengthen and coordinate control measures and ensure field activities are sustained;
+strengthen surveillance systems;
+ensure accessibility to the diagnosis and the best treatment available;
+support the monitoring of treatment and drug resistance;
+develop an information database for epidemiological analysis, including the atlas of the human African trypanosomiasis, completed in collaboration with the Food and Agriculture Organization (FAO);
+ensure skilled staff by offering training activities;
+support operational research to improve diagnostic and treatment tools;
+promote collaboration with the FAO in charge of animal trypanosomiasis and the International Atomic Energy Agency (IAEA) dealing with vector control through male flies made sterile by radiation. The 3 UN agencies along with the African Union have promoted the Programme Against African Trypanosomiasis (PAAT);
+synergize vector and disease control activities in collaboration with the Pan African Tsetste and Trypanosomosis Eradication Campaign (PATTEC) of the African Union. 

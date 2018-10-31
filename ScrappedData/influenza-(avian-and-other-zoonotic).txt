@@ -1,0 +1,106 @@
+Key facts
+
+Humans can be infected with avian, swine and other zoonotic influenza viruses, such as avian influenza virus subtypes A(H5N1), A(H7N9), and A(H9N2) and swine influenza virus subtypes A(H1N1), A(H1N2) and A(H3N2).
+Human infections are primarily acquired through direct contact with infected animals or contaminated environments, these viruses have not acquired the ability of sustained transmission among humans.
+Avian, swine and other zoonotic influenza virus infections in humans may cause disease ranging from mild upper respiratory tract infection (fever and cough), early sputum production and rapid progression to severe pneumonia, sepsis with shock, acute respiratory distress syndrome and even death. Conjunctivitis, gastrointestinal symptoms, encephalitis and encephalopathy have also been reported to varying degrees depending on subtype.
+The majority of human cases of influenza A (H5N1) and A(H7N9) virus infection have been associated with direct or indirect contact with infected live or dead poultry. Controlling the disease in the animal source is critical to decrease risk to humans.
+Influenza viruses, with the vast silent reservoir in aquatic birds, are impossible to eradicate. Zoonotic influenza infection in humans will continue to occur. To minimize public health risk, quality surveillance in both animal and human populations, thorough investigation of every human infection and risk-based pandemic planning are essential.
+
+
+
+Humans can be infected with zoonotic influenza viruses such as avian or swine influenza viruses.
+The pathogen
+
+There are four types of influenza viruses: types A, B, C and D:
+
+Influenza A viruses infect humans and many different animals. The emergence of a new and very different influenza A virus with the ability infect people and have sustained human to human transmission, can cause an influenza pandemic. 
+Influenza B viruses circulates among humans and cause seasonal epidemics. Recent data showed seals also can be infected.
+Influenza C viruses can infect both humans and pigs but infections are generally mild and are rarely reported.
+Influenza D viruses primarily affect cattle and are not known to infect or cause illness in people.
+
+
+Influenza type A viruses are of most significance to public health due to their potential to cause an influenza pandemic. Influenza type A viruses are classified into subtypes according to the combinations of different virus surface proteins hemagglutinin (HA) and neuraminidase (NA). So far there are 18 different hemagglutinin subtypes and 11 different neuraminidase subtypes. Depending on the origin host, influenza A viruses can be classified as avian influenza, swine influenza, or other types of animal influenza viruses. Examples include avian influenza "bird flu" virus subtypes A(H5N1) and A(H9N2) or swine influenza "swine flu" virus subtypes A(H1N1) and A(H3N2). All of these animal influenza type A viruses are distinct from human influenza viruses and do not easily transmit among humans.
+
+Aquatic birds are the primary natural reservoir for most subtypes of influenza A viruses. Most cause asymptomatic or mild infection in birds, where the range of symptoms depends on the virus properties. Viruses that cause severe disease in poultry and result in high death rates are called highly pathogenic avian influenza (HPAI). Viruses that cause mild disease in poultry are called low pathogenic avian influenza (LPAI).
+
+Signs and symptoms in humans
+
+Avian, swine and other zoonotic influenza infections in humans may cause disease ranging from mild upper respiratory infection (fever and cough) to rapid progression to severe pneumonia, acute respiratory distress syndrome, shock and even death. Gastrointestinal symptoms such as nausea, vomiting and diarrhea has been reported more frequently in A(H5N1) infection. Conjunctivitis has also been reported in influenza A(H7). Disease features such as the incubation period, severity of symptoms and clinical outcome varies by the virus causing infection but mainly manifests with respiratory symptoms.
+
+In many patients infected by A(H5) or A(H7N9) avian influenza viruses, the disease has an aggressive clinical course. Common initial symptoms are high fever (greater than or equal to 38°C) and cough followed by symptoms of lower respiratory tract involvement including dyspnoea or difficulty breathing. Upper respiratory tract symptoms such as sore throat or coryza are less common. Other symptoms such as diarrhea, vomiting, abdominal pain, bleeding from the nose or gums, encephalitis, and chest pain have also been reported in the clinical course of some patients. Complications of infection include severe pneumonia, hypoxemic respiratory failure, multi-organ dysfunction, septic shock, and secondary bacterial and fungal infections. The case fatality rate for A(H5) and A(H7N9) subtype virus infections among humans is much higher than that of seasonal influenza infections.
+
+For human infections with avian influenza A(H7N7) and A(H9N2) viruses, disease is typically mild or subclinical. Only one fatal A(H7N7) human infection has been reported in the Netherlands so far. For human infections with swine influenza viruses, most cases have been mild with a few cases hospitalized and very few reports of deaths resulting from infection.
+
+Epidemiology of human infections 
+
+In terms of transmission, human infections with avian and other zoonotic influenza viruses, though rare, have been reported sporadically. Human infections are primarily acquired through direct contact with infected animals or contaminated environments, but do not result in efficient transmission of these viruses between people.
+
+In 1997, human infections with the HPAI A(H5N1) virus were reported during an outbreak in poultry in Hong Kong SAR, China. Since 2003, this avian virus has spread from Asia to Europe and Africa, and has become endemic in poultry populations in some countries. Outbreaks have resulted in millions of poultry infections, several hundred human cases, and many human deaths. The outbreaks in poultry have seriously impacted livelihoods, the economy and international trade in affected countries. Other avian influenza A(H5) subtype viruses have also resulted in both outbreaks in poultry and human infections.
+
+In 2013, human infections with A(H7N9) virus were reported for the first time in China. Since then, the virus has spread in the poultry population across the country and resulted in over 1500 reported human cases and many human deaths 
+Other avian influenza viruses have resulted in sporadic human infections including the A(H7N7) and A(H9N2) viruses. Some countries have also reported sporadic human infections with swine influenza viruses, particularly the A(H1) and A(H3) subtypes.
+
+In term of risk factors for human infections: 
+
+for avian influenza viruses, the primary risk factor for human infection appears to be direct or indirect exposure to infected live or dead poultry or contaminated environments, such as live bird markets. Slaughtering, defeathering, handling carcasses of infected poultry, and preparing poultry for consumption, especially in household settings, are also likely to be risk factors. There is no evidence to suggest that the A(H5), A(H7N9) or other avian influenza viruses can be transmitted to humans through properly prepared poultry or eggs. A few influenza A(H5N1) human cases have been linked to consumption of dishes made with raw, contaminated poultry blood. Controlling the circulation of avian influenza viruses in poultry is essential to reducing the risk of human infection. Given the persistence of the A(H5) and A(H7N9) viruses in some poultry populations, control will require long-term commitments from countries and strong coordination between animal and public health authorities.
+for swine influenza viruses, risk factors reported for most human cases includes close proximity to infected pigs or visiting locations where pigs are exhibited , but some limited human-to-human transmission has occurred.
+
+
+For avian influenza A(H5N1) virus infections in humans, current data indicate an incubation period averaging 2 to 5 days and ranging up to 17 days1. For human infections with the A(H7N9) virus, incubation period ranges from 1 to 10 days, with an average of 5 days. For both viruses, the average incubation period is longer than that for seasonal influenza (2 days). For human infections with swine influenza viruses, an incubation period of 2–7 days has been reported.
+Diagnosis
+
+Laboratory tests are required to diagnose human infection with zoonotic influenza. WHO, through its Global Influenza Surveillance and Response System (GISRS), periodically updates technical guidance protocols for the detection of zoonotic influenza in humans using molecular e.g. RT-PCR and others methods. 
+Rapid influenza diagnostic tests (RIDTs) have lower sensitivity compared to PCR and their reliability depends largely on the conditions under which they are used. Commercially available RDTs in general cannot provide subtype information. RIDTs are sometimes used in clinical settings, but their use in detection of zoonotic viruses is limited. 
+Adequate, appropriate samples for influenza tests should be taken from patients and processed with diagnostics according to relevant guidance and protocols 1.
+
+Treatment
+
+Evidence suggests that some antiviral drugs, notably neuraminidase inhibitor (oseltamivir, zanamivir), can reduce the duration of viral replication and improve prospects of survival, however ongoing clinical studies are needed. Emergence of oseltamivir resistance has been reported.
+
+In suspected and confirmed cases, neuraminidase inhibitors should be prescribed as soon as possible (ideally, within 48 hours following symptom onset) to maximize therapeutic benefits. However, given the significant mortality currently associated with A(H5) and A(H7N9) subtype virus infections and evidence of prolonged viral replication in these diseases, administration of the drug should also be considered in patients presenting later in the course of illness.
+Treatment is recommended for a minimum of 5 days, but can be extended until there is satisfactory clinical improvement.
+Corticosteroids should not be used routinely, unless indicated for other reasons (eg: asthma and other specific conditions); as it has been associated with prolonged viral clearance, immunosuppression leading to bacterial or fungal superinfection. 
+Most recent A(H5) and A(H7N9) viruses are resistant to adamantane antiviral drugs (e.g. amantadine and rimantadine) and are therefore not recommended for monotherapy. 
+Presence of co-infection with bacterial pathogens can be encountered in critically ill patients. 
+
+Prevention
+
+Apart from antiviral treatment, the public health management includes personal protective measures like:
+
+Regular hand washing with proper drying of the hands
+Good respiratory hygiene – covering mouth and nose when coughing or sneezing, using tissues and disposing of them correctly
+Early self-isolation of those feeling unwell, feverish and having other symptoms of influenza
+Avoiding close contact with sick people
+Avoiding touching one’s eyes, nose or mouth
+
+
+Health care workers preforming aerosol generating procedures should use airborne precautions. Standard contact and droplet precautions and appropriate personal protective equipment (PPE) should be made available and used during epidemics.
+
+Travelers to countries and people living in countries with known outbreaks of avian influenza should, if possible, avoid poultry farms, contact with animals in live poultry markets, entering areas where poultry may be slaughtered, and contact with any surfaces that appear to be contaminated with faeces from poultry or other animals. Good food safety and food hygiene practices e.g. hands washing with soap and water should be followed. Travelers returning from affected regions should report to local health services if respiratory symptoms suspecting zoonotic influenza virus infection. 
+Pre-exposure or post-exposure prophylaxis with antivirals is possible but depends on several factors e.g. individual factors, type of exposure, and risk associated with the exposure.
+
+Pandemic potential
+
+Influenza pandemics are epidemics that affect a large proportion of the world due to a novel virus. Pandemics are unpredictable, but recurring events that can have health, economic and social consequences worldwide. An influenza pandemic occurs when a novel influenza virus emerges with the ability to cause sustained human-to-human transmission, and the human population has little to no immunity against the virus. With the growth of global travel, a pandemic can spread rapidly globally with little time to prepare a public health response. 
+Ongoing circulation of some avian influenza viruses in poultry, such as A(H5) and A(H7) viruses, are of public health concern as these viruses cause severe disease in humans and the viruses have the potential to mutate to increase transmissibility among humans. To date, although human-to-human transmission of these viruses is thought to have occurred in some instances when there had been close or prolonged contact with a patient, there has been no sustained human-to-human transmission identified. 
+Whether currently-circulating avian, swine and other zoonotic influenza viruses will result in a future pandemic is unknown. However, the diversity of zoonotic influenza viruses that have caused human infections is alarming and necessitates strengthened surveillance in both animal and human populations, thorough investigation of every zoonotic infection and pandemic preparedness planning. 
+WHO response
+
+WHO, in its capacity for providing leadership on global health matters, continuously monitors avian and other zoonotic influenza viruses closely through its Global Influenza Surveillance and Response System (GISRS). WHO, in collaboration with the World Organisation for Animal Health (OIE) and the Food and Agriculture Organization (FAO), conducts surveillance at the human-animal interface, assesses the associated risks and coordinates response to zoonotic influenza outbreaks and other threats to public health. 
+Based on risk assessment, WHO provides guidance, develops and adjusts surveillance, preparedness and response strategies to influenza – seasonal, zoonotic and pandemic influenza, and communicates timely risk assessment outcomes and intervention recommendations with Member States to enhance preparedness and response nationally and globally.
+
+
+(1) Control of Communicable Diseases Manual 20th Edition.
+American Public Health Association (2015). APHA Press, Washington DC. ISBN: 978-0-87553-018-5
+(2) Epidemiology of Human Infections with Avian Influenza A(H7N9) Virus in China
+Li, Q et al (2014). New England Journal of Medicine, 370:520-532. 
+(3) Emergence of the Virulence-Associated PB2 E627K Substitution in a Fatal Human Case of Highly Pathogenic Avian Influenza Virus A(H7N7) Infection as Determined by Illumina Ultra-Deep Sequencing.
+Jonges, M et al (2014). Journal of Virology. Feb; 88(3): 1694–1702.
+
+(4) Monthly Risk Assessment summaries at the Human Animal Interface
+
+
+WHO Manual for the laboratory diagnosis and virological surveillance of influenza, 2011 
+
+
+ 

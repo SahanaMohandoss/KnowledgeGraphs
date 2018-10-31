@@ -1,0 +1,48 @@
+Key facts
+
+Hepatitis D virus (HDV) is a virus that requires hepatitis B virus (HBV) for its replication. HDV infection occurs only simultaneously or as super-infection with HBV.
+The virus is transmitted through contact with the blood or other body fluids of an infected person.
+Vertical transmission from mother to child is rare.
+At least 5% of people with chronic HBV infection are co-infected with HDV, resulting in a total of 15 – 20 million persons infected with HDV worldwide. However, this is a broad global estimation since many countries do not report the prevalence of HDV.
+Worldwide, the overall number of HDV infection has decreased since 1980s. This trend is mainly due to a successful global HBV vaccination programme.
+HDV-HBV co-infection is considered the most severe form of chronic viral hepatitis due to more rapid progression towards liver-related death and hepatocellular carcinoma.
+Currently, treatment success rates are generally low.
+Hepatitis D infection can be prevented by hepatitis B immunization.
+
+
+
+Hepatitis D is a liver disease in both acute and chronic forms caused by the hepatitis D virus (HDV) that requires HBV for its replication. Hepatitis D infection cannot occur in the absence of hepatitis B virus. HDV-HBV co-infection is considered the most severe form of chronic viral hepatitis due to more rapid progression towards liver-related death and hepatocellular carcinoma.
+A vaccine against hepatitis B is the only method to prevent HDV infection. 
+Geographical distribution
+It is estimated that globally, approximately 5% of people with chronic HBV infection are co-infected with HDV, resulting in a total of 15 – 20 million persons infected with HDV worldwide. High-prevalence areas include Africa (Central and West Africa), Asia (Central and Northern Asia, Viet Nam, Mongolia, Pakistan, Japan, and Chinese Taipei), Pacific Islands (Kiribati, Nauru), Middle East (all countries), Eastern Europe (Eastern Mediterranean regions, Turkey), South America (Amazonian basin), and Greenland. However, the global estimation and geographic information are incomplete because many countries do not report the prevalence of HDV.
+Transmission
+The routes of HDV transmission are the same as for HBV: percutaneously or sexually through contact with infected blood or blood products. Vertical transmission is possible but rare. Vaccination against HBV prevents HDV coinfection, and hence expansion of childhood HBV immunization programmes has resulted in a decline in hepatitis D incidence worldwide. 
+Symptoms
+Acute hepatitis: simultaneous infection with HBV and HDV can lead to a mild-to-severe or even fulminant hepatitis, but recovery is usually complete and development of chronic hepatitis D is rare (less than 5% of acute hepatitis).
+Superinfection: HDV can infect a person already chronically infected with HBV. The superinfection of HDV on chronic hepatitis B accelerates progression to a more severe disease in all ages and in 70‒90% of persons. HDV superinfection accelerates progression to cirrhosis almost a decade earlier than HBV monoinfected persons, although HDV suppresses HBV replication. The mechanism in which HDV causes more severe hepatitis and a faster progression of fibrosis than HBV alone remains unclear.
+Who is at risk?
+Chronic HBV carriers are at risk for infection with HDV.
+People who are not immune to HBV (either by natural disease or immunization with the hepatitis B vaccine) are at risk of infection with HBV which puts them at risk of HDV infection.
+High prevalence in persons who inject drugs (PWID) suggest that injecting drug use is an important risk factor for HDV co-infection.
+High-risk sexual activity (e.g. sex worker) is also an increased risk for HDV infection. 
+Migration from high HDV prevalence countries to lower prevalence areas might have an effect on the epidemiology of the host country.
+Screening and diagnosis
+HDV infection is diagnosed by high titres of Immunoglobulin G (IgG) and Immunoglobulin M (IgM) anti-HDV, and confirmed by detection of HDV RNA in serum. 
+However, HDV diagnostics are not widely available and there is no standardization for HDV RNA assays, which are used for monitoring response to antiviral therapy.
+HBsAg is useful to monitor treatment response if quantitative HDV RNA is not available. Decreasing HBsAg titers often herald surface antigen loss and HDV clearance, although surface antigen loss is rare in treatment.
+Treatment
+Current guidelines generally recommend Pegylated interferon alpha for at least 48 weeks irrespective of on-treatment response patterns. The overall rate of sustained virological response is low, however, this treatment is an independent factor associated with a lower likelihood of disease progression. 
+Liver transplantation may be considered for cases of fulminant hepatitis and end-stage liver disease. New therapeutic agents and strategies are needed, and novel drugs, such as prenylation inhibitor or HBV entry inhibitors, have shown early promise.
+Prevention
+Prevention and control of HDV infection requires prevention of HBV transmission through hepatitis B immunization, blood safety, injection safety, and harm reduction services. Hepatitis B immunization does not provide protection against HDV for those already HBV infected.
+WHO response
+WHO does not have specific recommendation on hepatitis D, however prevention of HBV transmission by hepatitis B immunization, safe injection practices, blood safety, and harm reduction services with clean needles and syringes, are effective in preventing HDV transmission.
+In May 2016, The World Health Assembly adopted the first “Global Health Sector Strategy on Viral Hepatitis, 2016-2021”. The strategy highlights the critical role of Universal Health Coverage and the targets of the strategy are aligned with those of the Sustainable Development Goals. The strategy has a vision of eliminating viral hepatitis as a public health problem and this is encapsulated in the global targets of reducing new viral hepatitis infections by 90% and reducing deaths due to viral hepatitis by 65% by 2030. Actions to be taken by countries and WHO Secretariat to reach these targets are outlined in the strategy.
+To support countries in moving towards achieving the global hepatitis goals under the Sustainable Development Agenda 2030 WHO is working in the following areas:
+
+raising awareness, promoting partnerships and mobilizing resources;
+formulating evidence-based policy and data for action;
+preventing transmission; and
+scaling up screening, care and treatment services.
+
+WHO also organizes World Hepatitis Day on 28 July every year to increase awareness and understanding of viral hepatitis.
