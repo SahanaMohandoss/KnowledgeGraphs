@@ -1,0 +1,54 @@
+LOAD CSV WITH HEADERS FROM "file:///allergies.csv" AS line  MERGE (patient:Patient{Name:line.PATIENT})
+
+LOAD CSV WITH HEADERS FROM "file:///allergies.csv" AS line  MERGE (patient:Patient{Name:line.PATIENT}) MERGE (allergy:Patient{allergy_name:line.DESCRIPTION}) MERGE (patient)-[:has_allergy{start_date:line.START , end_date:coalesce(line.STOP,"Unknown")}]-(allergy)
+
+
+LOAD CSV WITH HEADERS FROM "file:///conditions.csv" AS line  MERGE (patient:Patient{Name:line.PATIENT}) MERGE (disease:Patient{disease_name:line.DESCRIPTION}) MERGE (patient)-[:has_disease{start_date:line.START , end_date:coalesce(line.STOP,"Unknown")}]-(disease)
+
+LOAD CSV WITH HEADERS FROM "file:///medications.csv" AS line MERGE (patient:Patient{Name:line.PATIENT}) MERGE (medicine:Patient{medicine_name:line.DESCRIPTION}) MERGE (disease:Patient{disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}) MERGE (patient)-[:takes_medicine{start_date:line.START , end_date:coalesce(line.STOP,"Unknown"),  disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}]-(medicine) MERGE (medicine)-[:treats_disease]-(disease)
+
+//Variablename:DB{attrname:value}
+LOAD CSV WITH HEADERS FROM "file:///procedures.csv" AS line MERGE (patient:Patient{Name:line.PATIENT}) MERGE (procedure:Patient{procedures:"PROCEDURES"}) MERGE (procedure_name:Patient{procedure_name:line.DESCRIPTION}) MERGE (disease:Patient{disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}) MERGE (patient)-[:has_procedures]-(procedure) MERGE (procedure)-[:a_procedure{date:line.DATE, disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}]-(procedure_name)  MERGE (disease)-[:needs_procedure]-(procedure)
+ 
+
+//Patient->name of database
+//patient -> variable
+//Name -> Name of the attribute in the database for that node
+
+
+ab6d8296-d3c7-4fef-9215-40b156db67ac
+
+MATCH (patient {PATIENT:"ab6d8296-d3c7-4fef-9215-40b156db67ac"})-[:has_allergy]->(aller)
+RETURN patient, aller
+
+//To get all the allergies of one patient
+
+MATCH (Patient {Name:"ab6d8296-d3c7-4fef-9215-40b156db67ac"})-[:has_allergy]->(aller)
+RETURN Patient, aller
+
+//To get all patients of one allergy
+
+MATCH (p)-[:has_allergy]->(Patient {allergy_name :"Allergy to dairy product"})
+RETURN Patient, p
+
+
+//Find propery of a relationship
+
+MATCH (p)-[x:has_allergy]->(Patient {allergy_name :"Allergy to dairy product"})
+RETURN Patient, x, x.end_date , x.start_date
+
+//Find all relations for a patient
+MATCH (Patient {Name:"ab6d8296-d3c7-4fef-9215-40b156db67ac"})-[x]-(y)
+RETURN Patient,x , y
+
+//Find
+MATCH (Patient {Name:"ab6d8296-d3c7-4fef-9215-40b156db67ac"})-[x]-(y)
+MATCH (Patient (y)-[r]-(z))
+RETURN Patient,x , y ,r ,z
+
+
+//Find all medicines and diseases of a patient
+MATCH (Patient {Name:"71949668-1c2e-43ae-ab0a-64654608defb"})-[:takes_medicine]-(med),(Patient {Name:"71949668-1c2e-43ae-ab0a-64654608defb"})-[:has_disease]-(disease), (med)-[:treats_disease]-(y) 
+RETURN Patient, disease, med , y
+
+
