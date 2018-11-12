@@ -59,6 +59,6 @@ for link in soup.find_all('a'):
 						f= open("ScrappedData2/"+disease+".txt","w+", encoding="utf-8")
 						f.write(text)
 						f.close()
-		break
+		
 		#print(para)
 		
