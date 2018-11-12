@@ -4,9 +4,7 @@ import requests
 import urllib.parse
 '''
 url = "http://www.livescience.com/36519-diseases-conditions-symptoms-treatments.html"
-
 r  = requests.get(url)
-
 data = r.text
 print (data)
 soup = BeautifulSoup(data, features="html.parser")

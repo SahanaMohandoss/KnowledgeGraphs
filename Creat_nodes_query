@@ -12,9 +12,9 @@ LOAD CSV WITH HEADERS FROM "file:///medications.csv" AS line MERGE (patient:Pati
 LOAD CSV WITH HEADERS FROM "file:///procedures.csv" AS line MERGE (patient:Patient{Name:line.PATIENT})  MERGE (procedure:Patient{procedure_name:line.DESCRIPTION}) MERGE (disease:Patient{disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")})  MERGE (patient)-[:has_procedure{date:line.DATE, disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}]-(procedure)  MERGE (disease)-[:needs_procedure]-(procedure)
 
 
-LOAD CSV WITH HEADERS FROM "file:///observations.csv" AS line MERGE (patient:Patient{Name:line.PATIENT})  MERGE (observation:Patient{observation_name:coalesce(line.REASONDESCRIPTION,"Unknown"), observation_value:coalesce(line.VALUE,"Unknown"), observation_unit:coalesce(line.UNITS,"Unknown")} )  MERGE (patient)-[:has_observation{date:line.DATE}]-(observation) 
+LOAD CSV WITH HEADERS FROM "file:///observations.csv" AS line MERGE (patient:Patient{Name:line.PATIENT})  MERGE (observation:Patient{observation_name:coalesce(line.DESCRIPTION,"Unknown"), observation_value:coalesce(line.VALUE,"Unknown"), observation_unit:coalesce(line.UNITS,"Unknown")} )  MERGE (patient)-[:has_observation{date:line.DATE}]-(observation) 
 
-LOAD CSV WITH HEADERS FROM "file:///immunizations.csv" AS line MERGE (patient:Patient{Name:line.PATIENT})  MERGE (vaccine:Patient{observation_name:coalesce(line.DESCRIPTION,"Unknown")  MERGE (patient)-[:has_immunization{date:line.DATE}]-(vaccine) 
+LOAD CSV WITH HEADERS FROM "file:///immunizations.csv" AS line MERGE (patient:Patient{Name:line.PATIENT})  MERGE (vaccine:Patient{vaccine_name:coalesce(line.DESCRIPTION,"Unknown")})  MERGE (patient)-[:has_immunization{date:line.DATE}]-(vaccine) 
 
 
 LOAD CSV WITH HEADERS FROM "file:///careplans.csv" AS line MERGE (patient:Patient{Name:line.PATIENT}) MERGE (careplan:Patient{careplan_name:line.DESCRIPTION}) MERGE (disease:Patient{disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}) MERGE (patient)-[:needs_careplan{start_date:line.START , end_date:coalesce(line.STOP,"Unknown"),  disease_name:coalesce(line.REASONDESCRIPTION,"Unknown")}]-(careplan) MERGE (careplan)-[:for_disease]-(disease)
